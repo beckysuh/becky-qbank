@@ -1,0 +1,110 @@
+pr-dhp	1	Why do dihydropyridine calcium channel blockers have less effect on AV conduction?	Non-dihydropyridine|vascular smooth muscle	Verapamil|Nifedipine	verapamil|nifedipine	clarify
+svt-filling	1	Why can SVT cause hypotension?	Diastole is preferentially|cardiac output	diastolic filling time|diastole is shortened		ready-existing
+age-aortic-stiffness	1	What age-related aortic change raises systolic pressure and pulse pressure?	aortic stiffening|arterial compliance	pulse pressure|elderly		verify
+age-lvh	1	Why can mild left ventricular hypertrophy develop with aging?	hypertrophy|afterload	left ventricular hypertrophy|LVH		verify
+age-myocytes	1	How does the number of cardiomyocytes change with normal aging?	aging|lipofuscin	aging|lipofuscin		verify
+age-max-co	1	How does maximal cardiac output change with aging?	cardiac output|aging	aging|cardiac output		verify
+age-baroreflex	1	How does baroreceptor sensitivity change with aging?	Baroreceptors|baroreceptor	baroreceptor|aging		verify
+pe-rv	1	Which ventricular chamber can acutely dilate after a large pulmonary embolism?	pulmonary embolism|right ventricle	pulmonary embolism|cor pulmonale		clarify
+pda-bounding	1	Why does a PDA cause bounding pulses?	Patent ductus|pulse pressure	Patent ductus|bounding		verify
+flutter-isthmus	1	Where is the re-entry circuit of typical atrial flutter located?	Atrial flutter|reentry	Atrial flutter|cavotricuspid		verify
+Dobutamine-oxygen	1	Why can dobutamine increase myocardial oxygen demand?	Dobutamine|Myocardial oxygen	Dobutamine	Dobutamine	correction-required
+pericarditis-etiology	1	What is the most common cause category of acute pericarditis in developed settings?	Pericarditis|viral	Pericarditis|viral		verify
+pulsus-paradoxus	1	What finding is indicated by a respiratory difference greater than 10 mm Hg in Korotkoff-sound pressures?	pulsus paradoxus|tamponade	pulsus paradoxus		verify
+marfan-media	1	What aortic-wall change predisposes patients with Marfan syndrome to dissection?	Marfan|medial	Marfan|medial necrosis		verify
+rv-recovery-afterload	1	What lower pressure load helps the right ventricle recover after an infarct?	right ventricle|coronary blood flow	coronary blood flow|right ventricle		clarify
+rv-recovery-perfusion	1	During which phases can the right ventricle receive coronary perfusion?	Coronary blood flow|diastole	coronary blood flow|systole		clarify
+rv-recovery-mass	1	How does right ventricular muscle mass contribute to its lower oxygen demand?	Myocardial oxygen|ventricle	myocardial|right ventricle		clarify
+dissection-htn	1	What major acquired risk factor predisposes to aortic dissection?	aortic dissection|hypertension	dissection|HTN		verify
+digoxin-direct	1	What membrane pump does digoxin directly inhibit?	Digitalis|Digoxin	Digoxin	Digoxin	clarify
+chagas-dilation	1	Cardiomyopathy with gastrointestinal dilation suggests which infection?	Trypanosoma cruzi|Chagas	Chagas		verify
+chagas-vector	1	Which insect transmits Trypanosoma cruzi?	triatomine|reduviid|Trypanosoma	Chagas		verify
+chagas-geography	1	Which geographic exposure supports a diagnosis of Chagas disease?	Trypanosoma cruzi|Chagas	Chagas		verify
+hypokinesis	1	Regional ventricular hypokinesis suggests what underlying myocardial process?	hypokinesis|ischemia	ischemia|MI		clarify
+lvot-gradient	2	What does an elevated LV outflow-tract gradient indicate in hypertrophic cardiomyopathy?	Hypertrophic cardiomyopathy|outflow	HOCM|outflow tract		clarify
+pda-close	2	Which drug mechanism promotes closure of a PDA?	indomethacin|ductus arteriosus	indomethacin|PDA	indomethacin|ibuprofen	verify
+pda-open	2	Which prostaglandin drug is used to maintain a PDA in ductal-dependent heart disease?	alprostadil|PGE1|ductus arteriosus	prostaglandin|PDA	alprostadil	correction-required
+hf-raas	2	Why does reduced renal perfusion in heart failure increase afterload?	Heart failure|angiotensin	ACE inhibitor|angiotensin		verify
+tof-boot	2	Which congenital heart defect produces a boot-shaped heart?	Tetralogy|boot	Tetralogy|boot		verify
+aspirin-intolerance	2	Which antiplatelet can be used for CAD when aspirin cannot be tolerated?	Clopidogrel	clopidogrel	clopidogrel|aspirin	verify
+atherosclerosis-growth	2	Which cells release factors that recruit smooth muscle in atherosclerosis?	Atherosclerosis|PDGF	atherosclerosis|smooth muscle		verify
+nitrate-veins	2	Which vascular compartment is predominantly dilated by nitrates?	Nitrates|venodilation	Nitrates|venodilatation	nitroglycerin|isosorbide	verify
+cvi-valves	2	What primary defect causes chronic venous insufficiency?	venous insufficiency|varicose	venous insufficiency		verify
+cvi-hemosiderin	2	What pigment causes lower-leg discoloration in chronic venous insufficiency?	hemosiderin|venous	venous insufficiency|hyperpigmentation		verify
+flows-equal	2	How do systemic and pulmonary blood flow compare at steady state without a shunt?	cardiac output|pulmonary circulation	pulmonary circulation|cardiac output		clarify
+txa2-platelets	2	How does thromboxane A2 affect platelet aggregation?	thromboxane|TXA2	thromboxane|platelet	aspirin	clarify
+prostacyclin-platelets	2	How does prostacyclin affect platelet aggregation?	prostacyclin|PGI2	prostacyclin|platelet		clarify
+fibrinolytic-bleed	2	What intracranial complication can follow fibrinolytic treatment?	Fibrinolytics|hemorrhage	fibrinolytic|thrombolytic|hemorrhage	alteplase	verify
+tet-spell-shunt	2	Why can a child with tetralogy become more cyanotic during feeding?	Tetralogy|cyanosis	Tetralogy|cyanosis		clarify
+tet-spell-murmur	2	Why can the murmur become softer during a tet spell?	Tetralogy|outflow	Tetralogy|murmur		verify
+ischemia-calcium	2	How can ATP depletion during ischemia increase intracellular calcium?	ATP depletion|calcium influx	ischemia|calcium		correction-required
+hcm-histology	2,3	What myocardial histology characterizes hypertrophic cardiomyopathy?	Hypertrophic cardiomyopathy|disarray	HOCM|disarray		verify
+marfan-valve	2,20	Which mitral valve abnormality is associated with Marfan syndrome?	Mitral valve prolapse|Marfan	Mitral valve prolapse		verify
+dcm-lvedp	2	Why can left ventricular end-diastolic pressure rise in dilated cardiomyopathy?	Dilated cardiomyopathy|LVEDP	Dilated|LVEDP		clarify
+pregnancy-co	2	How does cardiac output change during normal pregnancy?	pregnancy|cardiac output	pregnancy|S3		verify
+pregnancy-svr	2	Why does systemic vascular resistance fall during pregnancy?	pregnancy|resistance	pregnancy|resistance		verify
+class3	2	Potassium channel-blocking antiarrhythmics belong to which class?	potassium channel|class III	Amiodarone|type III	amiodarone	ready-existing
+postmi-vf	2	Which arrhythmia commonly causes sudden death after MI?	Ventricular fibrillation|sudden cardiac death	Most common cause of death due to MI		clarify
+cardiogenic-contractility	2	What pump abnormality causes cardiogenic shock after a large MI?	cardiogenic shock|contractility	cardiogenic shock		verify
+vf-instability	2	What type of instability causes ventricular fibrillation after ischemic injury?	Ventricular fibrillation|arrhythmias	ventricular fibrillation|arrhythmias		verify
+sepsis-ci	2	What happens to cardiac index in typical early hyperdynamic septic shock?	Septic shock|distributive	septic shock		clarify
+sepsis-svo2	2	Why can mixed venous oxygen saturation be elevated in septic shock?	Septic shock|mixed venous	septic shock		clarify
+freewall-tamponade	3	MI followed several days later by JVD, hypotension, and clear lungs suggests which rupture complication?	free wall rupture|tamponade	free-wall rupture|tamponade		verify
+tg-moderate	3	What is the basic approach to moderate hypertriglyceridemia without a pancreatitis-level elevation?	Fibrates|Statins	Statins|Fibrates	statins	clinical-context
+tg-severe	3	Which drug class is used to lower very high triglycerides and reduce pancreatitis risk?	Fibrates	Fibrates	fenofibrate|gemfibrozil	clinical-context
+fibrates-receptor	3	Which nuclear receptor is activated by fibrates?	PPAR|Fibrates	Fibrates	fenofibrate|gemfibrozil	verify
+fibrates-lpl	3	Which enzyme is upregulated by fibrates to clear triglyceride-rich lipoproteins?	Lipoprotein lipase|Fibrates	Fibrates	fenofibrate|gemfibrozil	verify
+fibrates-oxidation	3	How do fibrates affect fatty acid oxidation?	PPAR|Fibrates	Fibrates	fenofibrate|gemfibrozil	verify
+fibrates-vldl	3	How do fibrates affect hepatic VLDL production?	Fibrates|VLDL	Fibrates	fenofibrate|gemfibrozil	verify
+fibrates-gallstones	3	Why can fibrates cause cholesterol gallstones?	Fibrates|gallstones	Fibrates	fenofibrate|gemfibrozil	verify
+fibrates-myopathy	3	What skeletal-muscle toxicity can occur with fibrates?	Fibrates|myopathy	Fibrates	fenofibrate|gemfibrozil	verify
+fibrates-liver	3	What hepatic toxicity should be considered with fibrates?	Fibrates|hepatotoxicity	Fibrates	fenofibrate|gemfibrozil	verify
+tg-1000	3	Which additional measures are considered when triglycerides are at least 1000 mg/dL?	Fibrates|omega	Fibrates|fish oil	fenofibrate|omega-3	clinical-context
+niacin-outcomes	3	Why is niacin not routinely added to effective statin therapy for cardiovascular event prevention?	Niacin	Niacin	niacin	clinical-context
+niacin-flush	3	What mediator causes niacin-associated flushing?	Niacin|prostaglandin	Niacin	niacin	verify
+niacin-aspirin	3	Why can aspirin reduce niacin-associated flushing?	Niacin|aspirin	Niacin	niacin|aspirin	verify
+hydralazine-edema	3	Why can hydralazine cause sodium and water retention?	Hydralazine	Hydralazine	hydralazine	verify
+alpha1-sbp	3	How does a selective alpha-1 agonist affect systolic blood pressure?	Phenylephrine|α1	alpha-1|phenylephrine	phenylephrine	verify
+alpha1-dbp	3	How does a selective alpha-1 agonist affect diastolic blood pressure?	Phenylephrine|α1	alpha-1|phenylephrine	phenylephrine	verify
+alpha1-hr	3	Why does a selective alpha-1 agonist cause reflex bradycardia?	Phenylephrine|reflex bradycardia	phenylephrine|baroreceptor	phenylephrine	verify
+alpha-block-orthostasis	3	Why can alpha-1 antagonists cause orthostatic hypotension?	orthostatic hypotension|α1	orthostatic|alpha	prazosin	verify
+pacemaker-tricuspid	3	Which valve can be injured by a transvenous pacemaker lead?	Tricuspid regurgitation|pacemaker	Tricuspid regurgitation		verify
+tr-systemic-congestion	3	Why can tricuspid regurgitation cause ascites and liver congestion?	Tricuspid regurgitation|right heart	Tricuspid regurgitation|Right heart failure		verify
+hcm-inheritance	3	What inheritance pattern is typical of sarcomeric hypertrophic cardiomyopathy?	Hypertrophic cardiomyopathy	HOCM		verify
+bb-glucagon	3	Which hormone can increase cardiac cAMP independently of beta receptors in beta-blocker toxicity?	glucagon|β-blocker overdose	glucagon	glucagon|beta-blockers	verify
+mi-collagen-early	4	Which collagen type is laid down early in wound repair?	type III|Wound healing	fibrosis|granulation		correction-required
+mi-collagen-late	4	Which collagen type predominates in a mature myocardial scar?	type I|Wound healing	fibrosis|scar		correction-required
+mi-healing-timing	4	When does granulation tissue typically become prominent after an MI?	myocardial infarction|granulation	MI|fibrosis		correction-required
+birth-svr	4	Why does systemic vascular resistance increase after cord clamping?	fetal circulation|placenta	fetal circulation|PDA		verify
+isoproterenol-receptor	4	Is isoproterenol a beta agonist or beta blocker?	Isoproterenol	Isoproterenol	isoproterenol	correction-required
+hyperk-calcium	4	Which drug stabilizes the myocardium in severe hyperkalemia with ECG changes?	calcium gluconate	calcium gluconate	calcium gluconate	ready-existing
+afib-remodeling	4	Why does atrial fibrillation make future atrial fibrillation more likely?	atrial fibrillation|remodeling	Atrial fibrillation		verify
+afib-risk	4	Which common age-related cardiovascular condition predisposes to atrial fibrillation?	atrial fibrillation|hypertension	Atrial fibrillation|HTN		verify
+statin-enzyme	4	Which enzyme is inhibited by statins?	HMG-CoA reductase|Statins	Statins	atorvastatin|simvastatin	verify
+statin-ldlr	4	Why do statins increase hepatic uptake of LDL?	LDL receptors|Statins	Statins	atorvastatin|simvastatin	verify
+statin-muscle	4	Diffuse muscle pain and elevated CK after starting lipid therapy suggest which adverse effect?	Statins|myopathy	Statins	atorvastatin|simvastatin	verify
+statin-liver	4	What laboratory abnormality can signal statin-associated hepatic injury?	Statins|hepatotoxicity	Statins	atorvastatin|simvastatin	verify
+statin-cyp	4	Why can a CYP inhibitor increase toxicity from a susceptible statin?	Statins|CYP	Statins	atorvastatin|simvastatin	clarify
+statin-severe-ldl	4	What statin intensity is generally used for marked primary LDL elevation in an eligible adult?	Statins|190	Statins	atorvastatin|rosuvastatin	clinical-context
+statin-secondary	4	What statin intensity is generally favored for an eligible patient with prior MI?	Statins|myocardial infarction	Statins	atorvastatin|rosuvastatin	clinical-context
+b12-overstatement	4	Should the statement that B12 deficiency never causes cardiovascular symptoms be used as an absolute rule?	B12|anemia	beriberi		correction-required
+wet-beriberi	4	High-output heart failure with edema and polyneuropathy suggests deficiency of which vitamin?	Beriberi|thiamine	Beriberi	thiamine	verify
+rhf-hydrostatic	4	What happens to venous capillary hydrostatic pressure in right-sided heart failure?	Starling|hydrostatic pressure	Right heart failure|hydrostatic		verify
+rhf-oncotic	4	Does uncomplicated right-sided heart failure require reduced plasma oncotic pressure to cause edema?	oncotic pressure|Starling	Right heart failure|hydrostatic		clarify
+rhf-permeability	4	Is increased capillary permeability required for heart-failure-related edema?	Starling|transudate	Right heart failure|transudation		clarify
+verapamil-muscle	4	Why does blocking extracellular calcium entry affect cardiac contraction more than skeletal contraction?	skeletal muscle|calcium-induced	Verapamil	verapamil	verify
+age-sigmoid	4	What age-related ventricular shape change can produce a sigmoid septum?	aging|hypertrophy	aging|lipofuscin		verify
+age-lipofuscin	4	What yellow-brown pigment accumulates in aging cardiomyocytes?	Lipofuscin	Lipofuscin		verify
+cocaine-coronary	4	What vascular effect of cocaine can precipitate myocardial ischemia?	cocaine|vasospasm	cocaine	cocaine	verify
+tca-arrhythmia	6	Which cardiac ion channel blockade contributes to life-threatening TCA toxicity?	Tricyclic|Na+ channel	tricyclic|TCA	amitriptyline	verify
+tca-bicarbonate	6	Which treatment is used for TCA toxicity with QRS widening?	sodium bicarbonate|Tricyclic	tricyclic|TCA	amitriptyline|sodium bicarbonate	clarify
+cocaine-reuptake	10,12	What synaptic mechanism explains cocaine's sympathetic cardiovascular effects?	cocaine|reuptake	cocaine	cocaine	verify
+nimodipine	10,11,12	Which calcium channel blocker improves outcomes after aneurysmal subarachnoid hemorrhage?	Nimodipine	Nimodipine|Verapamil	nimodipine	clarify
+right-carotid-path	12	Which artery lies between the aortic arch and the right common carotid artery?	Brachiocephalic|common carotid	carotid		verify
+left-carotid-path	13	Does the left common carotid artery normally arise from the brachiocephalic trunk?	Brachiocephalic|common carotid	carotid		verify
+congenital-down-asd	19	Which syndrome is associated with atrial and ventricular septal defects?	Down syndrome|atrial septal	Down|ASD		clarify
+congenital-turner-bav	20	Which chromosomal syndrome is associated with bicuspid aortic valve?	Turner|bicuspid	bicuspid|Turner		verify
+mitral-stenosis-rheumatic	20	What acquired disease is the classic cause of mitral stenosis?	Mitral stenosis	Mitral stenosis		clarify
+mvp-connective	20	Which connective-tissue disorders predispose to mitral valve prolapse?	Mitral valve prolapse|Ehlers	Mitral valve prolapse		merge-marfan-valve
+pda-rubella	20	Which congenital infection is associated with PDA?	Rubella|ductus	congenital rubella|PDA		verify
+congenital-down-vsd	20	Which chromosomal syndrome is associated with ventricular septal defect?	Down syndrome|ventricular septal	Down|VSD		merge-congenital-down-asd

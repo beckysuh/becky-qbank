@@ -1,0 +1,1192 @@
+{
+  "fa-ccb": {
+    "title": "First Aid 2017",
+    "page": "p. 304 \u00b7 PDF p. 325 \u00b7 Calcium channel blockers",
+    "image": "fa-ccb",
+    "alt": "Calcium channel blockers",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-ccb.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "9d9ee91c16a78911da3ab7e806463ab9c7ee1647b4835e4e574b6ce49ccb444f"
+  },
+  "fa-co": {
+    "title": "First Aid 2017",
+    "page": "p. 272 \u00b7 PDF p. 293 \u00b7 Cardiac output and pulse pressure",
+    "image": "fa-co",
+    "alt": "Cardiac output and pulse pressure",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-co.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "ba217f5503bf152002626df58df51a762f45a3b6c54c0a2069c06b94ba61133f"
+  },
+  "fa-afterload": {
+    "title": "First Aid 2017",
+    "page": "p. 273 \u00b7 PDF p. 294 \u00b7 Preload, afterload and hypertrophy",
+    "image": "fa-afterload",
+    "alt": "Preload, afterload and hypertrophy",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-afterload.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "a586417c71772b42bd3c5ee04ecbd55f9a2aca376e0625522878815011e63324"
+  },
+  "fa-oxygen": {
+    "title": "First Aid 2017",
+    "page": "p. 273 \u00b7 PDF p. 294 \u00b7 Myocardial oxygen demand",
+    "image": "fa-oxygen",
+    "alt": "Myocardial oxygen demand",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-oxygen.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "7d40e31f833cba9c90f2dac7506beaac2cdf77d49be9110a5f98028dd4ef9050"
+  },
+  "fa-aging": {
+    "title": "First Aid 2017",
+    "page": "p. 213 \u00b7 PDF p. 234 \u00b7 Lipofuscin and cellular aging",
+    "image": "fa-aging",
+    "alt": "Lipofuscin and cellular aging",
+    "context": "Related aging context; not a direct statement about cardiomyocyte number.",
+    "path": "work/cardio-expansion/assets/fa-aging.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "724ee6c61cb29d4bca9c8a41e4fb745b613b99cf241f4cb4c606b674ca355bde"
+  },
+  "fa-baroreflex": {
+    "title": "First Aid 2017",
+    "page": "p. 285 \u00b7 PDF p. 306 \u00b7 Baroreceptors and chemoreceptors",
+    "image": "fa-baroreflex",
+    "alt": "Baroreceptors and chemoreceptors",
+    "context": "Baroreflex physiology; the age-specific change is not stated here.",
+    "path": "work/cardio-expansion/assets/fa-baroreflex.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "7e7148b16d4e17aff2006c3f0fc77a1aa0369d832183c24a8774a176a7500ac1"
+  },
+  "fa-pe": {
+    "title": "First Aid 2017",
+    "page": "p. 637 \u00b7 PDF p. 658 \u00b7 Pulmonary emboli",
+    "image": "fa-pe",
+    "alt": "Pulmonary emboli",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pe.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "38549b0d543017a5e0e97ea93b6c11aecb15047039659d93e61a5d81893e253f"
+  },
+  "fa-rhf": {
+    "title": "First Aid 2017",
+    "page": "p. 298 \u00b7 PDF p. 319 \u00b7 Heart failure",
+    "image": "fa-rhf",
+    "alt": "Heart failure",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-rhf.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "7e28c7e9ed9d26efbdb3e04b18d80dc0f7e3030b0472d4c64cc572896362bba9"
+  },
+  "fa-pda": {
+    "title": "First Aid 2017",
+    "page": "p. 289 \u00b7 PDF p. 310 \u00b7 Patent ductus arteriosus",
+    "image": "fa-pda",
+    "alt": "Patent ductus arteriosus",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pda.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "0d7bd1e96b67c0e487c95010f8ae52e342a864da9d658d6481c2320a9e5c51cf"
+  },
+  "fa-flutter": {
+    "title": "First Aid 2017",
+    "page": "p. 284 \u00b7 PDF p. 305 \u00b7 Atrial flutter",
+    "image": "fa-flutter",
+    "alt": "Atrial flutter",
+    "context": "Recognition and ECG; the cavotricuspid anatomy is not specified.",
+    "path": "work/cardio-expansion/assets/fa-flutter.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "2be3208d2d32a98be7f6d89483fbd22ae31f85f687ffbd5467fa0fa925b2d946"
+  },
+  "fa-beta-agonists": {
+    "title": "First Aid 2017",
+    "page": "p. 234 \u00b7 PDF p. 255 \u00b7 Sympathomimetics: dobutamine",
+    "image": "fa-beta-agonists",
+    "alt": "Sympathomimetics: dobutamine",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-beta-agonists.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "98c48b5f2af9fa474a980ce848b5f38abdeea5c612fc65b0e90b45c671403254"
+  },
+  "fa-pericarditis": {
+    "title": "First Aid 2017",
+    "page": "p. 300 \u00b7 PDF p. 321 \u00b7 Acute pericarditis",
+    "image": "fa-pericarditis",
+    "alt": "Acute pericarditis",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pericarditis.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "28bfd793ef2ea276b07505e03a3c38ee57d742e79ae0b54a1d3996fb4c14af4e"
+  },
+  "fa-tamponade": {
+    "title": "First Aid 2017",
+    "page": "p. 300 \u00b7 PDF p. 321 \u00b7 Cardiac tamponade and pulsus paradoxus",
+    "image": "fa-tamponade",
+    "alt": "Cardiac tamponade and pulsus paradoxus",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tamponade.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "fcccb4141655c42f42d0c0bbc58c0816fc765f54cac5ddfc173f202928c23c45"
+  },
+  "fa-marfan": {
+    "title": "First Aid 2017",
+    "page": "p. 48 \u00b7 PDF p. 69 \u00b7 Elastin and Marfan syndrome",
+    "image": "fa-marfan",
+    "alt": "Elastin and Marfan syndrome",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-marfan.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "87eed359a43940cf835c612aee1edea02cd3a9594f98a461c8b408a4ae1b2e64"
+  },
+  "fa-aneurysm": {
+    "title": "First Aid 2017",
+    "page": "p. 292 \u00b7 PDF p. 313 \u00b7 Thoracic aortic aneurysm and medial degeneration",
+    "image": "fa-aneurysm",
+    "alt": "Thoracic aortic aneurysm and medial degeneration",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-aneurysm.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "3d2bb87509c683648c4684c2aae1bb8ed8ee4c6e5450286d39e9114c1932e00c"
+  },
+  "fa-coronary": {
+    "title": "First Aid 2017",
+    "page": "p. 271 \u00b7 PDF p. 292 \u00b7 Coronary artery anatomy",
+    "image": "fa-coronary",
+    "alt": "Coronary artery anatomy",
+    "context": "Related coronary anatomy; this page does not state the RV-specific systolic/diastolic distinction.",
+    "path": "work/cardio-expansion/assets/fa-coronary.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "a6dc85b39844f849a7cf071f1b17f4f140d6dfd49d98be14d2a7cceab5e03dc9"
+  },
+  "fa-dissection": {
+    "title": "First Aid 2017",
+    "page": "p. 293 \u00b7 PDF p. 314 \u00b7 Aortic dissection",
+    "image": "fa-dissection",
+    "alt": "Aortic dissection",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-dissection.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "304bac97265ba2f09b2187ef9962ef9f62c15f862fdbeaefbb3f97c74830ad28"
+  },
+  "fa-digoxin": {
+    "title": "First Aid 2017",
+    "page": "p. 307 \u00b7 PDF p. 328 \u00b7 Cardiac glycosides: digoxin",
+    "image": "fa-digoxin",
+    "alt": "Cardiac glycosides: digoxin",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-digoxin.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "7c4786cea2f2fb6258a987550f2d0a1f67f28de64f654a531610d3bb4d86bd32"
+  },
+  "fa-chagas": {
+    "title": "First Aid 2017",
+    "page": "p. 154 \u00b7 PDF p. 175 \u00b7 Trypanosoma cruzi: cardiomyopathy and GI dilation",
+    "image": "fa-chagas",
+    "alt": "Trypanosoma cruzi: cardiomyopathy and GI dilation",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-chagas.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "9bf8874026a9e60066c54c710c875c23ce4e0bc4c3a92f7bc2b64a48826e5277"
+  },
+  "hy-nifedipine": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 38 \u00b7 complete Nifedipine box",
+    "image": "hy-nifedipine",
+    "alt": "Complete Nifedipine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-nifedipine.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "25faafe1fc927367e56ebc80eaae14f462477f2b8de1741fb20a5194b04af2d6"
+  },
+  "hy-verapamil": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 38 \u00b7 complete Verapamil box",
+    "image": "hy-verapamil",
+    "alt": "Complete Verapamil box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-verapamil.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "cef234cb313def06ceb20ab915a5836a5c670713a1d2f9fc50e2ee2f53fbd924"
+  },
+  "hy-hocm": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 27 \u00b7 complete HOCM box",
+    "image": "hy-hocm",
+    "alt": "Complete HOCM box, including all text, labels and figures",
+    "context": "The rate/filling statement appears within the HOCM discussion.",
+    "path": "work/cardio-expansion/assets/hy-hocm.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "27666320bcfee5cc97461e0bf158e869192c5125f7a90be1a320d88eb93b2064"
+  },
+  "hy-beta": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 38\u201339 \u00b7 complete beta-blocker box",
+    "image": "hy-beta",
+    "alt": "Complete beta-blocker box, including all text, labels and figures",
+    "context": "The slowing-HR/filling relationship appears within the beta-blocker discussion.",
+    "path": "work/cardio-expansion/assets/hy-beta.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "121db9c02f21f42b5d58bd037089d00d837ab57c7afa458400113368aa9be2c3"
+  },
+  "hy-cor-pulmonale": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 3\u20134 \u00b7 complete cor pulmonale box",
+    "image": "hy-cor-pulmonale",
+    "alt": "Complete cor pulmonale box, including all text, labels and figures",
+    "context": "Related RV afterload/pulmonary-pressure context; not PE-specific.",
+    "path": "work/cardio-expansion/assets/hy-cor-pulmonale.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "4a0ac8834968f9ef4417ba8f894461eebcee935cd7156cc627a04c221673c570"
+  },
+  "hy-pda": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 9\u201310 \u00b7 complete PDA box",
+    "image": "hy-pda",
+    "alt": "Complete PDA box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-pda.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "0846199bc66fe474d759e7f837812936c2b3509946c315c4e2c6b229742a7a90"
+  },
+  "hy-flutter": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 17\u201318 \u00b7 complete atrial flutter box",
+    "image": "hy-flutter",
+    "alt": "Complete atrial flutter box, including all text, labels and figures",
+    "context": "Recognition and ECG; the cavotricuspid isthmus is not described in this box.",
+    "path": "work/cardio-expansion/assets/hy-flutter.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "ddaaab3013a1f3c79be0675a92443c3c60b27d7a171c982899fb0ff0dcfd6a0a"
+  },
+  "hy-dobutamine": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 39 \u00b7 complete Dobutamine box",
+    "image": "hy-dobutamine",
+    "alt": "Complete Dobutamine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-dobutamine.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "0f234e9e173f460b0739410a8082032524e5c697056c2840b9884544c4379c46"
+  },
+  "hy-pericarditis": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 22 \u00b7 complete Pericarditis box",
+    "image": "hy-pericarditis",
+    "alt": "Complete Pericarditis box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-pericarditis.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "047e708f0a05e6bce5d0279e65e7fa28040b11a0d08921e60a62ef219ec3ae31"
+  },
+  "hy-tamponade": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 23 \u00b7 complete pericardial effusion / cardiac tamponade box",
+    "image": "hy-tamponade",
+    "alt": "Complete pericardial effusion / cardiac tamponade box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-tamponade.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "025654965ddf5f9764b16b73d56e4b8b55961d5d88ab2ee03757f4c432b2292b"
+  },
+  "hy-dissection": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 13\u201314 \u00b7 complete aortic dissection box",
+    "image": "hy-dissection",
+    "alt": "Complete aortic dissection box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-dissection.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "175f6e0eea26dc86cf46a264854ffea3c1aa651569fcffc6ea80166e37e7f71d"
+  },
+  "hy-digoxin": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 39 \u00b7 complete Digoxin box",
+    "image": "hy-digoxin",
+    "alt": "Complete Digoxin box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-digoxin.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "113f9bd3f3d847206cf2a9844fcea36e4da6da63c4794bd306290b78fe0ebc32"
+  },
+  "hy-dcm": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 26\u201327 \u00b7 complete dilated cardiomyopathy box",
+    "image": "hy-dcm",
+    "alt": "Complete dilated cardiomyopathy box, including all text, labels and figures",
+    "context": "Chagas is listed as a cause; First Aid supplies the GI-dilation connection.",
+    "path": "work/cardio-expansion/assets/hy-dcm.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "80b661f20d77a9560fa44232a1e3803cbc3c3515ad8e62ef619d342cd75e1625"
+  },
+  "pharm-dobutamine": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 10 \u00b7 Dobutamine \u00b7 adrenergic agonists",
+    "image": "pharm-dobutamine",
+    "alt": "Dobutamine \u00b7 adrenergic agonists",
+    "path": "work/cardio-expansion/assets/pharm-dobutamine.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "a10f50bda3d84f50d5283bdffb7b0592f1a4fa0dbea8ef8cd139c3a88c437ae1"
+  },
+  "pharm-digoxin": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 30 \u00b7 Digoxin \u00b7 full mnemonic scene",
+    "image": "pharm-digoxin",
+    "alt": "Digoxin \u00b7 full mnemonic scene",
+    "path": "work/cardio-expansion/assets/pharm-digoxin.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "2ac91226e071d16f651e5026f0605251299d65b51e8fb6218147f6142e8a1048"
+  },
+  "pharm-ccb-batch1": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 24 \u00b7 Calcium channel blockers \u00b7 full mnemonic scene",
+    "image": "pharm-ccb-batch1",
+    "alt": "Calcium channel blockers \u00b7 full mnemonic scene",
+    "path": "work/cardio-expansion/assets/pharm-ccb-batch1.jpg",
+    "catalogFile": "work/cardio-expansion/batch1-assets.json",
+    "sha256": "c6f158c2354ae0071b2e5c8e0d623f0497a2e6d5aac2a9ab12db9ea73ea0e10a"
+  },
+  "fa-ischemic-heart": {
+    "title": "First Aid 2017",
+    "page": "p. 293 \u00b7 PDF p. 314 \u00b7 Ischemic heart disease manifestations",
+    "image": "fa-ischemic-heart",
+    "alt": "Ischemic heart disease manifestations",
+    "context": "Ischemia/infarction context; the wall-motion term hypokinesis is not used here.",
+    "path": "work/cardio-expansion/assets/fa-ischemic-heart.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "6a9d68436e7db772eb777fbfa9bc261efd28ada1548ed735a8f333768cae5aad"
+  },
+  "fa-hcm": {
+    "title": "First Aid 2017",
+    "page": "p. 297 \u00b7 PDF p. 318 \u00b7 Hypertrophic cardiomyopathy, histology and outflow obstruction",
+    "image": "fa-hcm",
+    "alt": "Hypertrophic cardiomyopathy, histology and outflow obstruction",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-hcm.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "51b6a05bbab2cc90071cc87fc4181a7f97682603377e134211e3653b587b28d4"
+  },
+  "fa-fetal": {
+    "title": "First Aid 2017",
+    "page": "p. 270 \u00b7 PDF p. 291 \u00b7 Fetal circulation and ductus arteriosus",
+    "image": "fa-fetal",
+    "alt": "Fetal circulation and ductus arteriosus",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-fetal.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "c751658568f85606c8b80ec48c86301d0882747cef4561796500af5f4fc4b558"
+  },
+  "fa-prostaglandins": {
+    "title": "First Aid 2017",
+    "page": "p. 455 \u00b7 PDF p. 476 \u00b7 Arachidonic acid pathway: TXA2, PGI2, PGE1 and drugs",
+    "image": "fa-prostaglandins",
+    "alt": "Arachidonic acid pathway: TXA2, PGI2, PGE1 and drugs",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-prostaglandins.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "a24f45cf0ca8014078117e377058bb7465701dd9d39d239912921e354121cb26"
+  },
+  "fa-hf-raas": {
+    "title": "First Aid 2017",
+    "page": "p. 298 \u00b7 PDF p. 319 \u00b7 Heart failure and compensatory RAAS diagram",
+    "image": "fa-hf-raas",
+    "alt": "Heart failure and compensatory RAAS diagram",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-hf-raas.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "e0737d2402eedd153bb9ac99b58379558ebdb652286af3576effc0317f4192b1"
+  },
+  "fa-tof": {
+    "title": "First Aid 2017",
+    "page": "p. 288 \u00b7 PDF p. 309 \u00b7 Tetralogy of Fallot",
+    "image": "fa-tof",
+    "alt": "Tetralogy of Fallot",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tof.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "0061b21ce0c040a537f0cab316a13096319e9e70572d6fdde5e6a915fe256198"
+  },
+  "fa-adp": {
+    "title": "First Aid 2017",
+    "page": "p. 415 \u00b7 PDF p. 436 \u00b7 ADP receptor inhibitors: clopidogrel",
+    "image": "fa-adp",
+    "alt": "ADP receptor inhibitors: clopidogrel",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-adp.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "10b2f9800ae338b06aade9e4e5532058056e93ca9688ab217677e952739242b4"
+  },
+  "fa-atherosclerosis": {
+    "title": "First Aid 2017",
+    "page": "p. 292 \u00b7 PDF p. 313 \u00b7 Atherosclerosis progression and smooth muscle recruitment",
+    "image": "fa-atherosclerosis",
+    "alt": "Atherosclerosis progression and smooth muscle recruitment",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-atherosclerosis.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "1eebb0fec656d564f85413f7ac36ed2fa612fe99b600805e28d030b6933758a5"
+  },
+  "fa-nitrates": {
+    "title": "First Aid 2017",
+    "page": "p. 305 \u00b7 PDF p. 326 \u00b7 Nitrates: mechanism and effects",
+    "image": "fa-nitrates",
+    "alt": "Nitrates: mechanism and effects",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-nitrates.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "4e111971694cd6fe321029521e83082aa16111541f058f84656c6a5d3bcebded"
+  },
+  "fa-capillary": {
+    "title": "First Aid 2017",
+    "page": "p. 287 \u00b7 PDF p. 308 \u00b7 Capillary fluid exchange and hydrostatic pressure",
+    "image": "fa-capillary",
+    "alt": "Capillary fluid exchange and hydrostatic pressure",
+    "context": "Related edema mechanism, not a direct CVI-valve or pigmentation passage.",
+    "path": "work/cardio-expansion/assets/fa-capillary.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "b481471edd04519cd0bf614e25e504b6ec6eb5664b37809b228181c62c503d38"
+  },
+  "fa-circulation": {
+    "title": "First Aid 2017",
+    "page": "p. 286 \u00b7 PDF p. 307 \u00b7 Normal cardiac pressures and circulation",
+    "image": "fa-circulation",
+    "alt": "Normal cardiac pressures and circulation",
+    "context": "Related adult circulation framework; equal serial flows are inferred, not explicitly stated.",
+    "path": "work/cardio-expansion/assets/fa-circulation.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "22c70659cf3dd81f2405bea99354dc9eccbf436cc6d1e9ec08cccc95698585d6"
+  },
+  "fa-platelets": {
+    "title": "First Aid 2017",
+    "page": "p. 393 \u00b7 PDF p. 414 \u00b7 Platelet plug formation and pro/anti-aggregation factors",
+    "image": "fa-platelets",
+    "alt": "Platelet plug formation and pro/anti-aggregation factors",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-platelets.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "b064ab9fdccea4af0067ad9fe9c73e000e410e6b2a931a28d67b13063366db04"
+  },
+  "fa-thrombolytics": {
+    "title": "First Aid 2017",
+    "page": "p. 415 \u00b7 PDF p. 436 \u00b7 Thrombolytic drugs and bleeding complications",
+    "image": "fa-thrombolytics",
+    "alt": "Thrombolytic drugs and bleeding complications",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-thrombolytics.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "2ff6743f402e4d1a99d7fa26301f3cbf26fcbc4a1095acc792fc48f16600b9c7"
+  },
+  "fa-cell-injury": {
+    "title": "First Aid 2017",
+    "page": "p. 206 \u00b7 PDF p. 227 \u00b7 Cell injury: ATP depletion and pump failure",
+    "image": "fa-cell-injury",
+    "alt": "Cell injury: ATP depletion and pump failure",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-cell-injury.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "aae7a482384759acd4310fcf280683c9a9bf3876f82be3239d507aea144d2975"
+  },
+  "hy-lisinopril": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 40 \u00b7 complete Lisinopril box",
+    "image": "hy-lisinopril",
+    "alt": "Complete Lisinopril box, including all text, labels and figures",
+    "context": "The full drug box illustrates inhibition of the RAAS pathway.",
+    "path": "work/cardio-expansion/assets/hy-lisinopril.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "57f9cdd0d0b16e8747d3e3d4fef40cf0a234397f2d9ac7c2508650d2b5138a7b"
+  },
+  "hy-tof": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 10 \u00b7 complete Tetralogy of Fallot box",
+    "image": "hy-tof",
+    "alt": "Complete Tetralogy of Fallot box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-tof.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "b0b249321cfbd36ef6f177e4230e8b1da735395a5716c277dd439c561ded0d8c"
+  },
+  "hy-athero-mechanism": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 28 \u00b7 complete atherosclerosis mechanism box",
+    "image": "hy-athero-mechanism",
+    "alt": "Complete atherosclerosis mechanism box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-athero-mechanism.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "8752812c32f9f44c29a8f5c76b77ce981b50b173e62130ceaac43fe2faa796e4"
+  },
+  "hy-nitrates": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Nitrates box",
+    "image": "hy-nitrates",
+    "alt": "Complete Nitrates box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-nitrates.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "f25643bb5b50f6991a0f7ce18fcf8840f3b0736bbc7c68f9d353cc4d4d0d597f"
+  },
+  "hy-venous": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 33\u201334 \u00b7 complete venous disease box",
+    "image": "hy-venous",
+    "alt": "Complete venous disease box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-venous.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "eab654b28d82defec559cae2f2f6f039b0af29801cc90c2cdf1e6ab303337c8e"
+  },
+  "hy-antiplatelet-context": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 19\u201322 \u00b7 complete acute MI box",
+    "image": "hy-antiplatelet-context",
+    "alt": "Complete acute MI box, including all text, labels and figures",
+    "context": "The matching aspirin/clopidogrel paragraph is on p. 21; the entire MI box is included.",
+    "path": "work/cardio-expansion/assets/hy-antiplatelet-context.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "81618a1799e62c123fb1dbea7b76833cd9afc426b01fcaf8e5780323773d5902"
+  },
+  "pharm-nsaids": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 40 \u00b7 NSAIDs \u00b7 indomethacin and ibuprofen",
+    "image": "pharm-nsaids",
+    "alt": "NSAIDs \u00b7 indomethacin and ibuprofen \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-nsaids.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "1f105f503c0163ea456da1febf376bef4421bc0d3dda532f1c3cf93f7a83904a"
+  },
+  "pharm-prostaglandins": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 46 \u00b7 Prostaglandins \u00b7 alprostadil and prostacyclin",
+    "image": "pharm-prostaglandins",
+    "alt": "Prostaglandins \u00b7 alprostadil and prostacyclin \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-prostaglandins.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "55adc591682b3626d2e2b6b42ffd9e47569a09d501906068b05bf9e588c359a6"
+  },
+  "pharm-antiplatelets": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 34 \u00b7 Antiplatelets \u00b7 clopidogrel and aspirin",
+    "image": "pharm-antiplatelets",
+    "alt": "Antiplatelets \u00b7 clopidogrel and aspirin \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-antiplatelets.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "a03e1f02e5b1c41e51de7de6eaed67a359ca0d9a7b6661199b4bd89539ed8ab6"
+  },
+  "pharm-nitrates": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 25 \u00b7 Nitrates \u00b7 nitroglycerin",
+    "image": "pharm-nitrates",
+    "alt": "Nitrates \u00b7 nitroglycerin \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-nitrates.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "f9684f827ad9a95fab5c0b68cd701dfc9d05dcd27cb2b566dcc0de85c7670688"
+  },
+  "pharm-thrombolytics": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 35 \u00b7 Fibrinolytics \u00b7 alteplase",
+    "image": "pharm-thrombolytics",
+    "alt": "Fibrinolytics \u00b7 alteplase \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-thrombolytics.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "5806436cd55b788501ed11113af35c903ffad8911947c7555667bb0f2fdaa987"
+  },
+  "pharm-adenosine-batch2": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 30 \u00b7 Adenosine",
+    "image": "pharm-adenosine-batch2",
+    "alt": "Adenosine \u2014 full mnemonic illustration",
+    "path": "work/pharm-images/adenosine.jpg",
+    "catalogFile": "work/cardio-expansion/batch2-assets.json",
+    "sha256": "95954cce8f1c104e4b8cea03e9dfae8bced1b9d5f34b1e389c116139699c7dbd"
+  },
+  "fa-mvp": {
+    "title": "First Aid 2017",
+    "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral valve prolapse and connective-tissue disorders",
+    "image": "fa-mvp",
+    "alt": "Mitral valve prolapse and connective-tissue disorders",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-mvp.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "b66c6d1ee357df928c6e2b3447e39a98bf8d9d72dea537bc11e65e8d753f767d"
+  },
+  "fa-dcm": {
+    "title": "First Aid 2017",
+    "page": "p. 297 \u00b7 PDF p. 318 \u00b7 Dilated cardiomyopathy",
+    "image": "fa-dcm",
+    "alt": "Dilated cardiomyopathy",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-dcm.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "2776314cdbac11054616fb65d49c73f28f1fcb435e68cd2cdf239564e7647412"
+  },
+  "fa-pregnancy": {
+    "title": "First Aid 2017",
+    "page": "p. 598 \u00b7 PDF p. 619 \u00b7 Pregnancy and maternal physiologic adaptations",
+    "image": "fa-pregnancy",
+    "alt": "Pregnancy and maternal physiologic adaptations",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pregnancy.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "aabc1ee124572dfa271b2add14876d1c8a776dad9036af347443d1c71f2e88a3"
+  },
+  "fa-vf": {
+    "title": "First Aid 2017",
+    "page": "p. 284 \u00b7 PDF p. 305 \u00b7 Ventricular fibrillation",
+    "image": "fa-vf",
+    "alt": "Ventricular fibrillation",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-vf.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "460313e22e18c1e9df5db5828a173d9c1e43ffaeca3507f9066b671c0217d720"
+  },
+  "fa-mi-complications": {
+    "title": "First Aid 2017",
+    "page": "p. 296 \u00b7 PDF p. 317 \u00b7 Myocardial infarction complications",
+    "image": "fa-mi-complications",
+    "alt": "Myocardial infarction complications",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-mi-complications.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "224c132099ec5ddaaab2b0a15f6ac4724846d17c0a2f8c65c04e1c7496ad75fb"
+  },
+  "fa-shock": {
+    "title": "First Aid 2017",
+    "page": "p. 299 \u00b7 PDF p. 320 \u00b7 Shock hemodynamics",
+    "image": "fa-shock",
+    "alt": "Shock hemodynamics",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-shock.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "5c90b29ac3a9d87b438f83b5e57203c4bbb1927cb817c5548890968c96dc7e63"
+  },
+  "fa-lipid-agents": {
+    "title": "First Aid 2017",
+    "page": "p. 306 \u00b7 PDF p. 327 \u00b7 Lipid-lowering drugs and mechanisms",
+    "image": "fa-lipid-agents",
+    "alt": "Lipid-lowering drugs and mechanisms",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-lipid-agents.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "ba253b0053b389e495b0176156717e3d72ff6ffd9de3c4438fe8e6238518caf8"
+  },
+  "hy-mvp": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 8 \u00b7 complete Mitral valve prolapse box",
+    "image": "hy-mvp",
+    "alt": "Complete Mitral valve prolapse box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-mvp.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "0d1fb4029a87ee622f8e15c3c4f3d47768d3b63ba2076c65032063736d203667"
+  },
+  "hy-s3s4": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 11 \u00b7 complete S3 versus S4 box",
+    "image": "hy-s3s4",
+    "alt": "Complete S3 versus S4 box, including all text, labels and figures",
+    "context": "Pregnancy is included as physiologic high-volume/S3 context.",
+    "path": "work/cardio-expansion/assets/hy-s3s4.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "5045723c8ab71dd9e5ad1bb362edee160dd28d8d08a9f92f235cb0f01c84659b"
+  },
+  "hy-statins": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Statins box",
+    "image": "hy-statins",
+    "alt": "Complete Statins box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-statins.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "e578c88e34bed46b8d097f0ce694be455b3724da033a0f20e926d9e26c7e6f11"
+  },
+  "hy-fibrates": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Fibrates box",
+    "image": "hy-fibrates",
+    "alt": "Complete Fibrates box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-fibrates.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "305a52be036a1065bec5775ff8d71bffe641f503918c555a768416b29f38177d"
+  },
+  "hy-omega": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 42 \u00b7 complete Omega/fish oils box",
+    "image": "hy-omega",
+    "alt": "Complete Omega/fish oils box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-omega.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "6b183ef17e92c4cf1126e605ae24c4736165249731e8ddf0008d78b9c74e9f69"
+  },
+  "hy-septic-review": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 44 \u00b7 complete septic-shock rapid-review bullet",
+    "image": "hy-septic-review",
+    "alt": "Complete unboxed rapid-review bullet linking high CO, low PCWP and low TPR to septic shock",
+    "path": "work/cardio-expansion/assets/hy-septic-review.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "ffba9e71a5336ab56474c83ac9a472b2fac8639e2b1009d3cbd698e7664180d6"
+  },
+  "pharm-fibrates": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 38 \u00b7 Fibrates, niacin and omega-3s",
+    "image": "pharm-fibrates",
+    "alt": "Fibrates, niacin and omega-3s \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-fibrates.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "c044ab3d17efe0a196ad69238967ceae273e8388ae2e29af3ebb54c1a2e0df35"
+  },
+  "pharm-statins": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 36 \u00b7 Statins",
+    "image": "pharm-statins",
+    "alt": "Statins \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-statins.jpg",
+    "catalogFile": "work/cardio-expansion/batch3-assets.json",
+    "sha256": "6e622638230f80a4e9c62c6e85ef59eedb0c536b8f3ad8dfc8b761d195abdcae"
+  },
+  "fa-alpha-block": {
+    "title": "First Aid 2017",
+    "page": "p. 236 \u00b7 PDF p. 257 \u00b7 Alpha blockers and pressor responses",
+    "image": "fa-alpha-block",
+    "alt": "Alpha blockers and pressor responses",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-alpha-block.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "fa0c794a26059e4303b28b01431cf9d4da33fd1d0d68a4485813eabb6c5b8373"
+  },
+  "fa-sympathomimetics": {
+    "title": "First Aid 2017",
+    "page": "p. 234 \u00b7 PDF p. 255 \u00b7 Sympathomimetic receptor selectivity",
+    "image": "fa-sympathomimetics",
+    "alt": "Sympathomimetic receptor selectivity",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-sympathomimetics.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "c157ce8001124e15b656ac70ce39079b35337482a724cf6939f2966632aa6418"
+  },
+  "fa-hydralazine": {
+    "title": "First Aid 2017",
+    "page": "p. 304 \u00b7 PDF p. 325 \u00b7 Hydralazine mechanism and adverse effects",
+    "image": "fa-hydralazine",
+    "alt": "Hydralazine mechanism and adverse effects",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-hydralazine.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "c53c95b95aa516018917d3d46539b4999d43554604c82870cfc15dbe87c10257"
+  },
+  "fa-tr": {
+    "title": "First Aid 2017",
+    "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral and tricuspid regurgitation",
+    "image": "fa-tr",
+    "alt": "Mitral and tricuspid regurgitation",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tr.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "f159bac42c9d93b4cde00910ae7d8932daa970ad7056fe9a6d64223ff6671509"
+  },
+  "fa-bb-tox": {
+    "title": "First Aid 2017",
+    "page": "p. 309 \u00b7 PDF p. 330 \u00b7 Beta blockers and overdose",
+    "image": "fa-bb-tox",
+    "alt": "Beta blockers and overdose",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-bb-tox.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "d23debc70f838298aa792e6b75c02f66e45b663401bc2323029d5183af60725f"
+  },
+  "fa-wound": {
+    "title": "First Aid 2017",
+    "page": "p. 211 \u00b7 PDF p. 232 \u00b7 Wound healing: type III replaced by type I",
+    "image": "fa-wound",
+    "alt": "Wound healing: type III replaced by type I",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-wound.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "963991a1e6ad82144f3e413f9c1da84f151e5d8a3617e777e64a97c64f07aa01"
+  },
+  "fa-mi-evolution": {
+    "title": "First Aid 2017",
+    "page": "p. 294 \u00b7 PDF p. 315 \u00b7 Evolution of myocardial infarction",
+    "image": "fa-mi-evolution",
+    "alt": "Evolution of myocardial infarction",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-mi-evolution.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "2c7560f36eda59163a3864057896792a9d8448d5abb5941bcdb62ecbfe0121ca"
+  },
+  "fa-af": {
+    "title": "First Aid 2017",
+    "page": "p. 284 \u00b7 PDF p. 305 \u00b7 Atrial fibrillation recognition",
+    "image": "fa-af",
+    "alt": "Atrial fibrillation recognition",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-af.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "4df3b8188ce9fef9c09a998e5271188c42b33a823386417457cb8c6c3c14ba7b"
+  },
+  "fa-htn-af": {
+    "title": "First Aid 2017",
+    "page": "p. 290 \u00b7 PDF p. 311 \u00b7 Hypertension and cardiovascular complications",
+    "image": "fa-htn-af",
+    "alt": "Hypertension and cardiovascular complications",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-htn-af.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "6d24d513f3c60dbb7e2788176a092c363ae9c9798000b7821f72da33032bce06"
+  },
+  "hy-niacin": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 42 \u00b7 complete Niacin box",
+    "image": "hy-niacin",
+    "alt": "Complete Niacin box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-niacin.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "c8368c087543efbf96050dc9bb1308d1b468b292dbb69031f7ba489e181feb21"
+  },
+  "hy-alpha1": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Oxymetazoline / Phenylephrine box",
+    "image": "hy-alpha1",
+    "alt": "Complete Oxymetazoline / Phenylephrine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-alpha1.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "57dc2ab97d903e1b19247866459982c30ea02cff06f7130e2e27f510771151a8"
+  },
+  "hy-isoproterenol": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Isoproterenol box",
+    "image": "hy-isoproterenol",
+    "alt": "Complete Isoproterenol box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-isoproterenol.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "7dede32e542cd722d80f7fa1dc5b865669ca0f3ac02ffb730aff9c35c0d66395"
+  },
+  "hy-hydralazine": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Hydralazine box",
+    "image": "hy-hydralazine",
+    "alt": "Complete Hydralazine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-hydralazine.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "0fcbdba147df49f6f7c9736806f47ed6cf81bd0abaec8d28405782f237d668a1"
+  },
+  "hy-tr": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 9 \u00b7 complete Tricuspid regurgitation box",
+    "image": "hy-tr",
+    "alt": "Complete Tricuspid regurgitation box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-tr.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "c22426dcc24105f810bc6d5c351bf111d8a77f3a7d6ba1b6d63c66a664a8782a"
+  },
+  "hy-af": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 17 \u00b7 complete Atrial fibrillation box",
+    "image": "hy-af",
+    "alt": "Complete Atrial fibrillation box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-af.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "5c1b912d3d2f45550e9b12708e8f9dcab2d6fe21a818cdbe556c920f76bcb60c"
+  },
+  "hy-glucagon-review": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 62 \u00b7 complete beta-blocker-overdose rapid-review bullet",
+    "image": "hy-glucagon-review",
+    "alt": "Complete rapid-review bullet: beta-blocker overdose and glucagon",
+    "path": "work/cardio-expansion/assets/hy-glucagon-review.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "8c3041b8438cf1d33b6bf1b3dd80960915e75197bb18731b55ad427cea7dbce2"
+  },
+  "pharm-alpha1": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 10 \u00b7 Adrenergic agonists \u00b7 phenylephrine and isoproterenol",
+    "image": "pharm-alpha1",
+    "alt": "Adrenergic agonists \u00b7 phenylephrine and isoproterenol \u00b7 full illustration",
+    "path": "work/cardio-expansion/assets/pharm-alpha1.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "a10f50bda3d84f50d5283bdffb7b0592f1a4fa0dbea8ef8cd139c3a88c437ae1"
+  },
+  "pharm-alpha-block": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 13 \u00b7 Alpha blockers \u00b7 prazosin",
+    "image": "pharm-alpha-block",
+    "alt": "Alpha blockers \u00b7 prazosin \u00b7 full illustration",
+    "path": "work/cardio-expansion/assets/pharm-alpha-block.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "cd1e6fa052daacba7cdbbdc10d86dbe3faeae86058b643367f7b315e5b9acad3"
+  },
+  "pharm-beta-block": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 14 \u00b7 Beta blockers \u00b7 glucagon reversal",
+    "image": "pharm-beta-block",
+    "alt": "Beta blockers \u00b7 glucagon reversal \u00b7 full illustration",
+    "path": "work/cardio-expansion/assets/pharm-beta-block.jpg",
+    "catalogFile": "work/cardio-expansion/batch4-assets.json",
+    "sha256": "e1910f0d9ac3f55ff7af5747845887b569953d62c04abc41b3c7e796be12c199"
+  },
+  "fa-b1": {
+    "title": "First Aid 2017",
+    "page": "p. 62 \u00b7 PDF p. 83 \u00b7 Thiamine: wet and dry beriberi",
+    "image": "fa-b1",
+    "alt": "Thiamine: wet and dry beriberi",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-b1.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "28cf2ad4da4d2e172a34722985ec4483338456978a4cffd707bcc854c2623091"
+  },
+  "fa-b12": {
+    "title": "First Aid 2017",
+    "page": "p. 65 \u00b7 PDF p. 86 \u00b7 B12 deficiency: anemia and neurologic findings",
+    "image": "fa-b12",
+    "alt": "B12 deficiency: anemia and neurologic findings",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-b12.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "c16398e5ebf0800dccb5a6014a2779e837e93cf95aef3f6d3081254a9e09e75f"
+  },
+  "fa-tca": {
+    "title": "First Aid 2017",
+    "page": "p. 545 \u00b7 PDF p. 566 \u00b7 Tricyclic antidepressants and overdose",
+    "image": "fa-tca",
+    "alt": "Tricyclic antidepressants and overdose",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tca.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "f35a146a23cf7ef7cf334010b8863da19c10c93acbd90225afeec4abae6b1ad0"
+  },
+  "fa-muscle-coupling": {
+    "title": "First Aid 2017",
+    "page": "p. 433 \u00b7 PDF p. 454 \u00b7 Skeletal muscle contraction and calcium release",
+    "image": "fa-muscle-coupling",
+    "alt": "Skeletal muscle contraction and calcium release",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-muscle-coupling.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "dbfebd346493e0adbb35be3bbb9383984f7a6d4fa0f7fe21c64c8958ce0e82dc"
+  },
+  "fa-congenital-associations": {
+    "title": "First Aid 2017",
+    "page": "p. 290 \u00b7 PDF p. 311 \u00b7 Congenital cardiac defect associations",
+    "image": "fa-congenital-associations",
+    "alt": "Congenital cardiac defect associations",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-congenital-associations.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "d896ba6fc1816285305bdb1845e1307a00e958e9294b43490c56d26933008403"
+  },
+  "fa-ms": {
+    "title": "First Aid 2017",
+    "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral stenosis",
+    "image": "fa-ms",
+    "alt": "Mitral stenosis",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-ms.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "22030f79b07c4f5eecf2c9b2d717e534fb69d8c5b31da5fef5be56efca7a5667"
+  },
+  "fa-arch": {
+    "title": "First Aid 2017",
+    "page": "p. 586 \u00b7 PDF p. 607 \u00b7 Aortic arch derivatives and arterial diagram",
+    "image": "fa-arch",
+    "alt": "Aortic arch derivatives and arterial diagram",
+    "context": "Embryologic anatomy context; not a direct statement of the adult carotid route.",
+    "path": "work/cardio-expansion/assets/fa-arch.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "60f32ea7cef8f9d74d7ce5a544dfd160d04d20991e7e89e2a4f4d81111f79ea6"
+  },
+  "hy-rhf": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 3 \u00b7 complete Right heart failure box",
+    "image": "hy-rhf",
+    "alt": "Complete Right heart failure box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-rhf.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "4cc566db23bfff5482de2543d6ec865baf5afe60acd524f78d3128bc6b551b5e"
+  },
+  "hy-avsd": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 6 \u00b7 complete Atrioventricular septal defect box",
+    "image": "hy-avsd",
+    "alt": "Complete Atrioventricular septal defect box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-avsd.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "3660a852153e9bed645649e30f342fd4286773a5e3624bb39746e7236396ace2"
+  },
+  "hy-ms": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 7 \u00b7 complete Mitral stenosis box",
+    "image": "hy-ms",
+    "alt": "Complete Mitral stenosis box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-ms.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "6e1a4defb32a12fe0f120029a2ce733b8005118ee36682d8db48e8eb368b4cfa"
+  },
+  "hy-as": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 8\u20139 \u00b7 complete Aortic stenosis box",
+    "image": "hy-as",
+    "alt": "Complete Aortic stenosis box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-as.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "3ee67d497970bb1d20182102d00bf3c9017841723614e14723993a10d077fa77"
+  },
+  "hy-lipofuscin-review": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 71 \u00b7 complete lipofuscin rapid-review bullet",
+    "image": "hy-lipofuscin-review",
+    "alt": "Complete rapid-review bullet on cardiac aging and lipofuscin",
+    "path": "work/cardio-expansion/assets/hy-lipofuscin-review.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "8dbbeb1587b892927f1378fe9c1baef7923d1e0c71cb8d9625c019566769b115"
+  },
+  "pharm-tca": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 79 \u00b7 Tricyclic antidepressants",
+    "image": "pharm-tca",
+    "alt": "Tricyclic antidepressants \u00b7 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-tca.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "0fde2fb24cb5627e18e3295219b85ea65e871c37b08503d1cbcc9981329374a8"
+  },
+  "pharm-cocaine": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 12 \u00b7 Indirect sympathomimetics \u00b7 cocaine",
+    "image": "pharm-cocaine",
+    "alt": "Indirect sympathomimetics \u00b7 cocaine \u00b7 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-cocaine.jpg",
+    "catalogFile": "work/cardio-expansion/batch5-assets.json",
+    "sha256": "7b59ad43fc96cc02c6c7e5173af5cfdce74ad98e0d8b31585130aa4d1ace93ef"
+  },
+  "filling": {
+    "image": "filling",
+    "path": "outputs/first-aid-filling.png",
+    "sha256": "86403c6ff16809bf7cb7195932146041946ac10cdff4e2563f4f5d46d05b219d",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "svt": {
+    "image": "svt",
+    "path": "work/hy-svt-full.png",
+    "sha256": "63e0b11282dd3ef99cd886980a21361c2209cd581f438f8dfbdc174891477d58",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "wpw": {
+    "image": "wpw",
+    "path": "work/wpw.png",
+    "sha256": "7bdbc120883deaa70b13d0b2fc31ada26fd533ecba20dca78b178b44d484ba91",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "adenosine": {
+    "image": "adenosine",
+    "path": "work/adenosine.png",
+    "sha256": "b48b24be508153ce07ca44c4895d84e73ecfc7d0155a0056af4b172cce42d7a5",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "ccb": {
+    "image": "ccb",
+    "path": "work/ccb.png",
+    "sha256": "afc3852428edbee0e783a20f4f8b7da2f9762ffbc38842635d95d067a118be4b",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "hyperk": {
+    "image": "hyperk",
+    "path": "work/hyperk.png",
+    "sha256": "d48a69273c76bc9a05ac2256cb008b6794a8d5bab914a2e0c04099b861732c2d",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "hy-filling": {
+    "image": "hy-filling",
+    "path": "work/hy-filling.png",
+    "sha256": "185285c346f9908ed3e2e86b98f92aeabcd62c98a56b5dc0d888ce798dd349b9",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "hy-diastole": {
+    "image": "hy-diastole",
+    "path": "work/hy-diastole.png",
+    "sha256": "fa416c7c58ce19ee8cb8a4c6bafa19a28ec38c8b118526cc2a187b0c772a344a",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "hy-adenosine": {
+    "image": "hy-adenosine",
+    "path": "work/hy-svt-full.png",
+    "sha256": "63e0b11282dd3ef99cd886980a21361c2209cd581f438f8dfbdc174891477d58",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "hy-wpw": {
+    "image": "hy-wpw",
+    "path": "work/hy-wpw.png",
+    "sha256": "1a5402ceb1b6cf5f43d1128515c6d6610b8b344ff10546d9f7be2423f8beea63",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "fa-amiodarone": {
+    "image": "fa-amiodarone",
+    "path": "work/fa-amiodarone.png",
+    "sha256": "085b3267b346830733831d6e3e1322c98a8a8f73319e58ace2097d6eb1bf1b55",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "hy-amiodarone": {
+    "image": "hy-amiodarone",
+    "path": "work/hy-amiodarone.png",
+    "sha256": "5bca2c3ffdb3b1a6744dcbe0c6ece8b3d62554740440e2c3faf059a76d123422",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "pharm-amiodarone": {
+    "image": "pharm-amiodarone",
+    "path": "work/pharm-images/amiodarone.jpg",
+    "sha256": "458195af158c92eb388c73641b4b83dfab9818740853075f63dbfbaee6048744",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "pharm-adenosine": {
+    "image": "pharm-adenosine",
+    "path": "work/pharm-images/adenosine.jpg",
+    "sha256": "95954cce8f1c104e4b8cea03e9dfae8bced1b9d5f34b1e389c116139699c7dbd",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "pharm-ccb": {
+    "image": "pharm-ccb",
+    "path": "work/pharm-images/calcium-channel-blockers.jpg",
+    "sha256": "67b27aef1c3f262879815bac4ac6c696d7fcb4f6307c19a54578c14dd71e0333",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "pharm-furosemide": {
+    "image": "pharm-furosemide",
+    "path": "work/pharm-images/furosemide.jpg",
+    "sha256": "021d2cee242373a5119516e9eb52aac120559a3e1a75a96e40cca4b10e6b5772",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  },
+  "pharm-insulin": {
+    "image": "pharm-insulin",
+    "path": "work/pharm-images/insulin.jpg",
+    "sha256": "c25c9040f6f40c8e5ec5e242a1e005a04e55f635ea83db4257a7e704b84b55a4",
+    "catalogFile": "work/assemble-qbank.py",
+    "provenance": "Page/title metadata in the assembler question definitions; original crop scripts in work/."
+  }
+}

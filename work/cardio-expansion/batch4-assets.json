@@ -1,0 +1,150 @@
+{
+  "fa-alpha-block": {
+    "title": "First Aid 2017",
+    "page": "p. 236 \u00b7 PDF p. 257 \u00b7 Alpha blockers and pressor responses",
+    "image": "fa-alpha-block",
+    "alt": "Alpha blockers and pressor responses",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-alpha-block.jpg"
+  },
+  "fa-sympathomimetics": {
+    "title": "First Aid 2017",
+    "page": "p. 234 \u00b7 PDF p. 255 \u00b7 Sympathomimetic receptor selectivity",
+    "image": "fa-sympathomimetics",
+    "alt": "Sympathomimetic receptor selectivity",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-sympathomimetics.jpg"
+  },
+  "fa-hydralazine": {
+    "title": "First Aid 2017",
+    "page": "p. 304 \u00b7 PDF p. 325 \u00b7 Hydralazine mechanism and adverse effects",
+    "image": "fa-hydralazine",
+    "alt": "Hydralazine mechanism and adverse effects",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-hydralazine.jpg"
+  },
+  "fa-tr": {
+    "title": "First Aid 2017",
+    "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral and tricuspid regurgitation",
+    "image": "fa-tr",
+    "alt": "Mitral and tricuspid regurgitation",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tr.jpg"
+  },
+  "fa-bb-tox": {
+    "title": "First Aid 2017",
+    "page": "p. 309 \u00b7 PDF p. 330 \u00b7 Beta blockers and overdose",
+    "image": "fa-bb-tox",
+    "alt": "Beta blockers and overdose",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-bb-tox.jpg"
+  },
+  "fa-wound": {
+    "title": "First Aid 2017",
+    "page": "p. 211 \u00b7 PDF p. 232 \u00b7 Wound healing: type III replaced by type I",
+    "image": "fa-wound",
+    "alt": "Wound healing: type III replaced by type I",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-wound.jpg"
+  },
+  "fa-mi-evolution": {
+    "title": "First Aid 2017",
+    "page": "p. 294 \u00b7 PDF p. 315 \u00b7 Evolution of myocardial infarction",
+    "image": "fa-mi-evolution",
+    "alt": "Evolution of myocardial infarction",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-mi-evolution.jpg"
+  },
+  "fa-af": {
+    "title": "First Aid 2017",
+    "page": "p. 284 \u00b7 PDF p. 305 \u00b7 Atrial fibrillation recognition",
+    "image": "fa-af",
+    "alt": "Atrial fibrillation recognition",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-af.jpg"
+  },
+  "fa-htn-af": {
+    "title": "First Aid 2017",
+    "page": "p. 290 \u00b7 PDF p. 311 \u00b7 Hypertension and cardiovascular complications",
+    "image": "fa-htn-af",
+    "alt": "Hypertension and cardiovascular complications",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-htn-af.jpg"
+  },
+  "hy-niacin": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 42 \u00b7 complete Niacin box",
+    "image": "hy-niacin",
+    "alt": "Complete Niacin box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-niacin.jpg"
+  },
+  "hy-alpha1": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Oxymetazoline / Phenylephrine box",
+    "image": "hy-alpha1",
+    "alt": "Complete Oxymetazoline / Phenylephrine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-alpha1.jpg"
+  },
+  "hy-isoproterenol": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Isoproterenol box",
+    "image": "hy-isoproterenol",
+    "alt": "Complete Isoproterenol box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-isoproterenol.jpg"
+  },
+  "hy-hydralazine": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Hydralazine box",
+    "image": "hy-hydralazine",
+    "alt": "Complete Hydralazine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-hydralazine.jpg"
+  },
+  "hy-tr": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 9 \u00b7 complete Tricuspid regurgitation box",
+    "image": "hy-tr",
+    "alt": "Complete Tricuspid regurgitation box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-tr.jpg"
+  },
+  "hy-af": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 17 \u00b7 complete Atrial fibrillation box",
+    "image": "hy-af",
+    "alt": "Complete Atrial fibrillation box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-af.jpg"
+  },
+  "hy-glucagon-review": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 62 \u00b7 complete beta-blocker-overdose rapid-review bullet",
+    "image": "hy-glucagon-review",
+    "alt": "Complete rapid-review bullet: beta-blocker overdose and glucagon",
+    "path": "work/cardio-expansion/assets/hy-glucagon-review.jpg"
+  },
+  "pharm-alpha1": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 10 \u00b7 Adrenergic agonists \u00b7 phenylephrine and isoproterenol",
+    "image": "pharm-alpha1",
+    "alt": "Adrenergic agonists \u00b7 phenylephrine and isoproterenol \u00b7 full illustration",
+    "path": "work/cardio-expansion/assets/pharm-alpha1.jpg"
+  },
+  "pharm-alpha-block": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 13 \u00b7 Alpha blockers \u00b7 prazosin",
+    "image": "pharm-alpha-block",
+    "alt": "Alpha blockers \u00b7 prazosin \u00b7 full illustration",
+    "path": "work/cardio-expansion/assets/pharm-alpha-block.jpg"
+  },
+  "pharm-beta-block": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 14 \u00b7 Beta blockers \u00b7 glucagon reversal",
+    "image": "pharm-beta-block",
+    "alt": "Beta blockers \u00b7 glucagon reversal \u00b7 full illustration",
+    "path": "work/cardio-expansion/assets/pharm-beta-block.jpg"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "fa-mvp": {
+    "title": "First Aid 2017",
+    "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral valve prolapse and connective-tissue disorders",
+    "image": "fa-mvp",
+    "alt": "Mitral valve prolapse and connective-tissue disorders",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-mvp.jpg"
+  },
+  "fa-dcm": {
+    "title": "First Aid 2017",
+    "page": "p. 297 \u00b7 PDF p. 318 \u00b7 Dilated cardiomyopathy",
+    "image": "fa-dcm",
+    "alt": "Dilated cardiomyopathy",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-dcm.jpg"
+  },
+  "fa-pregnancy": {
+    "title": "First Aid 2017",
+    "page": "p. 598 \u00b7 PDF p. 619 \u00b7 Pregnancy and maternal physiologic adaptations",
+    "image": "fa-pregnancy",
+    "alt": "Pregnancy and maternal physiologic adaptations",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pregnancy.jpg"
+  },
+  "fa-vf": {
+    "title": "First Aid 2017",
+    "page": "p. 284 \u00b7 PDF p. 305 \u00b7 Ventricular fibrillation",
+    "image": "fa-vf",
+    "alt": "Ventricular fibrillation",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-vf.jpg"
+  },
+  "fa-mi-complications": {
+    "title": "First Aid 2017",
+    "page": "p. 296 \u00b7 PDF p. 317 \u00b7 Myocardial infarction complications",
+    "image": "fa-mi-complications",
+    "alt": "Myocardial infarction complications",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-mi-complications.jpg"
+  },
+  "fa-shock": {
+    "title": "First Aid 2017",
+    "page": "p. 299 \u00b7 PDF p. 320 \u00b7 Shock hemodynamics",
+    "image": "fa-shock",
+    "alt": "Shock hemodynamics",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-shock.jpg"
+  },
+  "fa-lipid-agents": {
+    "title": "First Aid 2017",
+    "page": "p. 306 \u00b7 PDF p. 327 \u00b7 Lipid-lowering drugs and mechanisms",
+    "image": "fa-lipid-agents",
+    "alt": "Lipid-lowering drugs and mechanisms",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-lipid-agents.jpg"
+  },
+  "hy-mvp": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 8 \u00b7 complete Mitral valve prolapse box",
+    "image": "hy-mvp",
+    "alt": "Complete Mitral valve prolapse box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-mvp.jpg"
+  },
+  "hy-s3s4": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 11 \u00b7 complete S3 versus S4 box",
+    "image": "hy-s3s4",
+    "alt": "Complete S3 versus S4 box, including all text, labels and figures",
+    "context": "Pregnancy is included as physiologic high-volume/S3 context.",
+    "path": "work/cardio-expansion/assets/hy-s3s4.jpg"
+  },
+  "hy-statins": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Statins box",
+    "image": "hy-statins",
+    "alt": "Complete Statins box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-statins.jpg"
+  },
+  "hy-fibrates": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Fibrates box",
+    "image": "hy-fibrates",
+    "alt": "Complete Fibrates box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-fibrates.jpg"
+  },
+  "hy-omega": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 42 \u00b7 complete Omega/fish oils box",
+    "image": "hy-omega",
+    "alt": "Complete Omega/fish oils box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-omega.jpg"
+  },
+  "hy-septic-review": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 44 \u00b7 complete septic-shock rapid-review bullet",
+    "image": "hy-septic-review",
+    "alt": "Complete unboxed rapid-review bullet linking high CO, low PCWP and low TPR to septic shock",
+    "path": "work/cardio-expansion/assets/hy-septic-review.jpg"
+  },
+  "pharm-fibrates": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 38 \u00b7 Fibrates, niacin and omega-3s",
+    "image": "pharm-fibrates",
+    "alt": "Fibrates, niacin and omega-3s \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-fibrates.jpg"
+  },
+  "pharm-statins": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 36 \u00b7 Statins",
+    "image": "pharm-statins",
+    "alt": "Statins \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-statins.jpg"
+  }
+}

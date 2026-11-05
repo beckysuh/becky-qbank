@@ -1,0 +1,559 @@
+[
+  {
+    "id": "cardio-marfan-valve",
+    "system": "Cardiovascular",
+    "prompt": "Marfan syndrome \u2192 which mitral valve abnormality?",
+    "choices": [
+      "Mitral stenosis",
+      "Mitral valve prolapse",
+      "Infective vegetation",
+      "Congenital mitral atresia"
+    ],
+    "correct": 1,
+    "note": "Margans \u2192 know aortic dissection risk and <strong>MVP</strong> (can lead to HF).",
+    "explanation": "Marfan and Ehlers-Danlos \u2192 connective-tissue weakness/myxomatous degeneration \u2192 MVP.",
+    "faKeys": [
+      "fa-mvp",
+      "fa-marfan"
+    ],
+    "hyKeys": [
+      "hy-mvp"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": [],
+    "referenceNotes": [
+      "The overlapping MVP/connective-tissue note on journal page 20 is combined here; FA and the complete Mehlman box include Ehlers-Danlos too."
+    ]
+  },
+  {
+    "id": "cardio-dcm-lvedp",
+    "system": "Cardiovascular",
+    "prompt": "Dilated cardiomyopathy: LVEDP generally\u2026",
+    "choices": [
+      "Decreases",
+      "Becomes zero",
+      "Increases",
+      "Equals aortic systolic pressure"
+    ],
+    "correct": 2,
+    "note": "In dilated cardiomyopathy, you have <strong>increased LVEDP</strong> because increased volume increases stretch on the LV, which increases pressure.",
+    "explanation": "Poor systolic emptying \u2192 \u2191 residual/filling volume \u2192 \u2191 LV filling pressure.",
+    "faKeys": [
+      "fa-dcm"
+    ],
+    "hyKeys": [
+      "hy-dcm"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": []
+  },
+  {
+    "id": "cardio-pregnancy-co",
+    "system": "Cardiovascular",
+    "prompt": "Normal pregnancy: cardiac output\u2026",
+    "choices": [
+      "Increases",
+      "Decreases",
+      "Remains fixed",
+      "Falls to zero during diastole"
+    ],
+    "correct": 0,
+    "note": "In pregnancy, you have <strong>increased CO</strong> and decreased SVR (placenta adds a parallel circuit and decreases resistance).",
+    "explanation": "\u2191 HR + \u2191 stroke volume \u2192 \u2191 CO to meet maternal/uteroplacental demand.",
+    "faKeys": [
+      "fa-pregnancy"
+    ],
+    "hyKeys": [
+      "hy-s3s4"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: related high-volume/physiologic-S3 context in pregnancy; First Aid directly states increased CO."
+    ]
+  },
+  {
+    "id": "cardio-pregnancy-svr",
+    "system": "Cardiovascular",
+    "prompt": "Why does SVR fall in normal pregnancy?",
+    "choices": [
+      "Placenta blocks aortic outflow",
+      "Plasma volume disappears",
+      "Arterial collagen rapidly calcifies",
+      "Placenta adds a low-resistance parallel circuit"
+    ],
+    "correct": 3,
+    "note": "In pregnancy, you have increased CO and <strong>decreased SVR</strong> (placenta adds a parallel circuit and decreases resistance).",
+    "explanation": "Added uteroplacental vascular bed + maternal vasodilation \u2192 \u2193 SVR/afterload.",
+    "faKeys": [
+      "fa-pregnancy"
+    ],
+    "hyKeys": [],
+    "journalPage": 2,
+    "batch": 3,
+    "more": [],
+    "referenceNotes": [
+      "First Aid directly states decreased afterload; the parallel-circuit explanation expands the journal mechanism.",
+      "Mehlman: no direct maternal-SVR/parallel-circuit passage located."
+    ]
+  },
+  {
+    "id": "cardio-postmi-vf",
+    "system": "Cardiovascular",
+    "prompt": "Sudden death soon after MI: classic fatal arrhythmia?",
+    "choices": [
+      "Atrial flutter",
+      "First-degree AV block",
+      "Ventricular fibrillation",
+      "Sinus tachycardia"
+    ],
+    "correct": 2,
+    "note": "Post-MI someone has SCD \u2192 <strong>VFib</strong> not cardiogenic shock.",
+    "explanation": "Acute ischemia \u2192 electrical instability \u2192 VF \u2192 sudden loss of effective cardiac output.",
+    "faKeys": [
+      "fa-vf",
+      "fa-mi-complications"
+    ],
+    "hyKeys": [
+      "hy-antiplatelet-context"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": []
+  },
+  {
+    "id": "cardio-cardiogenic-contractility",
+    "system": "Cardiovascular",
+    "prompt": "Large MI \u2192 cardiogenic shock. Main pump defect?",
+    "choices": [
+      "Reduced contractility",
+      "Reduced circulating volume alone",
+      "Primary systemic vasodilation",
+      "Increased LV contractility"
+    ],
+    "correct": 0,
+    "note": "<strong>Cardiogenic shock is bc of reduced contractility.</strong>",
+    "explanation": "Damaged myocardium pumps poorly \u2192 \u2193 stroke volume/CO \u2192 hypoperfusion.",
+    "faKeys": [
+      "fa-shock",
+      "fa-hf-raas"
+    ],
+    "hyKeys": [
+      "hy-antiplatelet-context"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": []
+  },
+  {
+    "id": "cardio-vf-instability",
+    "system": "Cardiovascular",
+    "prompt": "Post-MI VF is primarily caused by\u2026",
+    "choices": [
+      "Increased albumin",
+      "Chronic venous valve failure",
+      "Isolated low plasma volume",
+      "Electrical instability"
+    ],
+    "correct": 3,
+    "note": "<strong>Vfib is due to electrical instability.</strong>",
+    "explanation": "Ischemic myocardium conducts/depolarizes abnormally \u2192 chaotic ventricular activation.",
+    "faKeys": [
+      "fa-vf"
+    ],
+    "hyKeys": [
+      "hy-antiplatelet-context"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman links MI and arrhythmic death; the electrophysiologic mechanism is summarized from the journal."
+    ]
+  },
+  {
+    "id": "cardio-sepsis-ci",
+    "system": "Cardiovascular",
+    "prompt": "Early hyperdynamic septic shock: cardiac index\u2026",
+    "choices": [
+      "Decreases",
+      "Increases",
+      "Is always normal",
+      "Cannot be measured"
+    ],
+    "correct": 1,
+    "note": "In septic (distributive) shock, <strong>Cardiac index (CO) is up</strong> because of reflex sympathetic output responding low BP.",
+    "explanation": "Vasodilation/\u2193 SVR + compensatory sympathetic drive \u2192 \u2191 CO/cardiac index early.",
+    "faKeys": [
+      "fa-shock"
+    ],
+    "hyKeys": [
+      "hy-septic-review"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": [],
+    "referenceNotes": [
+      "The Mehlman match is an unboxed rapid-review bullet; its entire bullet is included."
+    ]
+  },
+  {
+    "id": "cardio-sepsis-svo2",
+    "system": "Cardiovascular",
+    "prompt": "Why can mixed venous O\u2082 be high in septic shock?",
+    "choices": [
+      "All tissues extract more oxygen",
+      "Arterial hemoglobin becomes absent",
+      "Impaired tissue oxygen extraction/utilization",
+      "No blood reaches the venous circulation"
+    ],
+    "correct": 2,
+    "note": "In septic (distributive) shock ... <strong>mixed venous O2 is high because we can\u2019t extract everything we need</strong>.",
+    "explanation": "Poor extraction/microcirculatory shunting leaves more O\u2082 in venous blood. This pattern fits early hyperdynamic sepsis.",
+    "faKeys": [
+      "fa-co",
+      "fa-shock"
+    ],
+    "hyKeys": [
+      "hy-septic-review"
+    ],
+    "journalPage": 2,
+    "batch": 3,
+    "more": [],
+    "referenceNotes": [
+      "First Aid/Mehlman support the hyperdynamic shock context; the exact mixed-venous-O\u2082 statement is not in these excerpts."
+    ]
+  },
+  {
+    "id": "cardio-freewall-tamponade",
+    "system": "Cardiovascular",
+    "prompt": "Day 5 post-MI + JVD, hypotension, clear lungs, no new murmur \u2192 complication?",
+    "choices": [
+      "LV free-wall rupture \u2192 tamponade",
+      "Papillary muscle rupture \u2192 MR",
+      "Ventricular septal rupture",
+      "Isolated pulmonary edema"
+    ],
+    "correct": 0,
+    "note": "Post-MI complication on day 5 with elevated jugular venous pressure, no murmurs, and clear lungs = <strong>cardiac tamponade secondary to free wall rupture</strong>.",
+    "explanation": "LV wall ruptures \u2192 blood enters pericardium \u2192 tamponade. No new murmur favors this over septal/papillary rupture.",
+    "faKeys": [
+      "fa-mi-complications",
+      "fa-tamponade"
+    ],
+    "hyKeys": [
+      "hy-tamponade"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": []
+  },
+  {
+    "id": "cardio-tg-moderate",
+    "system": "Cardiovascular",
+    "prompt": "TG 150\u2013499 mg/dL: basic management approach?",
+    "choices": [
+      "Immediate thrombolysis",
+      "Fibrate required for everyone",
+      "Prostaglandin infusion",
+      "Lifestyle changes; statin when indicated"
+    ],
+    "correct": 3,
+    "note": "Hypertriglyceridemia: <strong>Mild (&lt;500): lifestyle +/- statins.</strong>",
+    "explanation": "Lifestyle/secondary-cause management first; statin use follows ASCVD risk and LDL indications.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ],
+    "verification": [
+      {
+        "title": "2026 AHA/ACC dyslipidemia guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001423"
+      }
+    ],
+    "referenceNotes": [
+      "The statin cutoffs in this older Mehlman box are exam shorthand; current treatment depends on ASCVD risk and LDL context."
+    ]
+  },
+  {
+    "id": "cardio-tg-severe",
+    "system": "Cardiovascular",
+    "prompt": "TG \u2265500 mg/dL: which class markedly lowers triglycerides?",
+    "choices": [
+      "Bile acid sequestrants",
+      "Fibrates",
+      "Antiplatelets",
+      "Beta blockers"
+    ],
+    "correct": 1,
+    "note": "Hypertriglyceridemia: <strong>Severe (500\u20131000): fibrates.</strong>",
+    "explanation": "Fibrates lower TG. Severe elevations\u2014especially \u22651000\u2014raise pancreatitis risk; diet and prescription omega-3s also have a role.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ],
+    "verification": [
+      {
+        "title": "2026 AHA/ACC dyslipidemia guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001423"
+      }
+    ],
+    "referenceNotes": [
+      "Mehlman lists >300 mg/dL; current severe-TG guidance uses \u2265500, especially \u22651000."
+    ]
+  },
+  {
+    "id": "cardio-fibrates-receptor",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates activate which nuclear receptor?",
+    "choices": [
+      "PPAR-\u03b1",
+      "PPAR-\u03b3",
+      "Glucocorticoid receptor",
+      "Estrogen receptor"
+    ],
+    "correct": 0,
+    "note": "Fibrates: <strong>MOA: PPAR-a agonists.</strong>",
+    "explanation": "PPAR-\u03b1 activation changes lipid-metabolism gene expression \u2192 \u2191 TG clearance.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ]
+  },
+  {
+    "id": "cardio-fibrates-lpl",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates upregulate which enzyme?",
+    "choices": [
+      "HMG-CoA reductase",
+      "Pancreatic amylase",
+      "Hormone-sensitive lipase only",
+      "Lipoprotein lipase"
+    ],
+    "correct": 3,
+    "note": "Fibrates: <strong>Increased LPL \u2192 breakdown TG in VLDL \u2192 clear TGs from blood.</strong>",
+    "explanation": "\u2191 LPL \u2192 hydrolysis/clearance of TG in VLDL and chylomicrons.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ]
+  },
+  {
+    "id": "cardio-fibrates-oxidation",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates do what to fatty acid oxidation?",
+    "choices": [
+      "Eliminate it",
+      "Decrease it",
+      "Increase it",
+      "Convert it into glycogen synthesis"
+    ],
+    "correct": 2,
+    "note": "Fibrates: <strong>Increased fatty acid oxidation.</strong>",
+    "explanation": "PPAR-\u03b1 activation \u2192 \u2191 fatty-acid oxidation machinery \u2192 greater fatty-acid catabolism.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ],
+    "referenceNotes": [
+      "The uploaded FA/Mehlman excerpts directly cover PPAR-\u03b1/LPL; the oxidation detail is expanded in the verification review."
+    ],
+    "verification": [
+      {
+        "title": "PPAR-\u03b1 and fatty-acid oxidation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4060217/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-fibrates-vldl",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates do what to hepatic VLDL production?",
+    "choices": [
+      "Increase it",
+      "Decrease it",
+      "Have no effect on lipid metabolism",
+      "Convert VLDL into albumin"
+    ],
+    "correct": 1,
+    "note": "Fibrates: <strong>Decreases VLDL production.</strong>",
+    "explanation": "\u2191 fatty-acid catabolism + \u2193 hepatic TG availability/secretion \u2192 \u2193 VLDL.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ],
+    "referenceNotes": [
+      "The full drug illustration explicitly shows decreased hepatic VLDL secretion."
+    ]
+  },
+  {
+    "id": "cardio-fibrates-gallstones",
+    "system": "Cardiovascular",
+    "prompt": "Why can fibrates cause cholesterol gallstones?",
+    "choices": [
+      "Increased cholesterol saturation of bile",
+      "Reduced cholesterol in bile",
+      "Increased urinary calcium",
+      "Loss of pancreatic amylase"
+    ],
+    "correct": 0,
+    "note": "Fibrates: <strong>Cholesterol gallstones via increased cholesterol saturation of bile.</strong>",
+    "explanation": "\u2191 biliary cholesterol \u2192 cholesterol supersaturation \u2192 gallstones.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ]
+  },
+  {
+    "id": "cardio-fibrates-myopathy",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates can cause which skeletal-muscle toxicity?",
+    "choices": [
+      "Myasthenia gravis",
+      "Duchenne dystrophy",
+      "Tetany from severe hypocalcemia",
+      "Myopathy"
+    ],
+    "correct": 3,
+    "note": "Fibrates AEs: <strong>Myopathies.</strong>",
+    "explanation": "Fibrates \u2192 muscle pain/weakness, sometimes CK elevation; risk increases with statin combinations.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates",
+      "statins"
+    ],
+    "referenceNotes": [
+      "Mehlman attributes all statin/fibrate myopathy to P450 interaction; interaction risk is agent-dependent, particularly with gemfibrozil."
+    ]
+  },
+  {
+    "id": "cardio-fibrates-liver",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates can cause which hepatic adverse effect?",
+    "choices": [
+      "Wilson disease",
+      "Hepatotoxicity",
+      "Primary sclerosing cholangitis",
+      "Hepatic hydatid cyst"
+    ],
+    "correct": 1,
+    "note": "Fibrates AEs: <strong>Hepatotoxicity.</strong>",
+    "explanation": "Fibrates can raise AST/ALT and cause liver injury.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates"
+    ]
+  },
+  {
+    "id": "cardio-tg-1000",
+    "system": "Cardiovascular",
+    "prompt": "TG >1000 mg/dL: which combination lowers triglycerides?",
+    "choices": [
+      "Statin + bile acid sequestrant",
+      "Beta blocker + diuretic",
+      "Fibrate + prescription omega-3s",
+      "ACE inhibitor + ARB"
+    ],
+    "correct": 2,
+    "note": "Hypertriglyceridemia: <strong>Severe (&gt;1000): Fibrates + omega3s.</strong>",
+    "explanation": "Very-low-fat diet + fibrate and/or prescription omega-3s; address secondary causes. Both drugs are not mandatory in every case.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-fibrates",
+      "hy-omega"
+    ],
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "drugTerms": [
+      "fibrates",
+      "omega-3"
+    ],
+    "verification": [
+      {
+        "title": "2026 AHA/ACC dyslipidemia guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001423"
+      }
+    ],
+    "otherDrugTerms": [
+      "statins"
+    ]
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "id": "cardio-svt-filling",
+    "system": "Cardiovascular",
+    "prompt": "Why can SVT cause hypotension?",
+    "choices": [
+      "Increased systemic vascular resistance",
+      "Reduced diastolic filling",
+      "Increased ventricular compliance",
+      "Reduced circulating blood volume"
+    ],
+    "correct": 1,
+    "note": "Re-entry \u2192 SVT \u2192 <strong>reduced diastolic filling</strong> \u2192 hypotension",
+    "explanation": "Fast rate \u2192 shorter diastole \u2192 less filling \u2192 lower stroke volume and cardiac output.",
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 1",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 272 \u00b7 PDF p. 293 \u00b7 Cardiac output and pulse pressure",
+        "image": "fa-co",
+        "alt": "Cardiac output and pulse pressure",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 27 \u00b7 complete HOCM box",
+        "image": "hy-hocm",
+        "alt": "Complete HOCM box, including all text, labels and figures",
+        "context": "The rate/filling statement appears within the HOCM discussion."
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "pp. 38\u201339 \u00b7 complete beta-blocker box",
+        "image": "hy-beta",
+        "alt": "Complete beta-blocker box, including all text, labels and figures",
+        "context": "The slowing-HR/filling relationship appears within the beta-blocker discussion."
+      }
+    ],
+    "pharm": [],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-pr-dhp",
+    "system": "Cardiovascular",
+    "prompt": "PR prolongation: why favor a DHP calcium channel blocker?",
+    "choices": [
+      "It mainly targets vascular smooth muscle",
+      "It selectively blocks sodium channels",
+      "It speeds AV nodal conduction",
+      "It increases vagal tone"
+    ],
+    "correct": 0,
+    "note": "If someone has PR lengthening, DHP CCBs may be a good choice because it targets <strong>smooth muscle</strong>.",
+    "explanation": "DHPs \u2192 vascular smooth muscle. Verapamil/diltiazem \u2192 AV node \u2192 further PR prolongation.",
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 1",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 304 \u00b7 PDF p. 325 \u00b7 Calcium channel blockers",
+        "image": "fa-ccb",
+        "alt": "Calcium channel blockers",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 38 \u00b7 complete Nifedipine box",
+        "image": "hy-nifedipine",
+        "alt": "Complete Nifedipine box, including all text, labels and figures",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 38 \u00b7 complete Verapamil box",
+        "image": "hy-verapamil",
+        "alt": "Complete Verapamil box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 24 \u00b7 Calcium channel blockers \u00b7 full mnemonic scene",
+        "image": "pharm-ccb-batch1",
+        "alt": "Calcium channel blockers \u00b7 full mnemonic scene"
+      }
+    ],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-freewall-tamponade",
+    "system": "Cardiovascular",
+    "prompt": "Day 5 post-MI + JVD, hypotension, clear lungs, no new murmur \u2192 complication?",
+    "choices": [
+      "LV free-wall rupture \u2192 tamponade",
+      "Papillary muscle rupture \u2192 MR",
+      "Ventricular septal rupture",
+      "Isolated pulmonary edema"
+    ],
+    "correct": 0,
+    "note": "Post-MI complication on day 5 with elevated jugular venous pressure, no murmurs, and clear lungs = <strong>cardiac tamponade secondary to free wall rupture</strong>.",
+    "explanation": "LV wall ruptures \u2192 blood enters pericardium \u2192 tamponade. No new murmur favors this over septal/papillary rupture.",
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 3",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 296 \u00b7 PDF p. 317 \u00b7 Myocardial infarction complications",
+        "image": "fa-mi-complications",
+        "alt": "Myocardial infarction complications",
+        "context": ""
+      },
+      {
+        "title": "First Aid 2017",
+        "page": "p. 300 \u00b7 PDF p. 321 \u00b7 Cardiac tamponade and pulsus paradoxus",
+        "image": "fa-tamponade",
+        "alt": "Cardiac tamponade and pulsus paradoxus",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 23 \u00b7 complete pericardial effusion / cardiac tamponade box",
+        "image": "hy-tamponade",
+        "alt": "Complete pericardial effusion / cardiac tamponade box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-fibrates-lpl",
+    "system": "Cardiovascular",
+    "prompt": "Fibrates upregulate which enzyme?",
+    "choices": [
+      "HMG-CoA reductase",
+      "Pancreatic amylase",
+      "Hormone-sensitive lipase only",
+      "Lipoprotein lipase"
+    ],
+    "correct": 3,
+    "note": "Fibrates: <strong>Increased LPL \u2192 breakdown TG in VLDL \u2192 clear TGs from blood.</strong>",
+    "explanation": "\u2191 LPL \u2192 hydrolysis/clearance of TG in VLDL and chylomicrons.",
+    "journalPage": 3,
+    "batch": 3,
+    "more": [],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 3",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 306 \u00b7 PDF p. 327 \u00b7 Lipid-lowering drugs and mechanisms",
+        "image": "fa-lipid-agents",
+        "alt": "Lipid-lowering drugs and mechanisms",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 41 \u00b7 complete Fibrates box",
+        "image": "hy-fibrates",
+        "alt": "Complete Fibrates box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 38 \u00b7 Fibrates, niacin and omega-3s",
+        "image": "pharm-fibrates",
+        "alt": "Fibrates, niacin and omega-3s \u2014 full mnemonic illustration"
+      },
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 38 \u00b7 Fibrates, niacin and omega-3s",
+        "image": "pharm-fibrates",
+        "alt": "Fibrates, niacin and omega-3s \u2014 full mnemonic illustration"
+      }
+    ],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-niacin-flush",
+    "system": "Cardiovascular",
+    "prompt": "Niacin \u2192 flushing. Which mediator?",
+    "choices": [
+      "Histamine",
+      "Bradykinin only",
+      "Prostaglandins",
+      "Leukotrienes"
+    ],
+    "correct": 2,
+    "note": "Flushing: <strong>dilates vessels via prostaglandins</strong>.",
+    "explanation": "Niacin \u2192 prostaglandin-mediated cutaneous vasodilation \u2192 flushing.",
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 3",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 306 \u00b7 PDF p. 327 \u00b7 Lipid-lowering drugs and mechanisms",
+        "image": "fa-lipid-agents",
+        "alt": "Lipid-lowering drugs and mechanisms",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 42 \u00b7 complete Niacin box",
+        "image": "hy-niacin",
+        "alt": "Complete Niacin box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 38 \u00b7 Fibrates, niacin and omega-3s",
+        "image": "pharm-fibrates",
+        "alt": "Fibrates, niacin and omega-3s \u2014 full mnemonic illustration"
+      },
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 38 \u00b7 Fibrates, niacin and omega-3s",
+        "image": "pharm-fibrates",
+        "alt": "Fibrates, niacin and omega-3s \u2014 full mnemonic illustration"
+      }
+    ],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-isoproterenol-receptor",
+    "system": "Cardiovascular",
+    "prompt": "Isoproterenol stimulates which receptors?",
+    "choices": [
+      "\u03b11 and \u03b12",
+      "\u03b21 and \u03b22",
+      "\u03b21 only",
+      "Muscarinic M2"
+    ],
+    "correct": 1,
+    "note": "Isoproterenol (beta blocker): second-line for severe bradycardia refractory to adenosine. <strong>Correction: \u03b21/\u03b22 agonist.</strong>",
+    "explanation": "Isoproterenol is a \u03b2 agonist \u2192 \u2191 HR and \u2193 SVR. Adenosine treats certain tachycardias; atropine is the initial drug for symptomatic bradycardia.",
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "verification": [
+      {
+        "title": "AHA adult bradycardia algorithm",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms"
+      }
+    ],
+    "referenceNotes": [
+      "The journal reverses agonist/blocker and confuses adenosine with atropine. Atropine failure typically prompts pacing and/or dopamine/epinephrine in the AHA algorithm."
+    ],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 4",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 234 \u00b7 PDF p. 255 \u00b7 Sympathomimetic receptor selectivity",
+        "image": "fa-sympathomimetics",
+        "alt": "Sympathomimetic receptor selectivity",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 41 \u00b7 complete Isoproterenol box",
+        "image": "hy-isoproterenol",
+        "alt": "Complete Isoproterenol box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 10 \u00b7 Adrenergic agonists \u00b7 phenylephrine and isoproterenol",
+        "image": "pharm-alpha1",
+        "alt": "Adrenergic agonists \u00b7 phenylephrine and isoproterenol \u00b7 full illustration"
+      }
+    ],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-tr-systemic-congestion",
+    "system": "Cardiovascular",
+    "prompt": "TR \u2192 ascites and liver congestion. Why?",
+    "choices": [
+      "Reduced left atrial pressure",
+      "Decreased systemic venous pressure",
+      "Backflow raises right atrial/systemic venous pressure",
+      "Increased pulmonary venous oxygen"
+    ],
+    "correct": 2,
+    "note": "Tricuspid regurg ... shows up in the <strong>systemic circulation (fluid overload, ascites, liver issues)</strong>.",
+    "explanation": "RV-to-RA systolic backflow \u2192 \u2191 systemic venous pressure \u2192 hepatic congestion/ascites.",
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 3",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral and tricuspid regurgitation",
+        "image": "fa-tr",
+        "alt": "Mitral and tricuspid regurgitation",
+        "context": ""
+      },
+      {
+        "title": "First Aid 2017",
+        "page": "p. 298 \u00b7 PDF p. 319 \u00b7 Heart failure",
+        "image": "fa-rhf",
+        "alt": "Heart failure",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 9 \u00b7 complete Tricuspid regurgitation box",
+        "image": "hy-tr",
+        "alt": "Complete Tricuspid regurgitation box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [],
+    "otherPharm": []
+  },
+  {
+    "id": "cardio-statin-enzyme",
+    "system": "Cardiovascular",
+    "prompt": "Statins inhibit which enzyme?",
+    "choices": [
+      "Lipoprotein lipase",
+      "Hormone-sensitive lipase",
+      "Pancreatic lipase",
+      "HMG-CoA reductase"
+    ],
+    "correct": 3,
+    "note": "Statins: <strong>MOA: HMG-CoA reductase inhibitors.</strong>",
+    "explanation": "Inhibit rate-limiting hepatic cholesterol synthesis \u2192 \u2193 intracellular cholesterol \u2192 \u2191 LDL receptors.",
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "Older statin-treatment cutoffs in the complete Mehlman box are historical exam shorthand; this question tests mechanism."
+    ],
+    "noteLabel": "YOUR NOTE \u00b7 JOURNAL PDF P. 4",
+    "sources": [
+      {
+        "title": "First Aid 2017",
+        "page": "p. 306 \u00b7 PDF p. 327 \u00b7 Lipid-lowering drugs and mechanisms",
+        "image": "fa-lipid-agents",
+        "alt": "Lipid-lowering drugs and mechanisms",
+        "context": ""
+      },
+      {
+        "title": "Mehlman HY Cardio",
+        "page": "p. 41 \u00b7 complete Statins box",
+        "image": "hy-statins",
+        "alt": "Complete Statins box, including all text, labels and figures",
+        "context": ""
+      }
+    ],
+    "pharm": [
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 36 \u00b7 Statins",
+        "image": "pharm-statins",
+        "alt": "Statins \u2014 full mnemonic illustration"
+      },
+      {
+        "title": "Sketchy and Pixo Pharms",
+        "page": "PDF p. 36 \u00b7 Statins",
+        "image": "pharm-statins",
+        "alt": "Statins \u2014 full mnemonic illustration"
+      }
+    ],
+    "otherPharm": []
+  }
+]

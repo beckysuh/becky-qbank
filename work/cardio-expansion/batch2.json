@@ -1,0 +1,528 @@
+[
+  {
+    "id": "cardio-chagas-geography",
+    "system": "Cardiovascular",
+    "prompt": "Chagas disease: classic geographic exposure?",
+    "choices": [
+      "Scandinavia",
+      "Central and South America",
+      "Australia",
+      "Japan"
+    ],
+    "correct": 1,
+    "note": "Chagas dx = cardio + GI dilation. T cruzi via triatomine bug endemic to <strong>C and S america</strong>.",
+    "explanation": "Latin America + cardiomyopathy/GI dilation \u2192 think T. cruzi.",
+    "faKeys": [
+      "fa-chagas"
+    ],
+    "hyKeys": [
+      "hy-dcm"
+    ],
+    "journalPage": 1,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman lists Chagas in the complete DCM box; First Aid supplies the geographic association."
+    ]
+  },
+  {
+    "id": "cardio-hypokinesis",
+    "system": "Cardiovascular",
+    "prompt": "New regional LV hypokinesis suggests\u2026",
+    "choices": [
+      "Pericardial calcification",
+      "Atrial septal defect",
+      "Myocardial ischemia/infarction",
+      "Isolated venous insufficiency"
+    ],
+    "correct": 2,
+    "note": "<strong>Hypokinesis = Ischemia/Infarction.</strong>",
+    "explanation": "Hypokinesis = reduced wall motion. A new regional abnormality points toward ischemia/infarction.",
+    "faKeys": [
+      "fa-ischemic-heart"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related ischemic heart disease context; the term hypokinesis is not used in this excerpt.",
+      "Mehlman: no direct hypokinesis passage located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-lvot-gradient",
+    "system": "Cardiovascular",
+    "prompt": "HCM + high LVOT gradient \u2192 what does the gradient indicate?",
+    "choices": [
+      "Outflow obstruction",
+      "Reduced atrial pressure",
+      "Pulmonary embolism",
+      "Aortic regurgitation"
+    ],
+    "correct": 0,
+    "note": "LVOT gradient is used to describe HCM. Low gradient means no obstruction. <strong>High gradient means obstruction</strong> (bad).",
+    "explanation": "Higher LV-to-aortic pressure gradient \u2192 greater LV outflow obstruction. HCM can also be nonobstructive.",
+    "faKeys": [
+      "fa-hcm"
+    ],
+    "hyKeys": [
+      "hy-hocm"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": []
+  },
+  {
+    "id": "cardio-pda-close",
+    "system": "Cardiovascular",
+    "prompt": "NSAIDs close the PDA by inhibiting\u2026",
+    "choices": [
+      "Phosphodiesterase",
+      "ADP receptors",
+      "Beta-1 receptors",
+      "Cyclooxygenase"
+    ],
+    "correct": 3,
+    "note": "PDA: <strong>Close = NSAIDs (inhibit cyclooxygenase).</strong>",
+    "explanation": "Indomethacin/ibuprofen \u2192 \u2193 prostaglandin synthesis \u2192 ductal closure.",
+    "faKeys": [
+      "fa-fetal",
+      "fa-pda"
+    ],
+    "hyKeys": [
+      "hy-pda"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "indomethacin",
+      "ibuprofen"
+    ]
+  },
+  {
+    "id": "cardio-pda-open",
+    "system": "Cardiovascular",
+    "prompt": "Which drug is used to keep the PDA open?",
+    "choices": [
+      "Indomethacin",
+      "Alprostadil (PGE\u2081)",
+      "Adenosine",
+      "Clopidogrel"
+    ],
+    "correct": 1,
+    "note": "PDA: <strong>Keep open = PGE2.</strong>",
+    "explanation": "Clinical drug: alprostadil (PGE\u2081). E\u2081 and E\u2082 support ductal patency; PGE\u2081 is the standard infusion used here.",
+    "faKeys": [
+      "fa-fetal",
+      "fa-prostaglandins"
+    ],
+    "hyKeys": [
+      "hy-pda"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "alprostadil"
+    ],
+    "otherDrugTerms": [
+      "indomethacin",
+      "adenosine",
+      "clopidogrel"
+    ]
+  },
+  {
+    "id": "cardio-hf-raas",
+    "system": "Cardiovascular",
+    "prompt": "HF \u2192 reduced renal perfusion \u2192 RAAS \u2192 what happens to afterload?",
+    "choices": [
+      "It decreases",
+      "It is unchanged",
+      "It increases",
+      "It becomes zero"
+    ],
+    "correct": 2,
+    "note": "Decompensation HF: decreased renal perfusion \u2192 RAAS \u2192 <strong>increased afterload (arteriolar resistance)</strong>.",
+    "explanation": "Angiotensin II \u2192 arteriolar vasoconstriction \u2192 \u2191 SVR/afterload.",
+    "faKeys": [
+      "fa-hf-raas"
+    ],
+    "hyKeys": [
+      "hy-lisinopril"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: the complete lisinopril box shows the drug acting on this pathway; it is related context for the untreated RAAS response."
+    ]
+  },
+  {
+    "id": "cardio-tof-boot",
+    "system": "Cardiovascular",
+    "prompt": "Boot-shaped heart in a cyanotic child \u2192 diagnosis?",
+    "choices": [
+      "Tetralogy of Fallot",
+      "Atrial septal defect",
+      "Patent ductus arteriosus",
+      "Mitral stenosis"
+    ],
+    "correct": 0,
+    "note": "<strong>Boot shaped heart = tetralogy.</strong>",
+    "explanation": "TOF \u2192 RV hypertrophy \u2192 upturned apex/boot-shaped silhouette.",
+    "faKeys": [
+      "fa-tof"
+    ],
+    "hyKeys": [
+      "hy-tof"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman describes TOF cyanosis as Eisenmenger reversal. Tet spells instead reflect increased RV outflow obstruction/right-to-left shunting; First Aid states this correctly."
+    ]
+  },
+  {
+    "id": "cardio-aspirin-intolerance",
+    "system": "Cardiovascular",
+    "prompt": "CAD + cannot tolerate aspirin \u2192 which alternative antiplatelet?",
+    "choices": [
+      "PDE5 inhibitor",
+      "Beta-1 agonist",
+      "L-type calcium channel blocker",
+      "P2Y\u2081\u2082 blocker (clopidogrel)"
+    ],
+    "correct": 3,
+    "note": "If a pt with CAD can\u2019t tolerate aspirin give them <strong>clopidogrel</strong> (another platelet inhibitor).",
+    "explanation": "Clopidogrel blocks platelet ADP/P2Y\u2081\u2082 signaling \u2192 \u2193 aggregation.",
+    "faKeys": [
+      "fa-adp"
+    ],
+    "hyKeys": [
+      "hy-antiplatelet-context"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "clopidogrel",
+      "aspirin"
+    ],
+    "referenceNotes": [
+      "Mehlman: the matching passage discusses aspirin/clopidogrel in MI, not aspirin intolerance specifically."
+    ]
+  },
+  {
+    "id": "cardio-atherosclerosis-growth",
+    "system": "Cardiovascular",
+    "prompt": "Atherosclerosis: growth factors recruit which cells into the intima?",
+    "choices": [
+      "Mature erythrocytes",
+      "Smooth muscle cells",
+      "Plasma cells only",
+      "Skeletal muscle fibers"
+    ],
+    "correct": 1,
+    "note": "Growth factors in atherosclerosis come from platelets, macrophages, and endothelial cells that trigger <strong>smooth muscle recruitment</strong>.",
+    "explanation": "Platelets/macrophages/endothelium release growth factors \u2192 smooth muscle migration, proliferation, and matrix deposition.",
+    "faKeys": [
+      "fa-atherosclerosis"
+    ],
+    "hyKeys": [
+      "hy-athero-mechanism"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman places initial macrophages in the media; early foam cells/fatty streaks are in the intima. The recruitment pattern remains the tested point."
+    ]
+  },
+  {
+    "id": "cardio-nitrate-veins",
+    "system": "Cardiovascular",
+    "prompt": "Nitrates predominantly dilate\u2026",
+    "choices": [
+      "Arterioles",
+      "Lymphatic vessels",
+      "Veins",
+      "Capillary basement membranes"
+    ],
+    "correct": 2,
+    "note": "<strong>Nitrates \u2192 venodilation.</strong>",
+    "explanation": "Venodilation \u2192 \u2193 venous return/preload \u2192 \u2193 myocardial O\u2082 demand.",
+    "faKeys": [
+      "fa-nitrates"
+    ],
+    "hyKeys": [
+      "hy-nitrates"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "nitroglycerin"
+    ]
+  },
+  {
+    "id": "cardio-cvi-valves",
+    "system": "Cardiovascular",
+    "prompt": "Chronic venous insufficiency: primary defect?",
+    "choices": [
+      "Incompetent venous valves",
+      "Arterial plaque rupture",
+      "Lymphatic agenesis",
+      "Low albumin alone"
+    ],
+    "correct": 0,
+    "note": "Chronic venous insufficiency = due to <strong>incompetent valves w/ retrograde flow</strong> that leads to extravated RBCs \u2192 red color from hemosiderin.",
+    "explanation": "Valve failure \u2192 venous reflux/stasis \u2192 \u2191 venous pressure.",
+    "faKeys": [
+      "fa-capillary"
+    ],
+    "hyKeys": [
+      "hy-venous"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related hydrostatic-pressure/edema framework; no direct venous-valve passage was located."
+    ]
+  },
+  {
+    "id": "cardio-cvi-hemosiderin",
+    "system": "Cardiovascular",
+    "prompt": "Brown/red lower legs in venous insufficiency: which pigment?",
+    "choices": [
+      "Bilirubin",
+      "Lipofuscin",
+      "Melanin only",
+      "Hemosiderin"
+    ],
+    "correct": 3,
+    "note": "Chronic venous insufficiency = due to incompetent valves w/ retrograde flow that leads to extravated RBCs \u2192 <strong>red color from hemosiderin</strong>.",
+    "explanation": "Venous hypertension \u2192 RBC extravasation \u2192 iron/hemosiderin deposition \u2192 stasis pigmentation.",
+    "faKeys": [],
+    "hyKeys": [
+      "hy-venous"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: no direct CVI/hemosiderin passage located; the complete Mehlman venous-disease box covers this pattern."
+    ]
+  },
+  {
+    "id": "cardio-flows-equal",
+    "system": "Cardiovascular",
+    "prompt": "Steady state, no shunt: systemic vs pulmonary flow per minute?",
+    "choices": [
+      "Systemic is always greater",
+      "They are equal",
+      "Pulmonary is always greater",
+      "They vary independently"
+    ],
+    "correct": 1,
+    "note": "<strong>Blood flow per minute is equal in the systemic and pulmonary circulation.</strong>",
+    "explanation": "The two circuits are in series. Sustained unequal outputs would accumulate blood in one circuit.",
+    "faKeys": [
+      "fa-circulation",
+      "fa-co"
+    ],
+    "hyKeys": [],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related circulation and CO framework; this equality is inferred from the serial circuit.",
+      "Mehlman: no direct equal-flow statement located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-txa2-platelets",
+    "system": "Cardiovascular",
+    "prompt": "Thromboxane A\u2082 does what to platelet aggregation?",
+    "choices": [
+      "No effect",
+      "Completely blocks it",
+      "Increases it",
+      "Dissolves existing fibrin"
+    ],
+    "correct": 2,
+    "note": "<strong>TXA = pro-clotting</strong>; prostacyclin = anti-coagulant.",
+    "explanation": "TXA here means thromboxane A\u2082: \u2191 platelet aggregation + vasoconstriction.",
+    "faKeys": [
+      "fa-platelets",
+      "fa-prostaglandins"
+    ],
+    "hyKeys": [],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "thromboxane"
+    ],
+    "referenceNotes": [
+      "Mehlman: no direct thromboxane A\u2082 passage located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-prostacyclin-platelets",
+    "system": "Cardiovascular",
+    "prompt": "Prostacyclin (PGI\u2082) does what to platelet aggregation?",
+    "choices": [
+      "Inhibits it",
+      "Increases it",
+      "Cross-links platelets with fibrinogen",
+      "Converts fibrinogen to fibrin"
+    ],
+    "correct": 0,
+    "note": "TXA = pro-clotting; <strong>prostacyclin = anti-coagulant</strong>.",
+    "explanation": "PGI\u2082 \u2192 inhibits platelet aggregation + vasodilation. More precisely: antiplatelet.",
+    "faKeys": [
+      "fa-platelets",
+      "fa-prostaglandins"
+    ],
+    "hyKeys": [],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "prostacyclin"
+    ],
+    "referenceNotes": [
+      "Mehlman: no direct prostacyclin passage located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-fibrinolytic-bleed",
+    "system": "Cardiovascular",
+    "prompt": "Life-threatening brain complication of fibrinolytics?",
+    "choices": [
+      "Normal-pressure hydrocephalus",
+      "Pituitary adenoma",
+      "Cerebral abscess",
+      "Intracranial hemorrhage"
+    ],
+    "correct": 3,
+    "note": "A life-threatening complication of fibrinolytics is <strong>intracerebral hgemorrhage</strong>.",
+    "explanation": "Alteplase/fibrinolysis \u2192 serious bleeding, including intracranial hemorrhage.",
+    "faKeys": [
+      "fa-thrombolytics"
+    ],
+    "hyKeys": [],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "drugTerms": [
+      "alteplase"
+    ],
+    "referenceNotes": [
+      "Mehlman: no dedicated fibrinolytic/ICH passage located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-tet-spell-shunt",
+    "system": "Cardiovascular",
+    "prompt": "TOF + cyanosis during feeding \u2192 increased shunting in which direction?",
+    "choices": [
+      "Left to right",
+      "Right to left",
+      "Aorta to left atrium",
+      "Pulmonary vein to aorta"
+    ],
+    "correct": 1,
+    "note": "Newborn with cyanosis during feeding and the murmur disappears = tetralogy of fallot w/ <strong>R\u2192L shunt</strong>.",
+    "explanation": "\u2191 RV outflow obstruction \u2192 more blood bypasses the lungs through the VSD \u2192 \u2191 right-to-left shunting.",
+    "faKeys": [
+      "fa-tof"
+    ],
+    "hyKeys": [
+      "hy-tof"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "The Mehlman TOF box calls this Eisenmenger reversal; tet spells instead reflect dynamic RV outflow obstruction."
+    ]
+  },
+  {
+    "id": "cardio-tet-spell-murmur",
+    "system": "Cardiovascular",
+    "prompt": "Why can the TOF murmur soften during a tet spell?",
+    "choices": [
+      "More flow across the pulmonary outflow tract",
+      "More left-to-right flow across the atria",
+      "Less flow across the obstructed RV outflow tract",
+      "Closure of the mitral valve"
+    ],
+    "correct": 2,
+    "note": "Newborn with cyanosis during feeding and the <strong>murmur disappears</strong> = tetralogy of fallot w/ R\u2192L shunt.",
+    "explanation": "Severe RV outflow obstruction \u2192 less forward pulmonary flow \u2192 softer murmur despite worse cyanosis.",
+    "faKeys": [
+      "fa-tof"
+    ],
+    "hyKeys": [
+      "hy-tof"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "The full Mehlman box provides TOF context; the murmur-softening mechanism is not stated there."
+    ]
+  },
+  {
+    "id": "cardio-ischemia-calcium",
+    "system": "Cardiovascular",
+    "prompt": "Ischemia \u2192 ATP depletion \u2192 what happens to intracellular Ca\u00b2\u207a?",
+    "choices": [
+      "It increases",
+      "It decreases to zero",
+      "It is unchanged",
+      "It is replaced by extracellular potassium"
+    ],
+    "correct": 0,
+    "note": "Ischemia can lead to the failure of Ca/Na pumps \u2192 <strong>increased intracellular Ca+2 accumulation</strong>; Normally, Na+2 and Ca+2 are pumped out of the cell.",
+    "explanation": "\u2193 ATP \u2192 pump failure and disturbed ion gradients \u2192 \u2191 intracellular Ca\u00b2\u207a. Sodium is Na\u207a, not Na\u00b2\u207a.",
+    "faKeys": [
+      "fa-cell-injury"
+    ],
+    "hyKeys": [],
+    "journalPage": 2,
+    "batch": 2,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: no direct ATP-depletion/calcium-overload passage located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-hcm-histology",
+    "system": "Cardiovascular",
+    "prompt": "HCM histology?",
+    "choices": [
+      "Extracellular amyloid deposits",
+      "Caseating granulomas",
+      "Isolated endocardial vegetations",
+      "Myocyte disarray with interstitial fibrosis"
+    ],
+    "correct": 3,
+    "note": "HCM = <strong>myocardial hypertrophy w/ patchy interstitial fibrosis</strong>; not extracellular deposits.",
+    "explanation": "Hypertrophied, disorganized myocytes + interstitial fibrosis. Extracellular amyloid points toward restrictive cardiomyopathy.",
+    "faKeys": [
+      "fa-hcm"
+    ],
+    "hyKeys": [
+      "hy-hocm"
+    ],
+    "journalPage": 2,
+    "batch": 2,
+    "more": []
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "id": "cardio-pr-dhp",
+    "system": "Cardiovascular",
+    "prompt": "PR prolongation: why favor a DHP calcium channel blocker?",
+    "choices": [
+      "It mainly targets vascular smooth muscle",
+      "It selectively blocks sodium channels",
+      "It speeds AV nodal conduction",
+      "It increases vagal tone"
+    ],
+    "correct": 0,
+    "note": "If someone has PR lengthening, DHP CCBs may be a good choice because it targets <strong>smooth muscle</strong>.",
+    "explanation": "DHPs \u2192 vascular smooth muscle. Verapamil/diltiazem \u2192 AV node \u2192 further PR prolongation.",
+    "faKeys": [
+      "fa-ccb"
+    ],
+    "hyKeys": [
+      "hy-nifedipine",
+      "hy-verapamil"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "drugTerms": [
+      "nifedipine",
+      "verapamil",
+      "diltiazem"
+    ]
+  },
+  {
+    "id": "cardio-svt-filling",
+    "system": "Cardiovascular",
+    "prompt": "Why can SVT cause hypotension?",
+    "choices": [
+      "Increased systemic vascular resistance",
+      "Reduced diastolic filling",
+      "Increased ventricular compliance",
+      "Reduced circulating blood volume"
+    ],
+    "correct": 1,
+    "note": "Re-entry \u2192 SVT \u2192 <strong>reduced diastolic filling</strong> \u2192 hypotension",
+    "explanation": "Fast rate \u2192 shorter diastole \u2192 less filling \u2192 lower stroke volume and cardiac output.",
+    "faKeys": [
+      "fa-co"
+    ],
+    "hyKeys": [
+      "hy-hocm",
+      "hy-beta"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": []
+  },
+  {
+    "id": "cardio-age-aortic-stiffness",
+    "system": "Cardiovascular",
+    "prompt": "Aging \u2192 higher systolic pressure and wider pulse pressure. Why?",
+    "choices": [
+      "Increased aortic compliance",
+      "Reduced stroke volume",
+      "Aortic stiffening",
+      "Reduced systemic blood volume"
+    ],
+    "correct": 2,
+    "note": "<strong>Aortic stiffening</strong> (elastin replaced with collagen) leads to increased pulse pressure and systolic pressure.",
+    "explanation": "Stiffer aorta \u2192 less buffering of systolic ejection \u2192 \u2191 systolic pressure and pulse pressure.",
+    "faKeys": [
+      "fa-co"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: no direct aortic-aging box located in the supplied HY Cardio PDF."
+    ]
+  },
+  {
+    "id": "cardio-age-lvh",
+    "system": "Cardiovascular",
+    "prompt": "Why can aging cause mild LV hypertrophy?",
+    "choices": [
+      "Reduced afterload and myocyte hyperplasia",
+      "Increased afterload and compensatory myocyte hypertrophy",
+      "Decreased venous return alone",
+      "Myocardial glycogen deposition"
+    ],
+    "correct": 1,
+    "note": "Mild LVH is the response to <strong>cardiomyocyte dropout and increased afterload</strong>, decreased maximal cardiac output.",
+    "explanation": "Myocyte loss + \u2191 arterial stiffness/afterload \u2192 compensatory hypertrophy of remaining myocytes.",
+    "faKeys": [
+      "fa-afterload"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: afterload/LVH mechanism; the age-specific myocyte-loss detail is not stated here.",
+      "Mehlman: no direct normal-aging/LVH box located."
+    ],
+    "verification": [
+      {
+        "title": "Cardiac aging review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015721/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-age-myocytes",
+    "system": "Cardiovascular",
+    "prompt": "With normal aging, cardiomyocyte number generally\u2026",
+    "choices": [
+      "Increases",
+      "Stays constant while every cell shrinks",
+      "Decreases",
+      "Doubles through mitosis"
+    ],
+    "correct": 2,
+    "note": "<strong>Cardiomyocytes decrease.</strong>",
+    "explanation": "Aging \u2192 myocyte loss; surviving cells may hypertrophy.",
+    "faKeys": [
+      "fa-aging"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related cellular-aging context (lipofuscin), not a direct statement of myocyte number.",
+      "Mehlman: no direct myocyte-count box located."
+    ],
+    "verification": [
+      {
+        "title": "Cardiac aging and myocyte loss",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015721/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-age-max-co",
+    "system": "Cardiovascular",
+    "prompt": "With aging, maximal cardiac output generally\u2026",
+    "choices": [
+      "Increases",
+      "Decreases",
+      "Remains unchanged in every person",
+      "Becomes independent of heart rate"
+    ],
+    "correct": 1,
+    "note": "Mild LVH is the response to cardiomyocyte dropout and increased afterload, <strong>decreased maximal cardiac output</strong>.",
+    "explanation": "Aging \u2192 reduced maximal heart-rate response and cardiac reserve \u2192 \u2193 maximal CO. Resting CO may remain preserved.",
+    "faKeys": [
+      "fa-co"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related CO = HR \u00d7 SV framework; this page does not state the age-specific change.",
+      "Mehlman: no direct maximal-CO-with-aging box located."
+    ],
+    "verification": [
+      {
+        "title": "MSD Manual: changes with aging",
+        "url": "https://www.msdmanuals.com/professional/cardiovascular-disorders/heart-failure/overview-of-heart-failure"
+      }
+    ]
+  },
+  {
+    "id": "cardio-age-baroreflex",
+    "system": "Cardiovascular",
+    "prompt": "With aging, baroreceptor sensitivity generally\u2026",
+    "choices": [
+      "Increases",
+      "Becomes independent of arterial stretch",
+      "Remains completely unchanged",
+      "Decreases"
+    ],
+    "correct": 3,
+    "note": "<strong>Reduced baroreceptor sensitivity.</strong>",
+    "explanation": "Blunted baroreflex \u2192 weaker compensation for sudden BP changes \u2192 greater orthostatic tendency.",
+    "faKeys": [
+      "fa-baroreflex"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related baroreflex circuit; age-related blunting is not stated in this section.",
+      "Mehlman: no direct aging/baroreflex box located."
+    ],
+    "verification": [
+      {
+        "title": "MSD Manual: physiologic changes with aging",
+        "url": "https://www.msdmanuals.com/professional/geriatrics/approach-to-the-geriatric-patient/physical-changes-with-aging"
+      }
+    ]
+  },
+  {
+    "id": "cardio-pe-rv",
+    "system": "Cardiovascular",
+    "prompt": "A large PE dilates which ventricle?",
+    "choices": [
+      "Left ventricle",
+      "Both ventricles equally",
+      "Neither ventricle",
+      "Right ventricle"
+    ],
+    "correct": 3,
+    "note": "PE \u2192 <strong>enlarged ventricular cavity</strong> b/c everything gets backed up.",
+    "explanation": "PE \u2192 acute \u2191 pulmonary resistance \u2192 RV pressure overload \u2192 RV dilation.",
+    "faKeys": [
+      "fa-pe",
+      "fa-rhf"
+    ],
+    "hyKeys": [
+      "hy-cor-pulmonale"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: related pulmonary-pressure/RV-afterload box; not a PE-specific description."
+    ]
+  },
+  {
+    "id": "cardio-pda-bounding",
+    "system": "Cardiovascular",
+    "prompt": "Why does PDA cause bounding pulses?",
+    "choices": [
+      "Diastolic aortic runoff into the pulmonary artery",
+      "Complete obstruction of pulmonary flow",
+      "Reduced systolic ejection",
+      "Diastolic runoff into the left atrium"
+    ],
+    "correct": 0,
+    "note": "In PDA you have bounding pulses bc during diastole you have <strong>run off from the aorta to the pulmonary artery</strong>.",
+    "explanation": "Diastolic aortic runoff \u2192 \u2193 diastolic pressure \u2192 widened pulse pressure \u2192 bounding pulses.",
+    "faKeys": [
+      "fa-pda"
+    ],
+    "hyKeys": [
+      "hy-pda"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": []
+  },
+  {
+    "id": "cardio-flutter-isthmus",
+    "system": "Cardiovascular",
+    "prompt": "Typical atrial flutter re-entry uses which isthmus?",
+    "choices": [
+      "Mitral-aortic isthmus",
+      "Interventricular septum",
+      "Cavotricuspid isthmus",
+      "Pulmonary venous ostium"
+    ],
+    "correct": 2,
+    "note": "The re-entry circuit in atrial flutter is around the <strong>cavotricuspid isthmus</strong> \u2013 between IVC and tricuspid valve annulus.",
+    "explanation": "Typical flutter circles the tricuspid annulus through the isthmus between the IVC and tricuspid valve.",
+    "faKeys": [
+      "fa-flutter"
+    ],
+    "hyKeys": [
+      "hy-flutter"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid/Mehlman: flutter recognition and ECG; the exact isthmus anatomy is not specified in these excerpts."
+    ],
+    "verification": [
+      {
+        "title": "Atrial flutter isthmus anatomy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2922872/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-dobutamine-oxygen",
+    "system": "Cardiovascular",
+    "prompt": "Why can dobutamine increase myocardial oxygen demand?",
+    "choices": [
+      "It increases contractility",
+      "It blocks beta-1 receptors",
+      "It reduces ventricular work",
+      "It blocks coronary catecholamine effects"
+    ],
+    "correct": 0,
+    "note": "Dobutamine can <strong>increase myocardial oxygen consumption</strong>, so don\u2019t use in patients w decompensated HF.",
+    "explanation": "\u03b21 stimulation \u2192 \u2191 contractility/work \u2192 \u2191 O\u2082 demand. Clarification: selected low-output HF/cardiogenic shock can require dobutamine.",
+    "faKeys": [
+      "fa-beta-agonists",
+      "fa-oxygen"
+    ],
+    "hyKeys": [
+      "hy-dobutamine"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "drugTerms": [
+      "dobutamine"
+    ],
+    "verification": [
+      {
+        "title": "AHA/ACC/HFSA: inotropic support in HF",
+        "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2021.12.012"
+      }
+    ]
+  },
+  {
+    "id": "cardio-pericarditis-etiology",
+    "system": "Cardiovascular",
+    "prompt": "Most common cause of acute pericarditis?",
+    "choices": [
+      "Tuberculosis",
+      "Idiopathic, presumed viral",
+      "Metastatic cancer",
+      "Bacterial endocarditis"
+    ],
+    "correct": 1,
+    "note": "#1 cause of acute pericarditis = <strong>idiopathic - viral</strong>.",
+    "explanation": "Idiopathic/presumed viral is the standard pattern in developed settings.",
+    "faKeys": [
+      "fa-pericarditis"
+    ],
+    "hyKeys": [
+      "hy-pericarditis"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": []
+  },
+  {
+    "id": "cardio-pulsus-paradoxus",
+    "system": "Cardiovascular",
+    "prompt": "Korotkoff sounds appear >10 mm Hg earlier on expiration. What is this?",
+    "choices": [
+      "Pulsus alternans",
+      "Pulsus bisferiens",
+      "Pulsus paradoxus",
+      "Pulsus parvus et tardus"
+    ],
+    "correct": 2,
+    "note": "Korotkoff sounds heard at &gt;10 mmHg higher cuff pressure during expiration than throughout the respiratory cycle = <strong>pulsus paradoxus</strong>.",
+    "explanation": "Inspiration \u2192 >10 mm Hg fall in systolic BP. Classic association: cardiac tamponade.",
+    "faKeys": [
+      "fa-tamponade"
+    ],
+    "hyKeys": [
+      "hy-tamponade"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": []
+  },
+  {
+    "id": "cardio-marfan-media",
+    "system": "Cardiovascular",
+    "prompt": "Marfan aorta: what happens to the medial elastic lamellae?",
+    "choices": [
+      "They calcify into bone",
+      "They thicken uniformly",
+      "They are replaced by amyloid",
+      "They fragment"
+    ],
+    "correct": 3,
+    "note": "Histology of aortic wall in marfan syndrome = <strong>fragmentation of elastic lamellae in media</strong>.",
+    "explanation": "Defective fibrillin \u2192 medial degeneration with fragmented elastic fibers \u2192 dissection risk.",
+    "faKeys": [
+      "fa-marfan",
+      "fa-aneurysm"
+    ],
+    "hyKeys": [
+      "hy-dissection"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": []
+  },
+  {
+    "id": "cardio-rv-recovery-afterload",
+    "system": "Cardiovascular",
+    "prompt": "Why is the RV less vulnerable to ischemic injury? Lower\u2026",
+    "choices": [
+      "Afterload",
+      "Coronary perfusion",
+      "Venous return",
+      "Blood oxygen content"
+    ],
+    "correct": 0,
+    "note": "RV almost always returns to normal after MI bc 1 small muscle mass 2) <strong>lower afterload</strong> 3) perfusion during diastole and systole.",
+    "explanation": "Lower pulmonary-circuit pressure \u2192 less RV work and O\u2082 demand. Recovery is common, not guaranteed.",
+    "faKeys": [
+      "fa-oxygen"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related determinants of O\u2082 demand; not a direct RV-recovery statement.",
+      "Mehlman: no direct RV-recovery/afterload box located."
+    ],
+    "verification": [
+      {
+        "title": "RV infarction physiology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3716484/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-rv-recovery-perfusion",
+    "system": "Cardiovascular",
+    "prompt": "The RV receives coronary perfusion during\u2026",
+    "choices": [
+      "Diastole only",
+      "Systole only",
+      "Systole and diastole",
+      "Atrial contraction only"
+    ],
+    "correct": 2,
+    "note": "RV almost always returns to normal after MI bc 1 small muscle mass 2) lower afterload 3) <strong>perfusion during diastole and systole</strong>.",
+    "explanation": "Low RV systolic wall pressure permits perfusion in both phases. LV perfusion is predominantly diastolic.",
+    "faKeys": [
+      "fa-coronary"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related coronary anatomy and overall diastolic flow; the RV-specific distinction is not stated in this excerpt.",
+      "Mehlman: no direct RV-specific two-phase perfusion box located."
+    ],
+    "verification": [
+      {
+        "title": "RV infarction physiology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3716484/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-rv-recovery-mass",
+    "system": "Cardiovascular",
+    "prompt": "What feature lowers RV oxygen demand compared with the LV?",
+    "choices": [
+      "Greater wall thickness",
+      "Smaller muscle mass",
+      "Higher systolic pressure",
+      "More rapid resting contraction"
+    ],
+    "correct": 1,
+    "note": "RV almost always returns to normal after MI bc 1 <strong>small muscle mass</strong> 2) lower afterload 3) perfusion during diastole and systole.",
+    "explanation": "Smaller muscle mass + lower workload \u2192 lower O\u2082 demand.",
+    "faKeys": [
+      "fa-oxygen"
+    ],
+    "hyKeys": [],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "First Aid: related O\u2082-demand framework; not a direct statement about RV muscle mass.",
+      "Mehlman: no direct RV muscle-mass/recovery box located."
+    ],
+    "verification": [
+      {
+        "title": "RV infarction physiology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3716484/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-dissection-htn",
+    "system": "Cardiovascular",
+    "prompt": "Major acquired risk factor for aortic dissection?",
+    "choices": [
+      "Hypertriglyceridemia",
+      "Iron deficiency",
+      "Hypertension",
+      "Hypothyroidism"
+    ],
+    "correct": 2,
+    "note": "#1 risk for AD = <strong>HTN</strong> bc it weakens the medial wall.",
+    "explanation": "Chronic hypertension \u2192 medial degeneration and increased aortic wall stress \u2192 dissection.",
+    "faKeys": [
+      "fa-dissection"
+    ],
+    "hyKeys": [
+      "hy-dissection"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": []
+  },
+  {
+    "id": "cardio-digoxin-direct",
+    "system": "Cardiovascular",
+    "prompt": "Digoxin directly inhibits which pump?",
+    "choices": [
+      "Na\u207a/Ca\u00b2\u207a exchanger",
+      "SERCA",
+      "Na\u207a/K\u207a ATPase",
+      "L-type calcium channel"
+    ],
+    "correct": 2,
+    "note": "Most direct MOA of digoxin is <strong>decreased Na+ efflux</strong>.",
+    "explanation": "Na\u207a/K\u207a ATPase inhibition \u2192 \u2191 intracellular Na\u207a \u2192 \u2193 Na\u207a/Ca\u00b2\u207a exchange \u2192 \u2191 intracellular Ca\u00b2\u207a.",
+    "faKeys": [
+      "fa-digoxin"
+    ],
+    "hyKeys": [
+      "hy-digoxin"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "drugTerms": [
+      "digoxin"
+    ],
+    "referenceNotes": [
+      "Mehlman calls the Na\u207a/Ca\u00b2\u207a exchanger an ATPase; First Aid correctly labels it an exchanger."
+    ]
+  },
+  {
+    "id": "cardio-chagas-dilation",
+    "system": "Cardiovascular",
+    "prompt": "Cardiomyopathy + megaesophagus/megacolon \u2192 which organism?",
+    "choices": [
+      "Toxoplasma gondii",
+      "Leishmania donovani",
+      "Trypanosoma brucei",
+      "Trypanosoma cruzi"
+    ],
+    "correct": 3,
+    "note": "Chagas dx = <strong>cardio + GI dilation</strong>. T cruzi via triatomine bug endemic to C and S america.",
+    "explanation": "T. cruzi \u2192 Chagas \u2192 dilated cardiomyopathy + GI dilation. Triatomine (reduviid/kissing) bug exposure supports the pattern.",
+    "faKeys": [
+      "fa-chagas"
+    ],
+    "hyKeys": [
+      "hy-dcm"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: full DCM box lists Chagas; First Aid supplies the GI-dilation connection."
+    ]
+  },
+  {
+    "id": "cardio-chagas-vector",
+    "system": "Cardiovascular",
+    "prompt": "Chagas disease is transmitted by which bug?",
+    "choices": [
+      "Sandfly",
+      "Tsetse fly",
+      "Triatomine (reduviid/kissing) bug",
+      "Anopheles mosquito"
+    ],
+    "correct": 2,
+    "note": "Chagas dx = cardio + GI dilation. T cruzi via <strong>triatomine bug</strong> endemic to C and S america.",
+    "explanation": "Infected bug feces contaminate the bite wound or mucosa \u2192 T. cruzi transmission.",
+    "faKeys": [
+      "fa-chagas"
+    ],
+    "hyKeys": [
+      "hy-dcm"
+    ],
+    "journalPage": 1,
+    "batch": 1,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman: Chagas/DCM context; First Aid supplies the vector."
+    ]
+  }
+]

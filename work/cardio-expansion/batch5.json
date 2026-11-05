@@ -1,0 +1,703 @@
+[
+  {
+    "id": "cardio-statin-ldlr",
+    "system": "Cardiovascular",
+    "prompt": "Statins \u2192 \u2191 hepatic LDL uptake. Why?",
+    "choices": [
+      "Reduced hepatic LDL receptors",
+      "Increased hepatic LDL receptors",
+      "Increased intestinal cholesterol absorption",
+      "Increased VLDL export"
+    ],
+    "correct": 1,
+    "note": "Decreased cholesterol in the liver \u2192 liver starts pulling it from the blood by <strong>increasing LDL receptors</strong>.",
+    "explanation": "\u2193 Hepatic cholesterol synthesis \u2192 \u2191 LDL-receptor expression \u2192 \u2191 LDL clearance.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ]
+  },
+  {
+    "id": "cardio-statin-muscle",
+    "system": "Cardiovascular",
+    "prompt": "Statin + diffuse muscle pain + \u2191 CK \u2192 adverse effect?",
+    "choices": [
+      "Cholesterol embolism",
+      "Rheumatic fever",
+      "Myopathy",
+      "Vitamin C deficiency"
+    ],
+    "correct": 2,
+    "note": "Key side effects: <strong>myopathy (pain, CK)</strong>, and hepatotoxicity.",
+    "explanation": "Statin-associated muscle injury \u2192 pain/weakness \u00b1 CK elevation. Marked CK elevation with systemic injury suggests rhabdomyolysis.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ]
+  },
+  {
+    "id": "cardio-statin-liver",
+    "system": "Cardiovascular",
+    "prompt": "Statin-associated hepatic injury can raise\u2026",
+    "choices": [
+      "AST/ALT",
+      "Serum sodium only",
+      "Troponin only",
+      "Urinary ketones only"
+    ],
+    "correct": 0,
+    "note": "Key side effects: myopathy (pain, CK), and <strong>hepatotoxicity</strong>.",
+    "explanation": "Statins can raise transaminases. Mild isolated elevations do not automatically mean clinically significant liver injury.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ]
+  },
+  {
+    "id": "cardio-statin-cyp",
+    "system": "Cardiovascular",
+    "prompt": "CYP3A4 inhibitor + simvastatin \u2192 \u2191 toxicity. Why?",
+    "choices": [
+      "Increased renal secretion",
+      "Reduced intestinal absorption",
+      "Increased LDL receptors only",
+      "Reduced statin metabolism"
+    ],
+    "correct": 3,
+    "note": "<strong>Metabolized by CYP; using a CYP inhibitor will increase toxicity.</strong>",
+    "explanation": "\u2193 Simvastatin metabolism \u2192 \u2191 drug exposure \u2192 \u2191 myopathy risk. This is statin-specific; pravastatin is not substantially CYP-metabolized.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ],
+    "verification": [
+      {
+        "title": "DailyMed: simvastatin interactions",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4724dbb4-3613-4e6a-948f-a43d34f97f06&version=29"
+      }
+    ],
+    "referenceNotes": [
+      "The full drug illustration supports the CYP interaction; the mechanism is not stated directly in the FA/Mehlman lipid excerpts."
+    ]
+  },
+  {
+    "id": "cardio-statin-severe-ldl",
+    "system": "Cardiovascular",
+    "prompt": "Otherwise eligible adult, LDL \u2265190 mg/dL \u2192 usual statin intensity?",
+    "choices": [
+      "Low intensity only",
+      "High intensity",
+      "No statin regardless of risk",
+      "One dose then stop"
+    ],
+    "correct": 1,
+    "note": "Cut offs: &gt;100 = hyperlipidemia; <strong>&gt;190 or prior MI \u2192 high intensity statin</strong>.",
+    "explanation": "Severe primary LDL elevation \u2192 high-intensity/maximally tolerated statin. The threshold is \u2265190, not strictly >190.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ],
+    "verification": [
+      {
+        "title": "2026 AHA/ACC dyslipidemia guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001423"
+      }
+    ],
+    "referenceNotes": [
+      "Older age/LDL cutoffs in Mehlman are historical shorthand; eligibility, tolerance and clinical context still matter."
+    ]
+  },
+  {
+    "id": "cardio-statin-secondary",
+    "system": "Cardiovascular",
+    "prompt": "Eligible adult with prior MI \u2192 preferred statin intensity?",
+    "choices": [
+      "Low intensity only",
+      "No statin after MI",
+      "High intensity",
+      "Only a one-time loading dose"
+    ],
+    "correct": 2,
+    "note": "&gt;190 or <strong>prior MI \u2192 high intensity statin</strong>.",
+    "explanation": "Clinical ASCVD \u2192 high-intensity/maximally tolerated statin for secondary prevention.",
+    "faKeys": [
+      "fa-lipid-agents",
+      "fa-mi-complications"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ],
+    "verification": [
+      {
+        "title": "2026 AHA/ACC dyslipidemia guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001423"
+      }
+    ],
+    "referenceNotes": [
+      "Current secondary-prevention recommendations qualify the older cutoffs in the complete Mehlman box."
+    ]
+  },
+  {
+    "id": "cardio-b12-overstatement",
+    "system": "Cardiovascular",
+    "prompt": "Severe B12-deficiency anemia can cause tachycardia because\u2026",
+    "choices": [
+      "Reduced O\u2082-carrying capacity triggers compensatory \u2191 CO",
+      "B12 directly blocks beta receptors",
+      "Anemia always raises blood viscosity",
+      "B12 deficiency prevents every cardiac symptom"
+    ],
+    "correct": 0,
+    "note": "<strong>B12 deficiency does not present with cardio symptoms.</strong>",
+    "explanation": "Correction: severe anemia can cause tachycardia/dyspnea and high-output stress. B1 deficiency + edema/polyneuropathy remains the classic wet-beriberi pattern.",
+    "faKeys": [
+      "fa-b12",
+      "fa-b1"
+    ],
+    "hyKeys": [
+      "hy-dcm"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman DCM box is related B1/wet-beriberi context, not a direct B12-cardiac-symptom statement."
+    ]
+  },
+  {
+    "id": "cardio-wet-beriberi",
+    "system": "Cardiovascular",
+    "prompt": "High-output HF + edema + polyneuropathy \u2192 deficiency?",
+    "choices": [
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin C",
+      "Thiamine (B1)"
+    ],
+    "correct": 3,
+    "note": "Signs of fluid overload + edema + polyneuropathy = <strong>wet berry berry from B1 deficiency (high output HF)</strong>.",
+    "explanation": "B1 deficiency \u2192 impaired energy metabolism + vasodilation \u2192 high-output HF; peripheral neuropathy may coexist.",
+    "faKeys": [
+      "fa-b1"
+    ],
+    "hyKeys": [
+      "hy-dcm"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "thiamine"
+    ],
+    "referenceNotes": [
+      "No thiamine drug scene was located in the supplied pharmacology PDF."
+    ]
+  },
+  {
+    "id": "cardio-rhf-hydrostatic",
+    "system": "Cardiovascular",
+    "prompt": "RHF-related ascites: venous capillary hydrostatic pressure\u2026",
+    "choices": [
+      "Decreases",
+      "Increases",
+      "Must be zero",
+      "Is replaced by oncotic pressure"
+    ],
+    "correct": 1,
+    "note": "Ascites due to RHF: <strong>Portal capillary hydrostatic pressure: high</strong> because more BV.",
+    "explanation": "Systemic/hepatic venous back-pressure \u2192 \u2191 capillary hydrostatic pressure \u2192 fluid transudation.",
+    "faKeys": [
+      "fa-capillary",
+      "fa-rhf"
+    ],
+    "hyKeys": [
+      "hy-rhf"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": []
+  },
+  {
+    "id": "cardio-rhf-oncotic",
+    "system": "Cardiovascular",
+    "prompt": "Uncomplicated RHF edema with normal albumin: plasma oncotic pressure\u2026",
+    "choices": [
+      "Must be zero",
+      "Must be elevated",
+      "Remains normal",
+      "Must be reduced"
+    ],
+    "correct": 2,
+    "note": "Portal capillary oncotic pressure: <strong>normal because this is determined by albumin</strong> and we have no evidence of decreased synthesis or increased excretion.",
+    "explanation": "Hydrostatic pressure drives this edema. Low albumin is not required; coexisting hepatic/renal disease can change the pattern.",
+    "faKeys": [
+      "fa-capillary"
+    ],
+    "hyKeys": [
+      "hy-rhf"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": []
+  },
+  {
+    "id": "cardio-rhf-permeability",
+    "system": "Cardiovascular",
+    "prompt": "Uncomplicated RHF edema: capillary permeability\u2026",
+    "choices": [
+      "Usually remains normal",
+      "Must greatly increase",
+      "Must be zero",
+      "Is the only driver of edema"
+    ],
+    "correct": 0,
+    "note": "Portal capillary permeability: <strong>normal</strong>; increases are classically associated with inflammation and malignancy (exudative).",
+    "explanation": "Heart-failure edema is primarily hydrostatic transudation, rather than inflammatory leakage.",
+    "faKeys": [
+      "fa-capillary"
+    ],
+    "hyKeys": [
+      "hy-rhf"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": []
+  },
+  {
+    "id": "cardio-verapamil-muscle",
+    "system": "Cardiovascular",
+    "prompt": "Why does verapamil depress cardiac contraction more than skeletal contraction?",
+    "choices": [
+      "Skeletal muscle has no calcium",
+      "Cardiac muscle lacks an SR",
+      "Verapamil blocks skeletal troponin",
+      "Cardiac SR release requires extracellular Ca\u00b2\u207a entry"
+    ],
+    "correct": 3,
+    "note": "In cardiac cells, the Ca+2 needed for contraction comes extracellularly (<strong>Ca+2 induced Ca+2 release</strong>) whereas in muscle it comes from the sarcoplasmic reticulum.",
+    "explanation": "Cardiac L-type Ca\u00b2\u207a entry triggers SR release. Skeletal DHPR mechanically activates RyR1, without requiring extracellular Ca\u00b2\u207a influx for each contraction.",
+    "faKeys": [
+      "fa-ccb",
+      "fa-muscle-coupling"
+    ],
+    "hyKeys": [
+      "hy-verapamil"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "verapamil"
+    ],
+    "verification": [
+      {
+        "title": "Cardiac versus skeletal excitation\u2013contraction coupling",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10744351/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-age-sigmoid",
+    "system": "Cardiovascular",
+    "prompt": "Age-related basal septal bulge \u2192 ventricular shape?",
+    "choices": [
+      "Globular vegetation",
+      "Sigmoid septum",
+      "Apical thrombus",
+      "Bicuspid septum"
+    ],
+    "correct": 1,
+    "note": "Normal aging = <strong>sigmoid shape</strong> bc the LV chamber length decreases and brown lipofuscin.",
+    "explanation": "Age-related basal septal prominence can produce a sigmoid contour. Lipofuscin is a separate aging finding, not the cause of that shape.",
+    "faKeys": [
+      "fa-aging"
+    ],
+    "hyKeys": [
+      "hy-lipofuscin-review"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "FA/Mehlman screenshots cover the separate lipofuscin aging finding; neither directly describes sigmoid septal anatomy."
+    ],
+    "verification": [
+      {
+        "title": "Sigmoid septum morphology",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35038184/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-age-lipofuscin",
+    "system": "Cardiovascular",
+    "prompt": "Yellow-brown \u201cwear-and-tear\u201d pigment in aged cardiomyocytes?",
+    "choices": [
+      "Bilirubin",
+      "Melanin",
+      "Lipofuscin",
+      "Amyloid"
+    ],
+    "correct": 2,
+    "note": "Normal aging ... <strong>brown lipofuscin</strong>.",
+    "explanation": "Residual lysosomal lipid/protein oxidation products accumulate as lipofuscin.",
+    "faKeys": [
+      "fa-aging"
+    ],
+    "hyKeys": [
+      "hy-lipofuscin-review"
+    ],
+    "journalPage": 4,
+    "batch": 5,
+    "more": []
+  },
+  {
+    "id": "cardio-cocaine-coronary",
+    "system": "Cardiovascular",
+    "prompt": "Cocaine \u2192 myocardial ischemia. Classic coronary effect?",
+    "choices": [
+      "Vasospasm",
+      "Persistent vasodilation",
+      "Congenital coronary atresia",
+      "Loss of all coronary smooth muscle"
+    ],
+    "correct": 0,
+    "note": "Cocaine toxicity \u2192 <strong>coronary artery vasospasm/constriction</strong>.",
+    "explanation": "\u2191 Synaptic catecholamines \u2192 coronary vasoconstriction + \u2191 myocardial O\u2082 demand \u2192 ischemia.",
+    "faKeys": [
+      "fa-sympathomimetics"
+    ],
+    "hyKeys": [],
+    "journalPage": 4,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "cocaine"
+    ],
+    "referenceNotes": [
+      "No direct coronary-vasospasm passage located in HY Cardio; its cocaine mentions focus on other complications."
+    ]
+  },
+  {
+    "id": "cardio-tca-arrhythmia",
+    "system": "Cardiovascular",
+    "prompt": "TCA overdose \u2192 QRS widening/ventricular arrhythmia. Which channel is blocked?",
+    "choices": [
+      "L-type calcium",
+      "Slow potassium only",
+      "Chloride",
+      "Fast sodium"
+    ],
+    "correct": 3,
+    "note": "<strong>Na+ channel inactivation leading to arrhythmias</strong> is the most common cause of death in TCA overdose; you can treat with sodium bicarb.",
+    "explanation": "Fast Na\u207a channel blockade \u2192 slowed ventricular conduction \u2192 wide QRS and malignant arrhythmias.",
+    "faKeys": [
+      "fa-tca"
+    ],
+    "hyKeys": [],
+    "journalPage": 6,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "tca"
+    ],
+    "referenceNotes": [
+      "No direct TCA passage located in HY Cardio."
+    ]
+  },
+  {
+    "id": "cardio-tca-bicarbonate",
+    "system": "Cardiovascular",
+    "prompt": "TCA toxicity + wide QRS \u2192 treatment?",
+    "choices": [
+      "Calcium-channel blocker",
+      "IV sodium bicarbonate",
+      "Loop diuretic alone",
+      "Fibrate"
+    ],
+    "correct": 1,
+    "note": "TCA overdose ... <strong>you can treat with sodium bicarb</strong>.",
+    "explanation": "Sodium loading + alkalinization counter Na\u207a-channel cardiotoxicity and improve conduction.",
+    "faKeys": [
+      "fa-tca"
+    ],
+    "hyKeys": [],
+    "journalPage": 6,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "tca",
+      "sodium bicarbonate"
+    ],
+    "verification": [
+      {
+        "title": "AHA: life-threatening poisoning",
+        "url": "https://doi.org/10.1161/CIR.0000000000001161"
+      }
+    ],
+    "referenceNotes": [
+      "The TCA scene includes sodium bicarbonate treatment. No separate bicarbonate scene or direct HY Cardio passage was located."
+    ]
+  },
+  {
+    "id": "cardio-cocaine-reuptake",
+    "system": "Cardiovascular",
+    "prompt": "Cocaine raises synaptic catecholamines by\u2026",
+    "choices": [
+      "Activating catecholamine breakdown",
+      "Destroying all sympathetic terminals",
+      "Blocking catecholamine reuptake",
+      "Blocking catecholamine synthesis"
+    ],
+    "correct": 2,
+    "note": "Cocaine moa = <strong>inhibits catecholamine reuptake</strong>.",
+    "explanation": "Reuptake transporter inhibition \u2192 \u2191 synaptic NE \u2192 hypertension/tachycardia/vasoconstriction.",
+    "faKeys": [
+      "fa-sympathomimetics"
+    ],
+    "hyKeys": [],
+    "journalPage": 10,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "cocaine"
+    ],
+    "referenceNotes": [
+      "Repeated journal entries on pages 10 and 12 are combined. No direct reuptake-mechanism passage located in HY Cardio."
+    ]
+  },
+  {
+    "id": "cardio-nimodipine",
+    "system": "Cardiovascular",
+    "prompt": "Aneurysmal SAH: which CCB reduces delayed cerebral ischemia and improves outcomes?",
+    "choices": [
+      "Nimodipine",
+      "Nifedipine",
+      "Verapamil",
+      "Diltiazem"
+    ],
+    "correct": 0,
+    "note": "Preventing vasospasm post SAH = <strong>CCB (Nimodipine)</strong>.",
+    "explanation": "Early enteral nimodipine improves outcomes after aneurysmal SAH. Its benefit is not simply prevention of visible large-vessel vasospasm.",
+    "faKeys": [
+      "fa-ccb"
+    ],
+    "hyKeys": [],
+    "journalPage": 10,
+    "batch": 5,
+    "more": [],
+    "drugTerms": [
+      "nimodipine"
+    ],
+    "otherDrugTerms": [
+      "verapamil",
+      "diltiazem",
+      "nifedipine"
+    ],
+    "verification": [
+      {
+        "title": "2023 AHA/ASA aneurysmal SAH guideline",
+        "url": "https://doi.org/10.1161/STR.0000000000000436"
+      }
+    ],
+    "referenceNotes": [
+      "Repeated notes on pages 10\u201312 are combined. No direct nimodipine passage located in HY Cardio."
+    ]
+  },
+  {
+    "id": "cardio-right-carotid-path",
+    "system": "Cardiovascular",
+    "prompt": "Aortic arch \u2192 ? \u2192 right common carotid.",
+    "choices": [
+      "Left subclavian",
+      "Left common carotid",
+      "Pulmonary trunk",
+      "Brachiocephalic trunk"
+    ],
+    "correct": 3,
+    "note": "Right eye = <strong>Brachiocephalic \u2192 common carotid \u2192 internal carotid</strong>.",
+    "explanation": "Right route: arch \u2192 brachiocephalic trunk \u2192 right common carotid \u2192 right internal carotid \u2192 ophthalmic artery.",
+    "faKeys": [
+      "fa-arch"
+    ],
+    "hyKeys": [],
+    "journalPage": 12,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "FA arch diagram is related embryologic anatomy, not a direct adult-route statement. No direct carotid-route passage located in HY Cardio."
+    ]
+  },
+  {
+    "id": "cardio-left-carotid-path",
+    "system": "Cardiovascular",
+    "prompt": "Left common carotid normally arises directly from\u2026",
+    "choices": [
+      "Brachiocephalic trunk",
+      "Aortic arch",
+      "Right subclavian",
+      "Pulmonary trunk"
+    ],
+    "correct": 1,
+    "note": "Left eye = <strong>no brachiocephalic</strong>.",
+    "explanation": "Left route: arch \u2192 left common carotid \u2192 left internal carotid \u2192 ophthalmic artery. Anatomic variants exist.",
+    "faKeys": [
+      "fa-arch"
+    ],
+    "hyKeys": [],
+    "journalPage": 13,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "FA supplies related arch-development context; no exact adult left-carotid-route statement located in these FA/Mehlman excerpts."
+    ]
+  },
+  {
+    "id": "cardio-congenital-down-asd",
+    "system": "Cardiovascular",
+    "prompt": "AV septal defect / endocardial cushion defect \u2192 classic syndrome?",
+    "choices": [
+      "Turner",
+      "Marfan",
+      "Down",
+      "Ehlers-Danlos"
+    ],
+    "correct": 2,
+    "note": "<strong>ASD = Down syndrome</strong>; Ventral Septal Defect = Down syndrome.",
+    "explanation": "Down syndrome is classically linked to AV septal defects; ASD and VSD may occur. Isolated ASD/VSD is not specific for Down syndrome.",
+    "faKeys": [
+      "fa-congenital-associations"
+    ],
+    "hyKeys": [
+      "hy-avsd"
+    ],
+    "journalPage": 19,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "Overlapping ASD and VSD journal associations (pages 19\u201320) are combined into the more specific endocardial-cushion pattern."
+    ]
+  },
+  {
+    "id": "cardio-congenital-turner-bav",
+    "system": "Cardiovascular",
+    "prompt": "Bicuspid aortic valve + short stature/webbed neck \u2192 syndrome?",
+    "choices": [
+      "Turner",
+      "Down",
+      "Marfan",
+      "Klinefelter"
+    ],
+    "correct": 0,
+    "note": "<strong>Bicuspid aortic valve = Turner Syndrome.</strong>",
+    "explanation": "Turner syndrome \u2192 bicuspid aortic valve and/or coarctation. Bicuspid valves also occur without Turner syndrome.",
+    "faKeys": [
+      "fa-congenital-associations"
+    ],
+    "hyKeys": [
+      "hy-as"
+    ],
+    "journalPage": 20,
+    "batch": 5,
+    "more": []
+  },
+  {
+    "id": "cardio-mitral-stenosis-rheumatic",
+    "system": "Cardiovascular",
+    "prompt": "Classic acquired cause of mitral stenosis?",
+    "choices": [
+      "Acute viral myocarditis",
+      "Patent ductus arteriosus",
+      "Primary hyperaldosteronism",
+      "Remote rheumatic heart disease"
+    ],
+    "correct": 3,
+    "note": "Mitral stenosis = <strong>not congenital, rheumatic fever</strong>.",
+    "explanation": "Remote rheumatic inflammation \u2192 commissural fusion/scarring \u2192 MS. Congenital MS exists but is uncommon.",
+    "faKeys": [
+      "fa-ms"
+    ],
+    "hyKeys": [
+      "hy-ms"
+    ],
+    "journalPage": 20,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "The complete Mehlman box includes additional historical exam shorthand; this question tests the classic rheumatic association."
+    ]
+  },
+  {
+    "id": "cardio-pda-rubella",
+    "system": "Cardiovascular",
+    "prompt": "PDA \u2192 classic congenital infection?",
+    "choices": [
+      "CMV",
+      "Rubella",
+      "Toxoplasma",
+      "HSV"
+    ],
+    "correct": 1,
+    "note": "Patent Ductus Arteriosus = <strong>Rubella</strong>.",
+    "explanation": "Congenital rubella \u2192 PDA and pulmonary artery stenosis; cataracts and sensorineural deafness are classic accompanying findings.",
+    "faKeys": [
+      "fa-congenital-associations",
+      "fa-pda"
+    ],
+    "hyKeys": [
+      "hy-pda"
+    ],
+    "journalPage": 20,
+    "batch": 5,
+    "more": [],
+    "referenceNotes": [
+      "First Aid directly links congenital rubella to PDA; Mehlman supplies the full PDA box as defect context."
+    ]
+  }
+]

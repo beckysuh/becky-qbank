@@ -1,0 +1,204 @@
+{
+  "fa-ischemic-heart": {
+    "title": "First Aid 2017",
+    "page": "p. 293 \u00b7 PDF p. 314 \u00b7 Ischemic heart disease manifestations",
+    "image": "fa-ischemic-heart",
+    "alt": "Ischemic heart disease manifestations",
+    "context": "Ischemia/infarction context; the wall-motion term hypokinesis is not used here.",
+    "path": "work/cardio-expansion/assets/fa-ischemic-heart.jpg"
+  },
+  "fa-hcm": {
+    "title": "First Aid 2017",
+    "page": "p. 297 \u00b7 PDF p. 318 \u00b7 Hypertrophic cardiomyopathy, histology and outflow obstruction",
+    "image": "fa-hcm",
+    "alt": "Hypertrophic cardiomyopathy, histology and outflow obstruction",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-hcm.jpg"
+  },
+  "fa-fetal": {
+    "title": "First Aid 2017",
+    "page": "p. 270 \u00b7 PDF p. 291 \u00b7 Fetal circulation and ductus arteriosus",
+    "image": "fa-fetal",
+    "alt": "Fetal circulation and ductus arteriosus",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-fetal.jpg"
+  },
+  "fa-prostaglandins": {
+    "title": "First Aid 2017",
+    "page": "p. 455 \u00b7 PDF p. 476 \u00b7 Arachidonic acid pathway: TXA2, PGI2, PGE1 and drugs",
+    "image": "fa-prostaglandins",
+    "alt": "Arachidonic acid pathway: TXA2, PGI2, PGE1 and drugs",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-prostaglandins.jpg"
+  },
+  "fa-hf-raas": {
+    "title": "First Aid 2017",
+    "page": "p. 298 \u00b7 PDF p. 319 \u00b7 Heart failure and compensatory RAAS diagram",
+    "image": "fa-hf-raas",
+    "alt": "Heart failure and compensatory RAAS diagram",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-hf-raas.jpg"
+  },
+  "fa-tof": {
+    "title": "First Aid 2017",
+    "page": "p. 288 \u00b7 PDF p. 309 \u00b7 Tetralogy of Fallot",
+    "image": "fa-tof",
+    "alt": "Tetralogy of Fallot",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tof.jpg"
+  },
+  "fa-adp": {
+    "title": "First Aid 2017",
+    "page": "p. 415 \u00b7 PDF p. 436 \u00b7 ADP receptor inhibitors: clopidogrel",
+    "image": "fa-adp",
+    "alt": "ADP receptor inhibitors: clopidogrel",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-adp.jpg"
+  },
+  "fa-atherosclerosis": {
+    "title": "First Aid 2017",
+    "page": "p. 292 \u00b7 PDF p. 313 \u00b7 Atherosclerosis progression and smooth muscle recruitment",
+    "image": "fa-atherosclerosis",
+    "alt": "Atherosclerosis progression and smooth muscle recruitment",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-atherosclerosis.jpg"
+  },
+  "fa-nitrates": {
+    "title": "First Aid 2017",
+    "page": "p. 305 \u00b7 PDF p. 326 \u00b7 Nitrates: mechanism and effects",
+    "image": "fa-nitrates",
+    "alt": "Nitrates: mechanism and effects",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-nitrates.jpg"
+  },
+  "fa-capillary": {
+    "title": "First Aid 2017",
+    "page": "p. 287 \u00b7 PDF p. 308 \u00b7 Capillary fluid exchange and hydrostatic pressure",
+    "image": "fa-capillary",
+    "alt": "Capillary fluid exchange and hydrostatic pressure",
+    "context": "Related edema mechanism, not a direct CVI-valve or pigmentation passage.",
+    "path": "work/cardio-expansion/assets/fa-capillary.jpg"
+  },
+  "fa-circulation": {
+    "title": "First Aid 2017",
+    "page": "p. 286 \u00b7 PDF p. 307 \u00b7 Normal cardiac pressures and circulation",
+    "image": "fa-circulation",
+    "alt": "Normal cardiac pressures and circulation",
+    "context": "Related adult circulation framework; equal serial flows are inferred, not explicitly stated.",
+    "path": "work/cardio-expansion/assets/fa-circulation.jpg"
+  },
+  "fa-platelets": {
+    "title": "First Aid 2017",
+    "page": "p. 393 \u00b7 PDF p. 414 \u00b7 Platelet plug formation and pro/anti-aggregation factors",
+    "image": "fa-platelets",
+    "alt": "Platelet plug formation and pro/anti-aggregation factors",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-platelets.jpg"
+  },
+  "fa-thrombolytics": {
+    "title": "First Aid 2017",
+    "page": "p. 415 \u00b7 PDF p. 436 \u00b7 Thrombolytic drugs and bleeding complications",
+    "image": "fa-thrombolytics",
+    "alt": "Thrombolytic drugs and bleeding complications",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-thrombolytics.jpg"
+  },
+  "fa-cell-injury": {
+    "title": "First Aid 2017",
+    "page": "p. 206 \u00b7 PDF p. 227 \u00b7 Cell injury: ATP depletion and pump failure",
+    "image": "fa-cell-injury",
+    "alt": "Cell injury: ATP depletion and pump failure",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-cell-injury.jpg"
+  },
+  "hy-lisinopril": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 40 \u00b7 complete Lisinopril box",
+    "image": "hy-lisinopril",
+    "alt": "Complete Lisinopril box, including all text, labels and figures",
+    "context": "The full drug box illustrates inhibition of the RAAS pathway.",
+    "path": "work/cardio-expansion/assets/hy-lisinopril.jpg"
+  },
+  "hy-tof": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 10 \u00b7 complete Tetralogy of Fallot box",
+    "image": "hy-tof",
+    "alt": "Complete Tetralogy of Fallot box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-tof.jpg"
+  },
+  "hy-athero-mechanism": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 28 \u00b7 complete atherosclerosis mechanism box",
+    "image": "hy-athero-mechanism",
+    "alt": "Complete atherosclerosis mechanism box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-athero-mechanism.jpg"
+  },
+  "hy-nitrates": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 41 \u00b7 complete Nitrates box",
+    "image": "hy-nitrates",
+    "alt": "Complete Nitrates box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-nitrates.jpg"
+  },
+  "hy-venous": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 33\u201334 \u00b7 complete venous disease box",
+    "image": "hy-venous",
+    "alt": "Complete venous disease box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-venous.jpg"
+  },
+  "hy-antiplatelet-context": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 19\u201322 \u00b7 complete acute MI box",
+    "image": "hy-antiplatelet-context",
+    "alt": "Complete acute MI box, including all text, labels and figures",
+    "context": "The matching aspirin/clopidogrel paragraph is on p. 21; the entire MI box is included.",
+    "path": "work/cardio-expansion/assets/hy-antiplatelet-context.jpg"
+  },
+  "pharm-nsaids": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 40 \u00b7 NSAIDs \u00b7 indomethacin and ibuprofen",
+    "image": "pharm-nsaids",
+    "alt": "NSAIDs \u00b7 indomethacin and ibuprofen \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-nsaids.jpg"
+  },
+  "pharm-prostaglandins": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 46 \u00b7 Prostaglandins \u00b7 alprostadil and prostacyclin",
+    "image": "pharm-prostaglandins",
+    "alt": "Prostaglandins \u00b7 alprostadil and prostacyclin \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-prostaglandins.jpg"
+  },
+  "pharm-antiplatelets": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 34 \u00b7 Antiplatelets \u00b7 clopidogrel and aspirin",
+    "image": "pharm-antiplatelets",
+    "alt": "Antiplatelets \u00b7 clopidogrel and aspirin \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-antiplatelets.jpg"
+  },
+  "pharm-nitrates": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 25 \u00b7 Nitrates \u00b7 nitroglycerin",
+    "image": "pharm-nitrates",
+    "alt": "Nitrates \u00b7 nitroglycerin \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-nitrates.jpg"
+  },
+  "pharm-thrombolytics": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 35 \u00b7 Fibrinolytics \u00b7 alteplase",
+    "image": "pharm-thrombolytics",
+    "alt": "Fibrinolytics \u00b7 alteplase \u2014 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-thrombolytics.jpg"
+  },
+  "pharm-adenosine-batch2": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 30 \u00b7 Adenosine",
+    "image": "pharm-adenosine-batch2",
+    "alt": "Adenosine \u2014 full mnemonic illustration",
+    "path": "work/pharm-images/adenosine.jpg"
+  }
+}

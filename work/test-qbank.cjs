@@ -1,0 +1,41 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const bank=JSON.parse(fs.readFileSync('work/qbank-data.json','utf8'));
+class El{constructor(){this.hidden=false;this.disabled=false;this.value='6';this.max=6;this.textContent='';this.innerHTML='';this.className='';this.checked=false;this.classList={toggle(){}}}querySelector(s){return this.children??={};}addEventListener(){}replaceChildren(){this.innerHTML=''}reportValidity(){} }
+const els=new Map();function el(s){if(!els.has(s))els.set(s,new El());return els.get(s)}
+for(const system of ['Cardiovascular','Neurology','Musculoskeletal']){const row=el(`[data-system="${system}"]`);row.querySelector=s=>el(system+s)}
+let checked=null;const document={getElementById(id){return {textContent:id==='question-data'?JSON.stringify(bank):'{}'}},querySelector(s){return s==='input[name="answer"]:checked'?checked:el(s)}};
+const store={};const localStorage={getItem(k){return store[k]||null},setItem(k,v){store[k]=v}};
+const c=vm.createContext({document,localStorage,console,Set,Math});const code=fs.readFileSync('work/qbank-app.js','utf8');vm.runInContext(code,c);
+const run=s=>vm.runInContext(s,c);
+assert.equal(run('available().length'),bank.length);assert.equal(run('BANK.filter(q=>qualifies(q,"unanswered")).length'),bank.length);
+run("$('#size').value='2';startTest()");assert.equal(run('state.session.ids.length'),2);assert.equal(el('#explanation').hidden,true);assert.equal(el('#explanation-content').innerHTML,'');
+const q=run('BANK.find(q=>q.id===state.session.ids[0])');checked={value:String((q.correct+1)%q.choices.length)};run('submit()');assert.equal(el('#explanation').hidden,false);assert.equal(run(`state.history[${JSON.stringify(q.id)}].latestCorrect`),false);assert.equal(run('BANK.filter(q=>qualifies(q,"incorrect")).length'),1);assert.equal(run('BANK.filter(q=>qualifies(q,"missed")).length'),1);assert.equal(run('BANK.filter(q=>qualifies(q,"unanswered")).length'),bank.length-1);
+run('go(1)');assert.equal(el('#explanation').hidden,true);assert.equal(el('#explanation-content').innerHTML,'');assert.equal(run('BANK.filter(q=>qualifies(q,"unanswered")).length'),bank.length-1);
+run('showCreate();pool="incorrect";refreshCounts()');assert.equal(run('available().length'),1);el('#size').value='1';run('startTest()');checked={value:String(q.correct)};run('submit()');assert.equal(run('BANK.filter(q=>qualifies(q,"incorrect")).length'),0);assert.equal(run('BANK.filter(q=>qualifies(q,"missed")).length'),1);assert.equal(run(`state.history[${JSON.stringify(q.id)}].attempts`),2);
+run('submit()');assert.equal(run(`state.history[${JSON.stringify(q.id)}].attempts`),2);run('finish()');assert.match(el('#completion').innerHTML,/Test complete/);
+const c2=vm.createContext({document,localStorage,console,Set,Math});vm.runInContext(code,c2);assert.equal(vm.runInContext(`state.history[${JSON.stringify(q.id)}].everMissed`,c2),true);assert.equal(vm.runInContext('validSession()',c2),true);
+run('pool="incorrect";showCreate()');assert.equal(el('#create').disabled,true);
+console.log('Passed: filtered counts, test creation, hidden explanations, submit/reveal, navigation, wrong→right retries, ever-missed history, duplicate-submit protection, completion, persistence/reload, empty pool.');
+el('#image-dialog').close=()=>{};
+run('resetAllQuestions()');
+assert.equal(run('Object.keys(state.history).length'),0);
+assert.equal(run('state.session'),null);
+assert.equal(run('BANK.filter(q=>qualifies(q,"unanswered")).length'),bank.length);
+assert.equal(run('BANK.filter(q=>qualifies(q,"missed")).length'),0);
+assert.equal(run('load().session'),null);
+assert.equal(run('Object.keys(load().history).length'),0);
+console.log('Passed: reset clears history and session, restores all unanswered, and persists reset.');
+run("source='nbme';state.source=source;save();refreshCounts()");
+assert.equal(run('available().length'),0);
+assert.equal(el('#create').disabled,true);
+assert.equal(el('#empty-pool').textContent,'No NBME questions added yet.');
+const c3=vm.createContext({document,localStorage,console,Set,Math});vm.runInContext(code,c3);
+assert.equal(vm.runInContext('source',c3),'nbme');
+assert.equal(vm.runInContext('available().length',c3),0);
+run("BANK.push({...BANK[0],id:'test-nbme',source:'nbme'});refreshCounts()");
+assert.equal(run('available().length'),1);
+run("$('#size').value='1';startTest()");
+assert.equal(run('state.session.ids[0]'),'test-nbme');
+run("source='all';pool='all';refreshCounts()");
+assert.equal(run('available().length'),bank.length+1);
+console.log('Passed: empty NBME pool, disabled creation, remembered source, NBME-only test creation and combined All Questions pool.');

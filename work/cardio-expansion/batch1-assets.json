@@ -1,0 +1,279 @@
+{
+  "fa-ccb": {
+    "title": "First Aid 2017",
+    "page": "p. 304 \u00b7 PDF p. 325 \u00b7 Calcium channel blockers",
+    "image": "fa-ccb",
+    "alt": "Calcium channel blockers",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-ccb.jpg"
+  },
+  "fa-co": {
+    "title": "First Aid 2017",
+    "page": "p. 272 \u00b7 PDF p. 293 \u00b7 Cardiac output and pulse pressure",
+    "image": "fa-co",
+    "alt": "Cardiac output and pulse pressure",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-co.jpg"
+  },
+  "fa-afterload": {
+    "title": "First Aid 2017",
+    "page": "p. 273 \u00b7 PDF p. 294 \u00b7 Preload, afterload and hypertrophy",
+    "image": "fa-afterload",
+    "alt": "Preload, afterload and hypertrophy",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-afterload.jpg"
+  },
+  "fa-oxygen": {
+    "title": "First Aid 2017",
+    "page": "p. 273 \u00b7 PDF p. 294 \u00b7 Myocardial oxygen demand",
+    "image": "fa-oxygen",
+    "alt": "Myocardial oxygen demand",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-oxygen.jpg"
+  },
+  "fa-aging": {
+    "title": "First Aid 2017",
+    "page": "p. 213 \u00b7 PDF p. 234 \u00b7 Lipofuscin and cellular aging",
+    "image": "fa-aging",
+    "alt": "Lipofuscin and cellular aging",
+    "context": "Related aging context; not a direct statement about cardiomyocyte number.",
+    "path": "work/cardio-expansion/assets/fa-aging.jpg"
+  },
+  "fa-baroreflex": {
+    "title": "First Aid 2017",
+    "page": "p. 285 \u00b7 PDF p. 306 \u00b7 Baroreceptors and chemoreceptors",
+    "image": "fa-baroreflex",
+    "alt": "Baroreceptors and chemoreceptors",
+    "context": "Baroreflex physiology; the age-specific change is not stated here.",
+    "path": "work/cardio-expansion/assets/fa-baroreflex.jpg"
+  },
+  "fa-pe": {
+    "title": "First Aid 2017",
+    "page": "p. 637 \u00b7 PDF p. 658 \u00b7 Pulmonary emboli",
+    "image": "fa-pe",
+    "alt": "Pulmonary emboli",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pe.jpg"
+  },
+  "fa-rhf": {
+    "title": "First Aid 2017",
+    "page": "p. 298 \u00b7 PDF p. 319 \u00b7 Heart failure",
+    "image": "fa-rhf",
+    "alt": "Heart failure",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-rhf.jpg"
+  },
+  "fa-pda": {
+    "title": "First Aid 2017",
+    "page": "p. 289 \u00b7 PDF p. 310 \u00b7 Patent ductus arteriosus",
+    "image": "fa-pda",
+    "alt": "Patent ductus arteriosus",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pda.jpg"
+  },
+  "fa-flutter": {
+    "title": "First Aid 2017",
+    "page": "p. 284 \u00b7 PDF p. 305 \u00b7 Atrial flutter",
+    "image": "fa-flutter",
+    "alt": "Atrial flutter",
+    "context": "Recognition and ECG; the cavotricuspid anatomy is not specified.",
+    "path": "work/cardio-expansion/assets/fa-flutter.jpg"
+  },
+  "fa-beta-agonists": {
+    "title": "First Aid 2017",
+    "page": "p. 234 \u00b7 PDF p. 255 \u00b7 Sympathomimetics: dobutamine",
+    "image": "fa-beta-agonists",
+    "alt": "Sympathomimetics: dobutamine",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-beta-agonists.jpg"
+  },
+  "fa-pericarditis": {
+    "title": "First Aid 2017",
+    "page": "p. 300 \u00b7 PDF p. 321 \u00b7 Acute pericarditis",
+    "image": "fa-pericarditis",
+    "alt": "Acute pericarditis",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-pericarditis.jpg"
+  },
+  "fa-tamponade": {
+    "title": "First Aid 2017",
+    "page": "p. 300 \u00b7 PDF p. 321 \u00b7 Cardiac tamponade and pulsus paradoxus",
+    "image": "fa-tamponade",
+    "alt": "Cardiac tamponade and pulsus paradoxus",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tamponade.jpg"
+  },
+  "fa-marfan": {
+    "title": "First Aid 2017",
+    "page": "p. 48 \u00b7 PDF p. 69 \u00b7 Elastin and Marfan syndrome",
+    "image": "fa-marfan",
+    "alt": "Elastin and Marfan syndrome",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-marfan.jpg"
+  },
+  "fa-aneurysm": {
+    "title": "First Aid 2017",
+    "page": "p. 292 \u00b7 PDF p. 313 \u00b7 Thoracic aortic aneurysm and medial degeneration",
+    "image": "fa-aneurysm",
+    "alt": "Thoracic aortic aneurysm and medial degeneration",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-aneurysm.jpg"
+  },
+  "fa-coronary": {
+    "title": "First Aid 2017",
+    "page": "p. 271 \u00b7 PDF p. 292 \u00b7 Coronary artery anatomy",
+    "image": "fa-coronary",
+    "alt": "Coronary artery anatomy",
+    "context": "Related coronary anatomy; this page does not state the RV-specific systolic/diastolic distinction.",
+    "path": "work/cardio-expansion/assets/fa-coronary.jpg"
+  },
+  "fa-dissection": {
+    "title": "First Aid 2017",
+    "page": "p. 293 \u00b7 PDF p. 314 \u00b7 Aortic dissection",
+    "image": "fa-dissection",
+    "alt": "Aortic dissection",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-dissection.jpg"
+  },
+  "fa-digoxin": {
+    "title": "First Aid 2017",
+    "page": "p. 307 \u00b7 PDF p. 328 \u00b7 Cardiac glycosides: digoxin",
+    "image": "fa-digoxin",
+    "alt": "Cardiac glycosides: digoxin",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-digoxin.jpg"
+  },
+  "fa-chagas": {
+    "title": "First Aid 2017",
+    "page": "p. 154 \u00b7 PDF p. 175 \u00b7 Trypanosoma cruzi: cardiomyopathy and GI dilation",
+    "image": "fa-chagas",
+    "alt": "Trypanosoma cruzi: cardiomyopathy and GI dilation",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-chagas.jpg"
+  },
+  "hy-nifedipine": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 38 \u00b7 complete Nifedipine box",
+    "image": "hy-nifedipine",
+    "alt": "Complete Nifedipine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-nifedipine.jpg"
+  },
+  "hy-verapamil": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 38 \u00b7 complete Verapamil box",
+    "image": "hy-verapamil",
+    "alt": "Complete Verapamil box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-verapamil.jpg"
+  },
+  "hy-hocm": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 27 \u00b7 complete HOCM box",
+    "image": "hy-hocm",
+    "alt": "Complete HOCM box, including all text, labels and figures",
+    "context": "The rate/filling statement appears within the HOCM discussion.",
+    "path": "work/cardio-expansion/assets/hy-hocm.jpg"
+  },
+  "hy-beta": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 38\u201339 \u00b7 complete beta-blocker box",
+    "image": "hy-beta",
+    "alt": "Complete beta-blocker box, including all text, labels and figures",
+    "context": "The slowing-HR/filling relationship appears within the beta-blocker discussion.",
+    "path": "work/cardio-expansion/assets/hy-beta.jpg"
+  },
+  "hy-cor-pulmonale": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 3\u20134 \u00b7 complete cor pulmonale box",
+    "image": "hy-cor-pulmonale",
+    "alt": "Complete cor pulmonale box, including all text, labels and figures",
+    "context": "Related RV afterload/pulmonary-pressure context; not PE-specific.",
+    "path": "work/cardio-expansion/assets/hy-cor-pulmonale.jpg"
+  },
+  "hy-pda": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 9\u201310 \u00b7 complete PDA box",
+    "image": "hy-pda",
+    "alt": "Complete PDA box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-pda.jpg"
+  },
+  "hy-flutter": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 17\u201318 \u00b7 complete atrial flutter box",
+    "image": "hy-flutter",
+    "alt": "Complete atrial flutter box, including all text, labels and figures",
+    "context": "Recognition and ECG; the cavotricuspid isthmus is not described in this box.",
+    "path": "work/cardio-expansion/assets/hy-flutter.jpg"
+  },
+  "hy-dobutamine": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 39 \u00b7 complete Dobutamine box",
+    "image": "hy-dobutamine",
+    "alt": "Complete Dobutamine box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-dobutamine.jpg"
+  },
+  "hy-pericarditis": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 22 \u00b7 complete Pericarditis box",
+    "image": "hy-pericarditis",
+    "alt": "Complete Pericarditis box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-pericarditis.jpg"
+  },
+  "hy-tamponade": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 23 \u00b7 complete pericardial effusion / cardiac tamponade box",
+    "image": "hy-tamponade",
+    "alt": "Complete pericardial effusion / cardiac tamponade box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-tamponade.jpg"
+  },
+  "hy-dissection": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 13\u201314 \u00b7 complete aortic dissection box",
+    "image": "hy-dissection",
+    "alt": "Complete aortic dissection box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-dissection.jpg"
+  },
+  "hy-digoxin": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 39 \u00b7 complete Digoxin box",
+    "image": "hy-digoxin",
+    "alt": "Complete Digoxin box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-digoxin.jpg"
+  },
+  "hy-dcm": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 26\u201327 \u00b7 complete dilated cardiomyopathy box",
+    "image": "hy-dcm",
+    "alt": "Complete dilated cardiomyopathy box, including all text, labels and figures",
+    "context": "Chagas is listed as a cause; First Aid supplies the GI-dilation connection.",
+    "path": "work/cardio-expansion/assets/hy-dcm.jpg"
+  },
+  "pharm-dobutamine": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 10 \u00b7 Dobutamine \u00b7 adrenergic agonists",
+    "image": "pharm-dobutamine",
+    "alt": "Dobutamine \u00b7 adrenergic agonists",
+    "path": "work/cardio-expansion/assets/pharm-dobutamine.jpg"
+  },
+  "pharm-digoxin": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 30 \u00b7 Digoxin \u00b7 full mnemonic scene",
+    "image": "pharm-digoxin",
+    "alt": "Digoxin \u00b7 full mnemonic scene",
+    "path": "work/cardio-expansion/assets/pharm-digoxin.jpg"
+  },
+  "pharm-ccb-batch1": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 24 \u00b7 Calcium channel blockers \u00b7 full mnemonic scene",
+    "image": "pharm-ccb-batch1",
+    "alt": "Calcium channel blockers \u00b7 full mnemonic scene",
+    "path": "work/cardio-expansion/assets/pharm-ccb-batch1.jpg"
+  }
+}

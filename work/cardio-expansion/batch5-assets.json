@@ -1,0 +1,111 @@
+{
+  "fa-b1": {
+    "title": "First Aid 2017",
+    "page": "p. 62 \u00b7 PDF p. 83 \u00b7 Thiamine: wet and dry beriberi",
+    "image": "fa-b1",
+    "alt": "Thiamine: wet and dry beriberi",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-b1.jpg"
+  },
+  "fa-b12": {
+    "title": "First Aid 2017",
+    "page": "p. 65 \u00b7 PDF p. 86 \u00b7 B12 deficiency: anemia and neurologic findings",
+    "image": "fa-b12",
+    "alt": "B12 deficiency: anemia and neurologic findings",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-b12.jpg"
+  },
+  "fa-tca": {
+    "title": "First Aid 2017",
+    "page": "p. 545 \u00b7 PDF p. 566 \u00b7 Tricyclic antidepressants and overdose",
+    "image": "fa-tca",
+    "alt": "Tricyclic antidepressants and overdose",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-tca.jpg"
+  },
+  "fa-muscle-coupling": {
+    "title": "First Aid 2017",
+    "page": "p. 433 \u00b7 PDF p. 454 \u00b7 Skeletal muscle contraction and calcium release",
+    "image": "fa-muscle-coupling",
+    "alt": "Skeletal muscle contraction and calcium release",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-muscle-coupling.jpg"
+  },
+  "fa-congenital-associations": {
+    "title": "First Aid 2017",
+    "page": "p. 290 \u00b7 PDF p. 311 \u00b7 Congenital cardiac defect associations",
+    "image": "fa-congenital-associations",
+    "alt": "Congenital cardiac defect associations",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-congenital-associations.jpg"
+  },
+  "fa-ms": {
+    "title": "First Aid 2017",
+    "page": "p. 279 \u00b7 PDF p. 300 \u00b7 Mitral stenosis",
+    "image": "fa-ms",
+    "alt": "Mitral stenosis",
+    "context": "",
+    "path": "work/cardio-expansion/assets/fa-ms.jpg"
+  },
+  "fa-arch": {
+    "title": "First Aid 2017",
+    "page": "p. 586 \u00b7 PDF p. 607 \u00b7 Aortic arch derivatives and arterial diagram",
+    "image": "fa-arch",
+    "alt": "Aortic arch derivatives and arterial diagram",
+    "context": "Embryologic anatomy context; not a direct statement of the adult carotid route.",
+    "path": "work/cardio-expansion/assets/fa-arch.jpg"
+  },
+  "hy-rhf": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 3 \u00b7 complete Right heart failure box",
+    "image": "hy-rhf",
+    "alt": "Complete Right heart failure box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-rhf.jpg"
+  },
+  "hy-avsd": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 6 \u00b7 complete Atrioventricular septal defect box",
+    "image": "hy-avsd",
+    "alt": "Complete Atrioventricular septal defect box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-avsd.jpg"
+  },
+  "hy-ms": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 7 \u00b7 complete Mitral stenosis box",
+    "image": "hy-ms",
+    "alt": "Complete Mitral stenosis box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-ms.jpg"
+  },
+  "hy-as": {
+    "title": "Mehlman HY Cardio",
+    "page": "pp. 8\u20139 \u00b7 complete Aortic stenosis box",
+    "image": "hy-as",
+    "alt": "Complete Aortic stenosis box, including all text, labels and figures",
+    "context": "",
+    "path": "work/cardio-expansion/assets/hy-as.jpg"
+  },
+  "hy-lipofuscin-review": {
+    "title": "Mehlman HY Cardio",
+    "page": "p. 71 \u00b7 complete lipofuscin rapid-review bullet",
+    "image": "hy-lipofuscin-review",
+    "alt": "Complete rapid-review bullet on cardiac aging and lipofuscin",
+    "path": "work/cardio-expansion/assets/hy-lipofuscin-review.jpg"
+  },
+  "pharm-tca": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 79 \u00b7 Tricyclic antidepressants",
+    "image": "pharm-tca",
+    "alt": "Tricyclic antidepressants \u00b7 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-tca.jpg"
+  },
+  "pharm-cocaine": {
+    "title": "Sketchy and Pixo Pharms",
+    "page": "PDF p. 12 \u00b7 Indirect sympathomimetics \u00b7 cocaine",
+    "image": "pharm-cocaine",
+    "alt": "Indirect sympathomimetics \u00b7 cocaine \u00b7 full mnemonic illustration",
+    "path": "work/cardio-expansion/assets/pharm-cocaine.jpg"
+  }
+}

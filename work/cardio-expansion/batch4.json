@@ -1,0 +1,577 @@
+[
+  {
+    "id": "cardio-niacin-outcomes",
+    "system": "Cardiovascular",
+    "prompt": "Why is niacin not routinely added to effective statin therapy?",
+    "choices": [
+      "It cannot change lipid levels",
+      "No added cardiovascular event benefit",
+      "It blocks all statin absorption",
+      "It always causes pancreatitis"
+    ],
+    "correct": 1,
+    "note": "B3 was historically used but isn\u2019t bc there is <strong>little mortality benefit compared to statins in CTs</strong>.",
+    "explanation": "Adding niacin improves lipid numbers without improving cardiovascular outcomes in major statin-treated trials.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-niacin"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "niacin",
+      "statins"
+    ],
+    "verification": [
+      {
+        "title": "NHLBI: AIM-HIGH trial results",
+        "url": "https://www.nhlbi.nih.gov/grants-and-training/aim-high-faqs"
+      }
+    ],
+    "referenceNotes": [
+      "The trial comparison is niacin added to statin therapy versus statin therapy alone; the journal phrasing is narrowed accordingly."
+    ]
+  },
+  {
+    "id": "cardio-niacin-flush",
+    "system": "Cardiovascular",
+    "prompt": "Niacin \u2192 flushing. Which mediator?",
+    "choices": [
+      "Histamine",
+      "Bradykinin only",
+      "Prostaglandins",
+      "Leukotrienes"
+    ],
+    "correct": 2,
+    "note": "Flushing: <strong>dilates vessels via prostaglandins</strong>.",
+    "explanation": "Niacin \u2192 prostaglandin-mediated cutaneous vasodilation \u2192 flushing.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-niacin"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "niacin"
+    ]
+  },
+  {
+    "id": "cardio-niacin-aspirin",
+    "system": "Cardiovascular",
+    "prompt": "Why does aspirin reduce niacin flushing?",
+    "choices": [
+      "COX inhibition \u2192 less prostaglandin synthesis",
+      "Direct alpha-1 stimulation",
+      "Increased niacin clearance",
+      "Histamine receptor blockade"
+    ],
+    "correct": 0,
+    "note": "<strong>Aspirin can prevent flushing</strong>, give 30 min before B3.",
+    "explanation": "Aspirin inhibits COX \u2192 \u2193 prostaglandins \u2192 less flushing.",
+    "faKeys": [
+      "fa-lipid-agents",
+      "fa-prostaglandins"
+    ],
+    "hyKeys": [
+      "hy-niacin"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "niacin",
+      "aspirin"
+    ]
+  },
+  {
+    "id": "cardio-hydralazine-edema",
+    "system": "Cardiovascular",
+    "prompt": "Hydralazine \u2192 sodium/H\u2082O retention. Why?",
+    "choices": [
+      "Primary albumin loss",
+      "Direct ADH receptor blockade",
+      "Renal artery thrombosis",
+      "Compensatory sympathetic/RAAS activation"
+    ],
+    "correct": 3,
+    "note": "Hydralazine can lead to <strong>reflex sympathetic stimulation of RAAS</strong>, which results in increased sodium/H2O retention (edema).",
+    "explanation": "Arteriolar dilation \u2192 \u2193 BP \u2192 sympathetic/renin activation \u2192 aldosterone-mediated Na\u207a/water retention.",
+    "faKeys": [
+      "fa-hydralazine",
+      "fa-hf-raas"
+    ],
+    "hyKeys": [
+      "hy-hydralazine"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "hydralazine"
+    ],
+    "referenceNotes": [
+      "Mehlman directly covers vasodilation/reflex HR; First Aid lists fluid retention and supplies the RAAS diagram."
+    ]
+  },
+  {
+    "id": "cardio-alpha1-sbp",
+    "system": "Cardiovascular",
+    "prompt": "Selective \u03b11 agonist: systolic BP\u2026",
+    "choices": [
+      "Decreases",
+      "Increases",
+      "Always stays fixed",
+      "Becomes lower than venous pressure"
+    ],
+    "correct": 1,
+    "note": "A1 agonists: <strong>Systolic pressure = increased.</strong> Vasoconstriction leads to increased SVR.",
+    "explanation": "Arteriolar constriction \u2192 \u2191 SVR \u2192 \u2191 systolic BP.",
+    "faKeys": [
+      "fa-alpha-block",
+      "fa-sympathomimetics"
+    ],
+    "hyKeys": [
+      "hy-alpha1"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "phenylephrine"
+    ]
+  },
+  {
+    "id": "cardio-alpha1-dbp",
+    "system": "Cardiovascular",
+    "prompt": "Selective \u03b11 agonist: diastolic BP\u2026",
+    "choices": [
+      "Falls to zero",
+      "Decreases",
+      "Increases",
+      "Equals systolic BP"
+    ],
+    "correct": 2,
+    "note": "A1 agonists: <strong>Diastolic pressure = increased. Vasoconstriction.</strong>",
+    "explanation": "\u2191 Arteriolar resistance \u2192 slower diastolic runoff \u2192 \u2191 diastolic BP.",
+    "faKeys": [
+      "fa-alpha-block"
+    ],
+    "hyKeys": [
+      "hy-alpha1"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "phenylephrine"
+    ]
+  },
+  {
+    "id": "cardio-alpha1-hr",
+    "system": "Cardiovascular",
+    "prompt": "Selective \u03b11 agonist \u2192 \u2193 HR. Why?",
+    "choices": [
+      "Baroreceptor-mediated reflex bradycardia",
+      "Direct beta-1 blockade",
+      "SA node destruction",
+      "Reduced arterial baroreceptor firing"
+    ],
+    "correct": 0,
+    "note": "A1 agonists: <strong>HR = decreased due to reflex bradycardia.</strong>",
+    "explanation": "\u2191 BP \u2192 \u2191 baroreceptor firing \u2192 \u2191 vagal/\u2193 sympathetic output \u2192 \u2193 HR.",
+    "faKeys": [
+      "fa-alpha-block",
+      "fa-baroreflex"
+    ],
+    "hyKeys": [
+      "hy-alpha1"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "phenylephrine"
+    ]
+  },
+  {
+    "id": "cardio-alpha-block-orthostasis",
+    "system": "Cardiovascular",
+    "prompt": "\u03b11 blocker \u2192 orthostatic hypotension. Why?",
+    "choices": [
+      "Excess postural vasoconstriction",
+      "Complete loss of albumin",
+      "Increased red-cell destruction",
+      "Impaired compensatory vasoconstriction on standing"
+    ],
+    "correct": 3,
+    "note": "The baroreceptor response relies on a1 vasoconstriction to maintain BP. People on a1 antagonists can experience <strong>orthostatic hypotension</strong>.",
+    "explanation": "Standing \u2192 venous pooling; \u03b11 blockade blunts compensatory vasoconstriction \u2192 \u2193 venous return/BP.",
+    "faKeys": [
+      "fa-alpha-block",
+      "fa-baroreflex"
+    ],
+    "hyKeys": [],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "prazosin"
+    ],
+    "referenceNotes": [
+      "No direct alpha-1-antagonist/orthostasis passage located in HY Cardio. First Aid and the full drug scene directly cover it."
+    ]
+  },
+  {
+    "id": "cardio-pacemaker-tricuspid",
+    "system": "Cardiovascular",
+    "prompt": "Transvenous pacemaker lead can damage which valve?",
+    "choices": [
+      "Aortic",
+      "Tricuspid",
+      "Pulmonic",
+      "Mitral"
+    ],
+    "correct": 1,
+    "note": "Pacemakers can sometimes damage the <strong>tricuspid valve</strong> and lead to regurg.",
+    "explanation": "RV lead crosses the tricuspid valve \u2192 leaflet interference/injury \u2192 TR.",
+    "faKeys": [
+      "fa-tr",
+      "fa-circulation"
+    ],
+    "hyKeys": [
+      "hy-tr"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "The uploaded passages cover TR/anatomy, not the pacemaker-lead mechanism. That link comes from the journal."
+    ],
+    "verification": [
+      {
+        "title": "Pacemaker lead-induced tricuspid regurgitation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8105248/"
+      }
+    ]
+  },
+  {
+    "id": "cardio-tr-systemic-congestion",
+    "system": "Cardiovascular",
+    "prompt": "TR \u2192 ascites and liver congestion. Why?",
+    "choices": [
+      "Reduced left atrial pressure",
+      "Decreased systemic venous pressure",
+      "Backflow raises right atrial/systemic venous pressure",
+      "Increased pulmonary venous oxygen"
+    ],
+    "correct": 2,
+    "note": "Tricuspid regurg ... shows up in the <strong>systemic circulation (fluid overload, ascites, liver issues)</strong>.",
+    "explanation": "RV-to-RA systolic backflow \u2192 \u2191 systemic venous pressure \u2192 hepatic congestion/ascites.",
+    "faKeys": [
+      "fa-tr",
+      "fa-rhf"
+    ],
+    "hyKeys": [
+      "hy-tr"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": []
+  },
+  {
+    "id": "cardio-hcm-inheritance",
+    "system": "Cardiovascular",
+    "prompt": "Sarcomeric hypertrophic cardiomyopathy: inheritance?",
+    "choices": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked recessive",
+      "Mitochondrial"
+    ],
+    "correct": 0,
+    "note": "HCM histology = disorganized and interstitial fibrosis bc sarcomeres are fked up. <strong>Autosomal dominant.</strong>",
+    "explanation": "Sarcomeric protein mutations \u2192 autosomal dominant HCM with variable expression.",
+    "faKeys": [
+      "fa-hcm"
+    ],
+    "hyKeys": [
+      "hy-hocm"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": []
+  },
+  {
+    "id": "cardio-bb-glucagon",
+    "system": "Cardiovascular",
+    "prompt": "Beta-blocker toxicity: what increases cAMP independently of \u03b2 receptors?",
+    "choices": [
+      "Aldosterone",
+      "Insulin",
+      "ADH at V1 receptors",
+      "Glucagon"
+    ],
+    "correct": 3,
+    "note": "Beta blocker antidote = <strong>glucagon, which increases cAMP independently of beta-1</strong> (bypassing the blockade).",
+    "explanation": "Glucagon receptor \u2192 Gs \u2192 adenylyl cyclase \u2192 \u2191 cAMP despite \u03b2 blockade. It is an adjunct in severe toxicity.",
+    "faKeys": [
+      "fa-bb-tox"
+    ],
+    "hyKeys": [
+      "hy-glucagon-review"
+    ],
+    "journalPage": 3,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "glucagon",
+      "beta-blockers"
+    ],
+    "referenceNotes": [
+      "Mehlman match is a complete unboxed review bullet. Severe overdose requires additional resuscitative therapy; this question tests the receptor bypass."
+    ]
+  },
+  {
+    "id": "cardio-mi-collagen-early",
+    "system": "Cardiovascular",
+    "prompt": "Early granulation tissue: which collagen type?",
+    "choices": [
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type VII"
+    ],
+    "correct": 1,
+    "note": "Initial MI = <strong>Type III collagen</strong> up to one week due to granulation tissue, Late MI (after 2 weeks) you get a scar = Type I.",
+    "explanation": "Early repair deposits type III collagen, later replaced by type I. Immediate MI causes necrosis; granulation tissue develops over subsequent days.",
+    "faKeys": [
+      "fa-wound",
+      "fa-mi-evolution"
+    ],
+    "hyKeys": [],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "Journal timing corrected: type III is early repair, not the immediate infarct. No direct collagen-type passage found in HY Cardio."
+    ]
+  },
+  {
+    "id": "cardio-mi-collagen-late",
+    "system": "Cardiovascular",
+    "prompt": "Mature myocardial scar: predominant collagen?",
+    "choices": [
+      "Type II",
+      "Type III",
+      "Type I",
+      "Type IV"
+    ],
+    "correct": 2,
+    "note": "Initial MI = Type III collagen ... Late MI ... scar = <strong>Type I</strong>.",
+    "explanation": "Remodeling replaces type III with stronger type I collagen. Scar maturation continues for weeks to months.",
+    "faKeys": [
+      "fa-wound",
+      "fa-mi-evolution"
+    ],
+    "hyKeys": [],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "A scar is not fully mature at a rigid two-week cutoff. No direct collagen-type passage found in HY Cardio."
+    ]
+  },
+  {
+    "id": "cardio-mi-healing-timing",
+    "system": "Cardiovascular",
+    "prompt": "Post-MI granulation tissue becomes prominent around\u2026",
+    "choices": [
+      "1\u20132 weeks",
+      "The first 5 minutes",
+      "The first hour",
+      "Only after 1 year"
+    ],
+    "correct": 0,
+    "note": "Initial MI = Type III collagen up to one week due to <strong>granulation tissue</strong> ...",
+    "explanation": "Macrophages clear necrosis first; vascular granulation tissue follows, prominent around 1\u20132 weeks. Mature scar forms later.",
+    "faKeys": [
+      "fa-mi-evolution",
+      "fa-wound"
+    ],
+    "hyKeys": [],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "First Aid groups macrophages then marginal granulation tissue within days 3\u201314. No exact timing passage found in HY Cardio."
+    ],
+    "verification": [
+      {
+        "title": "MI histopathology and timing",
+        "url": "https://doi.org/10.1177/2374289520976639"
+      }
+    ]
+  },
+  {
+    "id": "cardio-birth-svr",
+    "system": "Cardiovascular",
+    "prompt": "Cord clamping \u2192 \u2191 SVR. Why?",
+    "choices": [
+      "Pulmonary arterioles close",
+      "Blood viscosity becomes zero",
+      "Placental flow increases",
+      "Low-resistance placental circuit is removed"
+    ],
+    "correct": 3,
+    "note": "SVR is low for fetus bc the placenta is a huge low resistance circulation bed. After birth, <strong>SVR increases bc we clamp the placenta</strong>.",
+    "explanation": "Removing the parallel placental vascular bed \u2192 \u2191 systemic resistance.",
+    "faKeys": [
+      "fa-fetal"
+    ],
+    "hyKeys": [
+      "hy-pda"
+    ],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "Mehlman provides fetal/postnatal shunt context; its PDA box does not directly state the cord-clamping/SVR mechanism."
+    ]
+  },
+  {
+    "id": "cardio-isoproterenol-receptor",
+    "system": "Cardiovascular",
+    "prompt": "Isoproterenol stimulates which receptors?",
+    "choices": [
+      "\u03b11 and \u03b12",
+      "\u03b21 and \u03b22",
+      "\u03b21 only",
+      "Muscarinic M2"
+    ],
+    "correct": 1,
+    "note": "Isoproterenol (beta blocker): second-line for severe bradycardia refractory to adenosine. <strong>Correction: \u03b21/\u03b22 agonist.</strong>",
+    "explanation": "Isoproterenol is a \u03b2 agonist \u2192 \u2191 HR and \u2193 SVR. Adenosine treats certain tachycardias; atropine is the initial drug for symptomatic bradycardia.",
+    "faKeys": [
+      "fa-sympathomimetics"
+    ],
+    "hyKeys": [
+      "hy-isoproterenol"
+    ],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "isoproterenol"
+    ],
+    "verification": [
+      {
+        "title": "AHA adult bradycardia algorithm",
+        "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms"
+      }
+    ],
+    "referenceNotes": [
+      "The journal reverses agonist/blocker and confuses adenosine with atropine. Atropine failure typically prompts pacing and/or dopamine/epinephrine in the AHA algorithm."
+    ]
+  },
+  {
+    "id": "cardio-afib-remodeling",
+    "system": "Cardiovascular",
+    "prompt": "\u201cAF begets AF.\u201d Why?",
+    "choices": [
+      "AF prevents all fibrosis",
+      "AF permanently lowers atrial pressure",
+      "Electrical and structural atrial remodeling",
+      "AF eliminates atrial ectopic activity"
+    ],
+    "correct": 2,
+    "note": "<strong>\u201cAfib begets Afib\u201d - AFib \u2192 remodeling \u2192 progressive AFib</strong>; Age and HTN are also risk factors.",
+    "explanation": "Persistent rapid atrial activation \u2192 electrical remodeling; dilation/fibrosis further favor recurrent AF.",
+    "faKeys": [
+      "fa-af"
+    ],
+    "hyKeys": [
+      "hy-af"
+    ],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "referenceNotes": [
+      "Uploaded FA/Mehlman cover AF recognition/structural predisposition; they do not directly explain \u201cAF begets AF.\u201d",
+      "The complete Mehlman box contains older management shorthand. This question tests AF mechanisms/risk, not its anticoagulation or treatment algorithm."
+    ],
+    "verification": [
+      {
+        "title": "2023 ACC/AHA/ACCP/HRS atrial fibrillation guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001193"
+      }
+    ]
+  },
+  {
+    "id": "cardio-afib-risk",
+    "system": "Cardiovascular",
+    "prompt": "Older adult: which common condition predisposes to AF?",
+    "choices": [
+      "Hypertension",
+      "Isolated myopia",
+      "Uncomplicated eczema",
+      "Appendicitis"
+    ],
+    "correct": 0,
+    "note": "Afib ... <strong>Age and HTN are also risk factors.</strong>",
+    "explanation": "Chronic HTN \u2192 LV hypertrophy/diastolic dysfunction \u2192 atrial pressure/stretch \u2192 AF risk.",
+    "faKeys": [
+      "fa-htn-af",
+      "fa-af"
+    ],
+    "hyKeys": [
+      "hy-af"
+    ],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "verification": [
+      {
+        "title": "2023 ACC/AHA/ACCP/HRS atrial fibrillation guideline",
+        "url": "https://doi.org/10.1161/CIR.0000000000001193"
+      }
+    ],
+    "referenceNotes": [
+      "The complete Mehlman box contains older management shorthand. This question tests AF mechanisms/risk, not its anticoagulation or treatment algorithm."
+    ]
+  },
+  {
+    "id": "cardio-statin-enzyme",
+    "system": "Cardiovascular",
+    "prompt": "Statins inhibit which enzyme?",
+    "choices": [
+      "Lipoprotein lipase",
+      "Hormone-sensitive lipase",
+      "Pancreatic lipase",
+      "HMG-CoA reductase"
+    ],
+    "correct": 3,
+    "note": "Statins: <strong>MOA: HMG-CoA reductase inhibitors.</strong>",
+    "explanation": "Inhibit rate-limiting hepatic cholesterol synthesis \u2192 \u2193 intracellular cholesterol \u2192 \u2191 LDL receptors.",
+    "faKeys": [
+      "fa-lipid-agents"
+    ],
+    "hyKeys": [
+      "hy-statins"
+    ],
+    "journalPage": 4,
+    "batch": 4,
+    "more": [],
+    "drugTerms": [
+      "statins"
+    ],
+    "referenceNotes": [
+      "Older statin-treatment cutoffs in the complete Mehlman box are historical exam shorthand; this question tests mechanism."
+    ]
+  }
+]
