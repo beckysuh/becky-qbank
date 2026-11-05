@@ -33,3 +33,6 @@ No outstanding cardio additions. User intends to add more Mehlman PDFs and event
 
 ## Version history / portability
 Local Git baseline covers code, authored data, documentation and mappings, not ignored resources or generated output. No remote/push authorized. To move machines: copy the complete project including ignored assets, export browser progress separately, then import it into the reopened Qbank. Local Git alone does not back up your answers or the image bundle.
+
+## GitHub Pages preparation — 2026-11-05
+The user authorized a public hosted copy with the same embedded screenshots. The original project is connected to https://github.com/beckysuh/qbank.git on master. Prepared tracked docs/index.html and docs/.nojekyll using work/prepare-pages.py; the HTML is byte-identical to the existing local app. The user explicitly said “let me push”: leave commit/push and GitHub Pages settings to them. No deployment/live URL has been verified. Expected Pages URL is https://beckysuh.github.io/qbank/ after Settings → Pages → Deploy from a branch → master /docs. Local and hosted answer history are separate origins; use Export/Import. Original PDFs, separate image assets and backups remain local; compiled docs/index.html is now an explicit exception to the old generated-artifact exclusion.

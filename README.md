@@ -45,3 +45,15 @@ GitHub may later hold the tracked subset in a private repository, after user aut
 
 ## Progress format
 JSON envelope: `format: "becky-qbank-progress"`, `version: 1`, export timestamp, `state` with history, saved session and preferred source. Import replaces rather than merges, with a preview/confirmation. Unknown history IDs remain preserved for future banks; a saved test containing unavailable IDs is skipped. Invalid files or failed browser writes leave current state unchanged. The storage key remains `personal-qbank-v1`.
+
+## GitHub Pages (authorized public Qbank)
+
+Existing remote: https://github.com/beckysuh/qbank.git; current branch: master. The user wants to push using GitHub Desktop. Do not push automatically.
+
+The user explicitly chose a public interactive copy, including embedded resource screenshots. This changes the earlier default that excluded all generated HTML: `docs/index.html` is now tracked for publishing. Original PDFs, separate image files, other generated HTML and personal progress exports remain excluded.
+
+After the normal build/check commands, run `python3 work/prepare-pages.py`. It makes an identical copy of the local app at `docs/index.html` and creates `docs/.nojekyll`. Commit/review the changes in GitHub Desktop and Push origin. On GitHub: Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: master → Folder: /docs → Save. If repository plan/visibility prevents Pages, GitHub will display that in Settings; the prepared files alone do not make a live site.
+
+Expected URL after successful publishing: https://beckysuh.github.io/qbank/ . Confirm the Pages success status and actual URL before claiming it is live. No workflow, browser operation, external push or settings change was performed by the agent during preparation.
+
+Online progress is separate from the local file's browser storage. Export from the local Qbank and Import on the hosted page to carry answers over.

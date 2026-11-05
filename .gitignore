@@ -33,3 +33,5 @@
 !/outputs/
 /outputs/*
 !/outputs/becky-qbank-project-guide.md
+
+!/work/prepare-pages.py
